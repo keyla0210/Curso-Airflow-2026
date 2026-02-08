@@ -1,8 +1,7 @@
 import sys
 from pathlib import Path
 import pendulum
-from airflow import DAG
-from airflow.operators.python import PythonOperator
+from airflow.decorators import dag, task
 
 
 PROJECT_ROOT = "/opt/airflow/"
@@ -77,54 +76,53 @@ EPISODES_PARAMS ={
     "output_path": str(FACT_EPISODES_PATH),
 }
 
-with DAG(
-
+@dag(
     dag_id="elt_medallon",
     schedule="0 5 * * *",
-    start_date=pendulum.datetime(2025, 10, 10, tz=BOGOTA_TZ),
+    start_date=pendulum.datetime(2025, 10, 18, tz=BOGOTA_TZ),
     catchup=False,
     tags=["elt", "api"],
-) as dag:
-    ingest_task = PythonOperator(
-        task_id="ingest_to_raw",
-        python_callable=ingest_to_raw,
-        op_kwargs=INGEST_PARAMS,
-    )
+)
 
-    bronze_task = PythonOperator(
-        task_id="copy_raw_to_bronze",
-        python_callable=copy_raw_to_bronze,
-        op_kwargs=BRONZE_PARAMS,
-    )
+def elt_medallon_dag():
 
-    silver_task = PythonOperator(
-        task_id="transform_bronze_to_silver",
-        python_callable=transform_bronze_to_silver,
-        op_kwargs=SILVER_PARAMS,
-    )
+    @task()
+    def ingest():
+        return ingest_to_raw(**INGEST_PARAMS)
+    
+    @task()
+    def bronze():
+        return copy_raw_to_bronze(**BRONZE_PARAMS)
+    
+    @task()
+    def silver():   
+        return transform_bronze_to_silver(**SILVER_PARAMS)  
+    
+    @task()
+    def dim_time():  
+        return build_dim_time(**DIM_TIME_PARAMS)
+    
+    @task()
+    def dim_shows():  
+        return build_dim_shows(**DIM_SHOW_PARAMS)
+    
+    @task()
+    def dim_networks():  
+        return build_dim_networks(**DIM_NETWORK_PARAMS)
+    
+    @task()
+    def fact_episodes():          
+        return build_fact_episodes(**EPISODES_PARAMS)
+    
+    #Orquestación
+    i = ingest()
+    b = bronze()
+    s = silver()  
+    time = dim_time()
+    show = dim_shows()  
+    network = dim_networks()
+    episodes = fact_episodes()
 
-    time_task = PythonOperator(
-        task_id="dim_time",
-        python_callable=build_dim_time,
-        op_kwargs=DIM_TIME_PARAMS,
-    )
-
-    show_task = PythonOperator(
-        task_id="dim_show",
-        python_callable=build_dim_shows,
-        op_kwargs=DIM_SHOW_PARAMS,
-    )
-
-    network_task = PythonOperator(
-        task_id="dim_network",
-        python_callable=build_dim_networks,
-        op_kwargs=DIM_NETWORK_PARAMS,
-    )
-
-    episodes_task = PythonOperator(
-        task_id="fact_episodes",
-        python_callable=build_fact_episodes,
-        op_kwargs=EPISODES_PARAMS,
-    )
-
-    ingest_task >> bronze_task >> silver_task >> [time_task, show_task, network_task] >> episodes_task   
+    i >>  b >> s >> [time, show, network] >> episodes
+    
+elt_medallon = elt_medallon_dag()                           

@@ -1,0 +1,494 @@
+{
+  "name": "Dev-Base-de-conocimientos-sitio-de-contenido-MEJORADO",
+  "nodes": [
+    {
+      "parameters": {
+        "respondWith": "allIncomingItems",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.5,
+      "position": [
+        960,
+        300
+      ],
+      "id": "8bcf2821-b3d4-4c07-828a-062425e670ee",
+      "name": "Reply Success"
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "general-information",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        -1200,
+        300
+      ],
+      "id": "55575f63-2884-48c9-b12f-a2bd61a85caf",
+      "name": "Webhook",
+      "webhookId": "3e5f8be4-f46d-4b61-923a-aacf1d2f514d"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ============================================\n// VALIDACIÓN DE INPUTS\n// ============================================\n\nconst body = $input.item.json.body || {};\nconst headers = $input.item.json.headers || {};\n\n// Validar que existe Authorization header\nif (!headers.authorization) {\n  throw new Error(JSON.stringify({\n    error: \"UNAUTHORIZED\",\n    message: \"Token de autorización requerido\",\n    code: 401\n  }));\n}\n\n// Validar userQuery\nif (!body.userQuery || typeof body.userQuery !== 'string') {\n  throw new Error(JSON.stringify({\n    error: \"INVALID_INPUT\",\n    message: \"userQuery es requerido y debe ser string\",\n    code: 400\n  }));\n}\n\n// Validar longitud mínima\nif (body.userQuery.trim().length < 3) {\n  throw new Error(JSON.stringify({\n    error: \"INVALID_INPUT\",\n    message: \"userQuery debe tener al menos 3 caracteres\",\n    code: 400\n  }));\n}\n\n// Validar topK si existe\nif (body.topK && !Number.isInteger(Number(body.topK))) {\n  throw new Error(JSON.stringify({\n    error: \"INVALID_INPUT\",\n    message: \"topK debe ser un número entero\",\n    code: 400\n  }));\n}\n\n// Sanitizar y limpiar inputs\nconst sanitizedQuery = body.userQuery\n  .trim()\n  .substring(0, 500) // Límite de caracteres\n  .replace(/[<>]/g, ''); // Prevenir XSS básico\n\nconst validatedTopK = Math.min(Math.max(Number(body.topK || 10), 1), 50); // Entre 1 y 50\n\n// Log de entrada\nconsole.log(\"[INPUT_VALIDATION]\", {\n  timestamp: new Date().toISOString(),\n  status: \"SUCCESS\",\n  queryLength: sanitizedQuery.length,\n  topK: validatedTopK,\n  ip: headers['x-forwarded-for'] || 'unknown'\n});\n\nreturn {\n  json: {\n    validated: {\n      userQuery: sanitizedQuery,\n      topK: validatedTopK\n    },\n    original_body: body,\n    headers: headers\n  }\n};"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -1000,
+        300
+      ],
+      "id": "validate-input-001",
+      "name": "1. Validate Input"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ============================================\n// VALIDACIÓN INICIAL DEL TOKEN JWT\n// ============================================\n\nconst authHeader = $input.item.json.headers.authorization;\n\n// Validar formato Bearer\nif (!authHeader.startsWith('Bearer ')) {\n  throw new Error(JSON.stringify({\n    error: \"INVALID_TOKEN_FORMAT\",\n    message: \"Token debe tener formato 'Bearer <token>'\",\n    code: 401\n  }));\n}\n\nconst token = authHeader.split(' ')[1];\n\n// Validar que el token existe después de Bearer\nif (!token || token.trim() === '') {\n  throw new Error(JSON.stringify({\n    error: \"EMPTY_TOKEN\",\n    message: \"Token vacío o inválido\",\n    code: 401\n  }));\n}\n\n// Validar estructura JWT (3 partes separadas por .)\nconst parts = token.split('.');\nif (parts.length !== 3) {\n  throw new Error(JSON.stringify({\n    error: \"MALFORMED_TOKEN\",\n    message: \"Formato JWT inválido - debe tener 3 partes\",\n    code: 401\n  }));\n}\n\n// Decodificar payload con manejo de errores\nlet payload;\ntry {\n  const base64Payload = parts[1];\n  const decodedPayload = Buffer.from(base64Payload, 'base64').toString('utf8');\n  payload = JSON.parse(decodedPayload);\n} catch (error) {\n  throw new Error(JSON.stringify({\n    error: \"CORRUPTED_TOKEN\",\n    message: \"Token JWT corrupto o no decodificable\",\n    code: 401,\n    details: error.message\n  }));\n}\n\n// CONFIGURACIÓN DE SEGURIDAD\nconst myAppId = 'b7e2a390-f9a2-41fe-9376-491c56dbbbd0';\nconst myTenantId = '428f4e2e-13bf-4884-b364-02ef9af41a1d';\n\n// 1. Validar Audience (aud)\nconst validAudiences = [myAppId, `api://${myAppId}`];\nif (!validAudiences.includes(payload.aud)) {\n  throw new Error(JSON.stringify({\n    error: \"INVALID_AUDIENCE\",\n    message: \"El token no es para esta API\",\n    code: 403,\n    expected: validAudiences,\n    received: payload.aud\n  }));\n}\n\n// 2. Validar Issuer (iss)\nconst validIssuers = [\n  `https://login.microsoftonline.com/${myTenantId}/v2.0`,\n  `https://sts.windows.net/${myTenantId}/`\n];\n\nconst isValidIssuer = validIssuers.some(issuer => payload.iss === issuer);\nif (!isValidIssuer) {\n  throw new Error(JSON.stringify({\n    error: \"INVALID_ISSUER\",\n    message: \"El token no pertenece al Tenant esperado\",\n    code: 403,\n    expected: validIssuers,\n    received: payload.iss\n  }));\n}\n\n// 3. Validar expiración (exp)\nconst now = Math.floor(Date.now() / 1000);\nif (!payload.exp) {\n  throw new Error(JSON.stringify({\n    error: \"MISSING_EXPIRATION\",\n    message: \"Token sin fecha de expiración\",\n    code: 401\n  }));\n}\n\nif (payload.exp < now) {\n  throw new Error(JSON.stringify({\n    error: \"TOKEN_EXPIRED\",\n    message: \"El token ha expirado\",\n    code: 401,\n    expired_at: new Date(payload.exp * 1000).toISOString(),\n    current_time: new Date(now * 1000).toISOString()\n  }));\n}\n\n// 4. Validar nbf (Not Before)\nif (payload.nbf && payload.nbf > now) {\n  throw new Error(JSON.stringify({\n    error: \"TOKEN_NOT_YET_VALID\",\n    message: \"El token aún no es válido\",\n    code: 401,\n    valid_from: new Date(payload.nbf * 1000).toISOString()\n  }));\n}\n\n// 5. Validar scopes (si existen)\nif (payload.scp) {\n  const scopes = payload.scp.split(' ');\n  console.log(\"[TOKEN_SCOPES]\", scopes);\n}\n\n// Log exitoso\nconsole.log(\"[TOKEN_VALIDATION]\", {\n  timestamp: new Date().toISOString(),\n  status: \"INITIAL_VALIDATION_PASSED\",\n  user: payload.preferred_username || payload.upn || payload.unique_name,\n  appId: payload.azp || payload.appid,\n  expiresIn: payload.exp - now\n});\n\nreturn {\n  json: {\n    token: token,\n    payload: payload,\n    validated: $input.item.json.validated,\n    validation_step: \"INITIAL_JWT_VALIDATION\"\n  }\n};"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -800,
+        300
+      ],
+      "id": "validate-jwt-001",
+      "name": "2. Validate JWT Structure"
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "https://graph.microsoft.com/v1.0/me",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "=Bearer {{$json.token}}"
+            },
+            {
+              "name": "ConsistencyLevel",
+              "value": "eventual"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 10000,
+          "retry": {
+            "enabled": true,
+            "maxRetries": 2,
+            "waitBetween": 500
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        -600,
+        300
+      ],
+      "id": "msgraph-validate-001",
+      "name": "3. Validate Token with MS Graph"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ============================================\n// PROCESAMIENTO DE RESPUESTA DE MS GRAPH\n// ============================================\n\nconst graphResponse = $input.item.json;\nconst previousData = $input.item.json;\n\n// Validar que MS Graph respondió correctamente\nif (!graphResponse.id || !graphResponse.userPrincipalName) {\n  throw new Error(JSON.stringify({\n    error: \"MSGRAPH_VALIDATION_FAILED\",\n    message: \"Microsoft Graph no pudo validar el token\",\n    code: 401\n  }));\n}\n\n// Log de validación exitosa\nconsole.log(\"[MSGRAPH_VALIDATION]\", {\n  timestamp: new Date().toISOString(),\n  status: \"TOKEN_VALIDATED_BY_MSGRAPH\",\n  user: graphResponse.userPrincipalName,\n  displayName: graphResponse.displayName,\n  userId: graphResponse.id\n});\n\nreturn {\n  json: {\n    validated: previousData.validated,\n    user_info: {\n      id: graphResponse.id,\n      userPrincipalName: graphResponse.userPrincipalName,\n      displayName: graphResponse.displayName,\n      mail: graphResponse.mail || graphResponse.userPrincipalName\n    },\n    token_validated: true,\n    validation_method: \"MICROSOFT_GRAPH\"\n  }\n};"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -400,
+        300
+      ],
+      "id": "process-msgraph-001",
+      "name": "4. Process MS Graph Response"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "d1eb9dd5-b697-45ce-9c27-b193a3c29a21",
+              "name": "userQuery",
+              "value": "={{ $json.validated.userQuery }}",
+              "type": "string"
+            },
+            {
+              "id": "4a1fbdb4-0c99-4c82-85b3-77dbf0fbd6a5",
+              "name": "topK",
+              "value": "={{ $json.validated.topK }}",
+              "type": "number"
+            },
+            {
+              "id": "1be51016-e1a7-4cc2-953a-00eaedefd3ad",
+              "name": "system__message_to_speak",
+              "value": "Estoy buscando tu consulta, dame un momento",
+              "type": "string"
+            },
+            {
+              "id": "user-info-001",
+              "name": "user_id",
+              "value": "={{ $json.user_info.id }}",
+              "type": "string"
+            },
+            {
+              "id": "user-email-001",
+              "name": "user_email",
+              "value": "={{ $json.user_info.userPrincipalName }}",
+              "type": "string"
+            }
+          ]
+        },
+        "includeOtherFields": false,
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -200,
+        300
+      ],
+      "id": "d260e79c-db8f-4ee0-b1f2-ff6a17b2d8ee",
+      "name": "5. Prepare KB Request"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://informacion-int-qa.apps.ambientesbc.com/mcp-server/knowledge-base-retrieval/v1/mcp",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "oAuth2Api",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Accept",
+              "value": "application/json, text/event-stream"
+            },
+            {
+              "name": "X-User-Id",
+              "value": "={{$json.user_id}}"
+            },
+            {
+              "name": "X-User-Email",
+              "value": "={{$json.user_email}}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{({\n  jsonrpc: \"2.0\",\n  id: Date.now(),\n  method: \"tools/call\",\n  params: {\n    name: \"knowledgeBancolombiaSitioDeContenidoUC\",\n    arguments: {\n      topK: Number($json.topK),\n      userQuery: String($json.userQuery)\n    }\n  }\n})}}",
+        "options": {
+          "timeout": 30000,
+          "retry": {
+            "enabled": true,
+            "maxRetries": 3,
+            "waitBetween": 1000
+          },
+          "response": {
+            "response": {
+              "fullResponse": true,
+              "neverError": false
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        40,
+        300
+      ],
+      "id": "36a4855e-d7c7-4b94-992f-b475a56b1e0b",
+      "name": "6. HTTP Request to Knowledge Base",
+      "credentials": {
+        "oAuth2Api": {
+          "id": "0R4ZI92qtFHqn7aj",
+          "name": "AWS Cognito"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// ============================================\n// LOG DE RESPUESTA KB\n// ============================================\n\nconst response = $input.item.json;\n\nconsole.log(\"[KB_RESPONSE]\", {\n  timestamp: new Date().toISOString(),\n  status: response.statusCode || 'unknown',\n  hasBody: !!response.body,\n  contentType: response.headers?.['content-type']\n});\n\nreturn $input.all();"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        240,
+        300
+      ],
+      "id": "log-kb-response-001",
+      "name": "7. Log KB Response"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ============================================\n// LIMPIEZA Y VALIDACIÓN DE DATOS\n// ============================================\n\nlet response;\ntry {\n  response = $input.item.json;\n  \n  // Si viene con estructura de HTTP Response completo\n  if (response.body) {\n    response = typeof response.body === 'string' \n      ? JSON.parse(response.body) \n      : response.body;\n  }\n} catch (err) {\n  console.error(\"[CLEAN_DATA_ERROR] Failed to parse response:\", err);\n  return [{\n    json: {\n      no_results: true,\n      speech: \"Error procesando respuesta del servidor. Por favor, intenta nuevamente.\",\n      error: true,\n      error_code: \"RESPONSE_PARSE_ERROR\",\n      error_detail: err.message\n    }\n  }];\n}\n\n// Validar estructura de respuesta\nconst blocks = response?.result?.content || response?.content || [];\n\nif (!Array.isArray(blocks)) {\n  console.error(\"[CLEAN_DATA_ERROR] Invalid response structure - blocks not array:\", typeof blocks);\n  return [{\n    json: {\n      no_results: true,\n      speech: \"Formato de respuesta inválido del servidor de conocimiento.\",\n      error: true,\n      error_code: \"INVALID_RESPONSE_STRUCTURE\"\n    }\n  }];\n}\n\n// Extraer texto\nconst textBlock = blocks.find(b => b?.type === \"text\");\nif (!textBlock || !textBlock.text) {\n  console.warn(\"[CLEAN_DATA_WARNING] No text block found in response\");\n  return [{\n    json: {\n      no_results: true,\n      speech: \"No se encontró información en la base de conocimiento para tu consulta.\",\n      follow_up: \"¿Podrías reformular tu pregunta o ser más específico?\"\n    }\n  }];\n}\n\nconst raw = textBlock.text.trim();\n\n// Parsear hits con manejo de errores\nlet hits = [];\ntry {\n  if (raw) {\n    hits = JSON.parse(raw);\n  }\n} catch (err) {\n  console.error(\"[CLEAN_DATA_ERROR] JSON parse error for hits:\", err);\n  // Intentar usar el texto raw directamente\n  return [{\n    json: {\n      no_results: false,\n      speech: raw.substring(0, 2000), // Limitar a 2000 chars\n      source: \"raw_text\",\n      warning: \"Respuesta en formato no estructurado\"\n    }\n  }];\n}\n\n// Validar que hits es un array\nif (!Array.isArray(hits)) {\n  console.error(\"[CLEAN_DATA_ERROR] Hits is not an array:\", typeof hits);\n  return [{\n    json: {\n      no_results: true,\n      speech: \"Error en el formato de los resultados de búsqueda.\",\n      error: true,\n      error_code: \"INVALID_HITS_FORMAT\"\n    }\n  }];\n}\n\n// Verificar si hay resultados\nif (hits.length === 0) {\n  console.info(\"[CLEAN_DATA_INFO] No results found for query\");\n  return [{\n    json: {\n      no_results: true,\n      speech: \"En este momento no encuentro esa información en el sitio oficial de contenidos de Bancolombia.\",\n      follow_up: \"¿Me confirmas el producto o trámite exacto para buscarlo mejor?\"\n    }\n  }];\n}\n\n// Procesar y limpiar todos los resultados\nconst processedHits = hits\n  .filter(h => h && h.text) // Filtrar hits inválidos\n  .map(h => ({\n    text: h.text,\n    score: h.score || 0,\n    metadata: h.metadata || {}\n  }));\n\nif (processedHits.length === 0) {\n  return [{\n    json: {\n      no_results: true,\n      speech: \"Los resultados encontrados no contienen información válida.\",\n      follow_up: \"¿Puedes intentar con otros términos de búsqueda?\"\n    }\n  }];\n}\n\n// Unir TODOS los textos de los resultados\nlet combinedText = processedHits\n  .map(h => h.text)\n  .join(\"\\n\\n\");\n\n// Limpieza del texto\ncombinedText = combinedText\n  .replace(/\\$\\{[^}]+\\}/g, \"\")                    // ${title}, ${loading}, etc.\n  .replace(/<script[^>]*>.*?<\\/script>/gi, \"\")    // Scripts\n  .replace(/<[^>]+>/g, \"\")                         // HTML tags\n  .replace(/\\s+/g, \" \")                            // Normalizar espacios\n  .trim();\n\n// Validar que quedó contenido después de limpiar\nif (!combinedText || combinedText.length < 10) {\n  return [{\n    json: {\n      no_results: true,\n      speech: \"Los resultados encontrados no contienen información útil después del procesamiento.\",\n      follow_up: \"¿Necesitas ayuda con otro tema?\"\n    }\n  }];\n}\n\n// Agregar punto final si no existe\nif (!/[.!?]$/.test(combinedText)) {\n  combinedText += \".\";\n}\n\n// Log exitoso\nconsole.log(\"[CLEAN_DATA_SUCCESS]\", {\n  timestamp: new Date().toISOString(),\n  hits_count: processedHits.length,\n  text_length: combinedText.length,\n  avg_score: processedHits.reduce((sum, h) => sum + h.score, 0) / processedHits.length\n});\n\nreturn [{\n  json: {\n    no_results: false,\n    speech: combinedText,\n    follow_up: \"\",\n    metadata: {\n      hits_count: processedHits.length,\n      scores: processedHits.map(h => h.score),\n      sources: processedHits.map(h => h.metadata)\n    }\n  }\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        440,
+        300
+      ],
+      "id": "74312cd3-a894-449b-afb8-233b0e72461f",
+      "name": "8. Clean and Validate Data"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ============================================\n// LOG FINAL\n// ============================================\n\nconst result = $input.item.json;\n\nconsole.log(\"[FINAL_RESPONSE]\", {\n  timestamp: new Date().toISOString(),\n  status: \"SUCCESS\",\n  has_results: !result.no_results,\n  response_type: result.no_results ? 'NO_RESULTS' : 'RESULTS_FOUND',\n  text_length: result.speech?.length || 0\n});\n\nreturn $input.all();"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        720,
+        300
+      ],
+      "id": "log-final-001",
+      "name": "9. Log Final Response"
+    },
+    {
+      "parameters": {
+        "respondWith": "allIncomingItems",
+        "options": {
+          "responseCode": "={{ $json.error_code === 'UNAUTHORIZED' || $json.error_code === 'INVALID_TOKEN_FORMAT' || $json.error_code === 'EMPTY_TOKEN' || $json.error_code === 'MALFORMED_TOKEN' || $json.error_code === 'CORRUPTED_TOKEN' || $json.error_code === 'TOKEN_EXPIRED' || $json.error_code === 'TOKEN_NOT_YET_VALID' || $json.error_code === 'MSGRAPH_VALIDATION_FAILED' ? 401 : ($json.error_code === 'INVALID_AUDIENCE' || $json.error_code === 'INVALID_ISSUER' ? 403 : 400) }}",
+          "responseHeaders": {
+            "entries": [
+              {
+                "name": "Content-Type",
+                "value": "application/json"
+              }
+            ]
+          }
+        }
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.5,
+      "position": [
+        -400,
+        600
+      ],
+      "id": "error-response-001",
+      "name": "Reply Error"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ============================================\n// ERROR HANDLER\n// ============================================\n\nconst error = $input.item.json.error || {};\nconst errorMessage = error.message || JSON.stringify(error);\n\nlet parsedError;\ntry {\n  // Intentar parsear si el error viene como JSON string\n  parsedError = JSON.parse(errorMessage);\n} catch {\n  // Si no es JSON, crear estructura de error genérica\n  parsedError = {\n    error: \"INTERNAL_ERROR\",\n    message: errorMessage.substring(0, 200),\n    code: 500\n  };\n}\n\n// Log del error\nconsole.error(\"[ERROR_HANDLER]\", {\n  timestamp: new Date().toISOString(),\n  error_type: parsedError.error || 'UNKNOWN',\n  error_code: parsedError.code || 500,\n  message: parsedError.message,\n  stack: error.stack?.substring(0, 500)\n});\n\nreturn {\n  json: {\n    success: false,\n    error_code: parsedError.error || 'INTERNAL_ERROR',\n    error_message: parsedError.message || 'Error interno del servidor',\n    http_code: parsedError.code || 500,\n    details: parsedError.details || null,\n    timestamp: new Date().toISOString()\n  }\n};"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -600,
+        600
+      ],
+      "id": "error-handler-001",
+      "name": "Error Handler"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ============================================\n// RATE LIMITING\n// ============================================\n\n// Este es un ejemplo básico. Para producción, usar Redis o similar\nconst headers = $input.item.json.headers || {};\nconst ip = headers['x-forwarded-for'] || headers['x-real-ip'] || 'unknown';\n\n// Por ahora solo logeamos, pero aquí se implementaría lógica de rate limit\nconsole.log(\"[RATE_LIMIT_CHECK]\", {\n  timestamp: new Date().toISOString(),\n  ip: ip,\n  path: '/general-information'\n});\n\n// TODO: Implementar contador de requests por IP\n// Si excede límite, lanzar error:\n// throw new Error(JSON.stringify({\n//   error: \"RATE_LIMIT_EXCEEDED\",\n//   message: \"Demasiadas solicitudes. Intenta nuevamente en unos minutos.\",\n//   code: 429\n// }));\n\nreturn $input.all();"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -1000,
+        500
+      ],
+      "id": "rate-limit-001",
+      "name": "Rate Limit Check",
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "jsCode": "// ============================================\n// HEALTH CHECK PARA KB API\n// ============================================\n\nconst kbResponse = $input.item.json;\n\n// Verificar que la respuesta del KB tiene estructura válida\nif (!kbResponse) {\n  throw new Error(JSON.stringify({\n    error: \"KB_API_DOWN\",\n    message: \"El servicio de Knowledge Base no respondió\",\n    code: 503\n  }));\n}\n\n// Verificar status code si viene en la respuesta\nif (kbResponse.statusCode && kbResponse.statusCode >= 500) {\n  throw new Error(JSON.stringify({\n    error: \"KB_API_ERROR\",\n    message: \"El servicio de Knowledge Base reportó un error\",\n    code: 503,\n    kb_status: kbResponse.statusCode\n  }));\n}\n\nconsole.log(\"[KB_HEALTH_CHECK]\", {\n  timestamp: new Date().toISOString(),\n  status: \"KB_API_HEALTHY\"\n});\n\nreturn $input.all();"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        240,
+        500
+      ],
+      "id": "kb-health-001",
+      "name": "KB Health Check"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "1. Validate Input",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "1. Validate Input": {
+      "main": [
+        [
+          {
+            "node": "Rate Limit Check",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "2. Validate JWT Structure",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Rate Limit Check": {
+      "main": [
+        []
+      ]
+    },
+    "2. Validate JWT Structure": {
+      "main": [
+        [
+          {
+            "node": "3. Validate Token with MS Graph",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "3. Validate Token with MS Graph": {
+      "main": [
+        [
+          {
+            "node": "4. Process MS Graph Response",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "4. Process MS Graph Response": {
+      "main": [
+        [
+          {
+            "node": "5. Prepare KB Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "5. Prepare KB Request": {
+      "main": [
+        [
+          {
+            "node": "6. HTTP Request to Knowledge Base",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "6. HTTP Request to Knowledge Base": {
+      "main": [
+        [
+          {
+            "node": "7. Log KB Response",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "KB Health Check",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "KB Health Check": {
+      "main": [
+        []
+      ]
+    },
+    "7. Log KB Response": {
+      "main": [
+        [
+          {
+            "node": "8. Clean and Validate Data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "8. Clean and Validate Data": {
+      "main": [
+        [
+          {
+            "node": "9. Log Final Response",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "9. Log Final Response": {
+      "main": [
+        [
+          {
+            "node": "Reply Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Error Handler": {
+      "main": [
+        [
+          {
+            "node": "Reply Error",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true,
+    "callerPolicy": "workflowsFromSameOwner",
+    "errorWorkflow": "",
+    "timezone": "America/Bogota",
+    "saveExecutionProgress": true,
+    "saveDataErrorExecution": "all",
+    "saveDataSuccessExecution": "all"
+  },
+  "versionId": "improved-v1.0.0",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "0c6d4fd95253a46ab2b3df4f50ca84205a50c9ffaa71f0a4c748d5f5b364467a"
+  },
+  "id": "nF0ZESrUqIxPpKPJ-MEJORADO",
+  "tags": [
+    {
+      "id": "security",
+      "name": "security"
+    },
+    {
+      "id": "production-ready",
+      "name": "production-ready"
+    }
+  ]
+}
