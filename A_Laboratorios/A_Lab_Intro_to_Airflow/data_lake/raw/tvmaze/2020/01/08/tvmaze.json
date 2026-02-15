@@ -496,7 +496,7 @@
         "rating": {
           "average": null
         },
-        "weight": 25,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -757,7 +757,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -786,12 +786,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534452",
-            "name": "En ny venn?"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534453",
             "name": "Dysleksi?"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534454",
+            "name": "Telle til ti"
           }
         }
       }
@@ -1197,7 +1197,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 84,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 170,
@@ -1287,7 +1287,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1375,7 +1375,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1461,7 +1461,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1729,7 +1729,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 76,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1807,7 +1807,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2053,7 +2053,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2689,7 +2689,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 42,
+        "weight": 54,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -2791,7 +2791,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 42,
+        "weight": 54,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -2887,7 +2887,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -2970,7 +2970,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3053,7 +3053,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3136,7 +3136,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3219,7 +3219,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 75,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3302,7 +3302,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 75,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3385,7 +3385,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 75,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3468,7 +3468,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 75,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3551,7 +3551,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 75,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3634,7 +3634,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 75,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3907,7 +3907,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -4000,7 +4000,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -4084,7 +4084,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4413,7 +4413,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -4824,7 +4824,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4843,14 +4843,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770794549,
+        "updated": 1770994764,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3546256",
-            "name": "#2451 - Cheryl Hines"
+            "href": "https://api.tvmaze.com/episodes/3548537",
+            "name": "#2453 - Evan Hafer"
           }
         }
       }
@@ -5196,7 +5196,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 50,
         "network": {
           "id": 76,
           "name": "TV Tokyo",
@@ -5371,7 +5371,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 189,
@@ -5456,7 +5456,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -5549,7 +5549,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 67,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -5572,18 +5572,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1770446750,
+        "updated": 1771124574,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509943",
-            "name": "Aflevering 7210"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3509944",
             "name": "Aflevering 7211"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3509945",
+            "name": "Aflevering 7212"
           }
         }
       }
@@ -5642,7 +5642,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -5722,7 +5722,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 95,
+        "weight": 94,
         "network": {
           "id": 5,
           "name": "The CW",
@@ -5817,7 +5817,7 @@
         "rating": {
           "average": 5.6
         },
-        "weight": 60,
+        "weight": 46,
         "network": {
           "id": 132,
           "name": "Tokyo MX",

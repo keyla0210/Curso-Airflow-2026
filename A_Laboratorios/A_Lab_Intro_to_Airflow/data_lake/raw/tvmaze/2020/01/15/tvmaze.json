@@ -318,7 +318,7 @@
         "rating": {
           "average": null
         },
-        "weight": 25,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -404,7 +404,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -579,7 +579,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -608,12 +608,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534452",
-            "name": "En ny venn?"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534453",
             "name": "Dysleksi?"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534454",
+            "name": "Telle til ti"
           }
         }
       }
@@ -1739,7 +1739,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 84,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 170,
@@ -1829,7 +1829,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2083,7 +2083,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 12,
         "network": {
           "id": 105,
           "name": "Canal+",
@@ -2176,7 +2176,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -2262,7 +2262,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2439,7 +2439,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 0,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2526,7 +2526,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -2609,7 +2609,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -2692,7 +2692,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -2775,7 +2775,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -2858,7 +2858,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -2941,7 +2941,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3024,7 +3024,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3107,7 +3107,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3190,7 +3190,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3273,7 +3273,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3356,7 +3356,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3439,7 +3439,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3522,7 +3522,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3604,7 +3604,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 76,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3682,7 +3682,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3930,7 +3930,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4165,7 +4165,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4331,7 +4331,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4421,7 +4421,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4507,7 +4507,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4526,18 +4526,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1770540449,
+        "updated": 1771062980,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538641",
-            "name": "02/11/2026"
+            "href": "https://api.tvmaze.com/episodes/3538643",
+            "name": "Candy Cocktails vs Cocktail Candies Taste Test"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538642",
-            "name": "02/12/2026"
+            "href": "https://api.tvmaze.com/episodes/3543539",
+            "name": "02/16/2026"
           }
         }
       }
@@ -4608,14 +4608,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1770794131,
+        "updated": 1770995601,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3546246",
-            "name": "Don't Break The Egg!"
+            "href": "https://api.tvmaze.com/episodes/3548588",
+            "name": "Guess The Secret Word"
           }
         }
       }
@@ -4673,7 +4673,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4757,7 +4757,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4841,7 +4841,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4925,7 +4925,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5009,7 +5009,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5093,7 +5093,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5177,7 +5177,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5261,7 +5261,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5345,7 +5345,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5429,7 +5429,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5513,7 +5513,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5597,7 +5597,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5679,7 +5679,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 304,
@@ -5841,7 +5841,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5924,7 +5924,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6007,7 +6007,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6090,7 +6090,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6173,7 +6173,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6584,7 +6584,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 43,
@@ -6662,7 +6662,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 43,
@@ -6740,7 +6740,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 43,
@@ -6818,7 +6818,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 43,
@@ -7091,7 +7091,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7184,7 +7184,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7271,7 +7271,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -7358,7 +7358,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -7442,7 +7442,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7603,7 +7603,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -7693,7 +7693,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -8189,7 +8189,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -8208,14 +8208,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770794549,
+        "updated": 1770994764,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3546256",
-            "name": "#2451 - Cheryl Hines"
+            "href": "https://api.tvmaze.com/episodes/3548537",
+            "name": "#2453 - Evan Hafer"
           }
         }
       }
@@ -8269,7 +8269,7 @@
         "rating": {
           "average": null
         },
-        "weight": 53,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -8555,7 +8555,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 80,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 135,
@@ -8731,7 +8731,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 50,
         "network": {
           "id": 76,
           "name": "TV Tokyo",
@@ -8906,7 +8906,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 189,
@@ -9157,7 +9157,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -9250,7 +9250,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 67,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -9273,18 +9273,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1770446750,
+        "updated": 1771124574,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509943",
-            "name": "Aflevering 7210"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3509944",
             "name": "Aflevering 7211"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3509945",
+            "name": "Aflevering 7212"
           }
         }
       }
@@ -9343,7 +9343,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -9423,7 +9423,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 95,
+        "weight": 94,
         "network": {
           "id": 5,
           "name": "The CW",
@@ -9518,7 +9518,7 @@
         "rating": {
           "average": 5.6
         },
-        "weight": 60,
+        "weight": 46,
         "network": {
           "id": 132,
           "name": "Tokyo MX",

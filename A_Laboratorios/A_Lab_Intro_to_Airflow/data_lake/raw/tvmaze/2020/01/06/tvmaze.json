@@ -215,7 +215,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 87,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -391,7 +391,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -480,7 +480,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -569,7 +569,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -827,7 +827,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -917,7 +917,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1091,7 +1091,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 19,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -1520,7 +1520,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -1690,7 +1690,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1782,7 +1782,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1868,7 +1868,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1956,7 +1956,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -2040,7 +2040,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -2366,7 +2366,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2452,7 +2452,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2540,7 +2540,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2628,7 +2628,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2717,7 +2717,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 42,
+        "weight": 54,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -2819,7 +2819,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 42,
+        "weight": 54,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -2915,7 +2915,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4559,7 +4559,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4639,7 +4639,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4658,14 +4658,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770794549,
+        "updated": 1770994764,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3546256",
-            "name": "#2451 - Cheryl Hines"
+            "href": "https://api.tvmaze.com/episodes/3548537",
+            "name": "#2453 - Evan Hafer"
           }
         }
       }
@@ -4740,7 +4740,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1532749.jpg"
         },
         "summary": "<p><b>Kill Tony</b>, a live podcast taped in Austin, Texas and all over the world. Aspiring comedians are randomly drawn from a bucket to perform a one-minute set, followed immediately by an interview and feedback from Tony Hinchcliffe, Brian Redban, and celebrity guests.</p>",
-        "updated": 1770806017,
+        "updated": 1771008738,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/90266"
@@ -5007,7 +5007,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 32,
@@ -5261,7 +5261,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 28,
         "network": null,
         "webChannel": {
           "id": 32,
@@ -5346,7 +5346,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 46,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 13,
@@ -5433,7 +5433,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -5516,7 +5516,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -5686,7 +5686,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -5779,7 +5779,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 67,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -5802,18 +5802,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1770446750,
+        "updated": 1771124574,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509943",
-            "name": "Aflevering 7210"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3509944",
             "name": "Aflevering 7211"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3509945",
+            "name": "Aflevering 7212"
           }
         }
       }
@@ -5867,7 +5867,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6038,7 +6038,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 301,
@@ -6122,7 +6122,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 96,
+        "weight": 97,
         "network": null,
         "webChannel": {
           "id": 1,

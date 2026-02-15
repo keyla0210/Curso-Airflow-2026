@@ -45,7 +45,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 56,
@@ -394,7 +394,7 @@
         "rating": {
           "average": null
         },
-        "weight": 25,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -817,7 +817,7 @@
         "rating": {
           "average": null
         },
-        "weight": 78,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1168,7 +1168,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1341,7 +1341,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -1423,7 +1423,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1591,7 +1591,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 87,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1918,7 +1918,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2172,7 +2172,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2262,7 +2262,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2348,7 +2348,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2367,18 +2367,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1770540449,
+        "updated": 1771062980,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538641",
-            "name": "02/11/2026"
+            "href": "https://api.tvmaze.com/episodes/3538643",
+            "name": "Candy Cocktails vs Cocktail Candies Taste Test"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538642",
-            "name": "02/12/2026"
+            "href": "https://api.tvmaze.com/episodes/3543539",
+            "name": "02/16/2026"
           }
         }
       }
@@ -2449,14 +2449,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1770794131,
+        "updated": 1770995601,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3546246",
-            "name": "Don't Break The Egg!"
+            "href": "https://api.tvmaze.com/episodes/3548588",
+            "name": "Guess The Secret Word"
           }
         }
       }
@@ -2748,7 +2748,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 261,
@@ -3012,7 +3012,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3172,7 +3172,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3423,7 +3423,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -3506,7 +3506,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 14,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4106,7 +4106,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 189,
@@ -4194,7 +4194,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 80,
         "network": null,
         "webChannel": {
           "id": 187,
@@ -4285,7 +4285,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 80,
         "network": null,
         "webChannel": {
           "id": 187,
@@ -4454,7 +4454,7 @@
         "rating": {
           "average": null
         },
-        "weight": 5,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 420,
@@ -4707,7 +4707,7 @@
         "rating": {
           "average": null
         },
-        "weight": 35,
+        "weight": 51,
         "network": {
           "id": 1058,
           "name": "TV3",
@@ -4795,7 +4795,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -4888,7 +4888,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 67,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -4911,18 +4911,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1770446750,
+        "updated": 1771124574,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509943",
-            "name": "Aflevering 7210"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3509944",
             "name": "Aflevering 7211"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3509945",
+            "name": "Aflevering 7212"
           }
         }
       }
@@ -4981,7 +4981,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -5061,7 +5061,7 @@
         "rating": {
           "average": null
         },
-        "weight": 69,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -5145,7 +5145,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -5165,14 +5165,14 @@
         },
         "image": null,
         "summary": "<p>Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of SpinRite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.</p>",
-        "updated": 1770361997,
+        "updated": 1770995072,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/77052"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3541071",
-            "name": "Mongo's Too Easy"
+            "href": "https://api.tvmaze.com/episodes/3548546",
+            "name": "Least Privilege"
           }
         }
       }

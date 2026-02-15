@@ -138,7 +138,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -319,7 +319,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 78,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 169,
@@ -409,7 +409,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -499,7 +499,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 12,
@@ -589,7 +589,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 61,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -679,7 +679,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 61,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -769,7 +769,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 87,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 377,
@@ -1126,7 +1126,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -1204,7 +1204,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1282,7 +1282,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -1307,12 +1307,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537575",
-            "name": "Stardom Supreme Fight in Osaka 2026"
+            "href": "https://api.tvmaze.com/episodes/3537577",
+            "name": "Stardom in Fuji 2026 Feb."
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537576",
-            "name": "Stardom Nighter in Korakuen 2026 Feb."
+            "href": "https://api.tvmaze.com/episodes/3537578",
+            "name": "Stardom in Otsu 2026 Feb."
           }
         }
       }
@@ -1632,7 +1632,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -1807,7 +1807,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1887,7 +1887,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 14,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2059,7 +2059,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 84,
+        "weight": 67,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2247,7 +2247,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 42,
         "network": {
           "id": 263,
           "name": "TV Asahi",
@@ -2346,7 +2346,7 @@
         "rating": {
           "average": 5.6
         },
-        "weight": 62,
+        "weight": 60,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2513,7 +2513,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 80,
+        "weight": 86,
         "network": null,
         "webChannel": {
           "id": 265,
@@ -2597,7 +2597,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 197,
@@ -2685,7 +2685,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -2769,7 +2769,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -2856,7 +2856,7 @@
         "rating": {
           "average": null
         },
-        "weight": 86,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 331,

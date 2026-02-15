@@ -136,7 +136,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 63,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -494,7 +494,7 @@
         "rating": {
           "average": null
         },
-        "weight": 74,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -584,7 +584,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -674,7 +674,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -763,7 +763,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -792,12 +792,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534452",
-            "name": "En ny venn?"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534453",
             "name": "Dysleksi?"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534454",
+            "name": "Telle til ti"
           }
         }
       }
@@ -851,7 +851,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 0,
         "network": null,
         "webChannel": {
           "id": 471,
@@ -941,7 +941,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -1274,7 +1274,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1358,7 +1358,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1442,7 +1442,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1526,7 +1526,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1610,7 +1610,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1694,7 +1694,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1778,7 +1778,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1862,7 +1862,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1940,7 +1940,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -1965,12 +1965,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537575",
-            "name": "Stardom Supreme Fight in Osaka 2026"
+            "href": "https://api.tvmaze.com/episodes/3537577",
+            "name": "Stardom in Fuji 2026 Feb."
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537576",
-            "name": "Stardom Nighter in Korakuen 2026 Feb."
+            "href": "https://api.tvmaze.com/episodes/3537578",
+            "name": "Stardom in Otsu 2026 Feb."
           }
         }
       }
@@ -2031,7 +2031,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 83,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 88,
@@ -2655,7 +2655,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2745,7 +2745,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2835,7 +2835,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2995,7 +2995,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -3020,12 +3020,12 @@
             "href": "https://api.tvmaze.com/shows/49740"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3506552",
-            "name": "TJPW Shoko Nakajima's Niigata Homecoming Performance \"Shoko Quest IV: Those Guided by the Snow Country\""
+            "href": "https://api.tvmaze.com/episodes/3537566",
+            "name": "TJPW Club eX: Chapter Pause"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3506553",
-            "name": "TJPW The 6th \"Futari wa Princess\" Max Heart Tournament - Day 4"
+            "href": "https://api.tvmaze.com/episodes/3537567",
+            "name": "TJPW Final Curtain in KOBE Art Center"
           }
         }
       }
@@ -3322,7 +3322,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 48,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 20,
@@ -3409,7 +3409,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3432,18 +3432,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1374377.jpg"
         },
         "summary": "<p>Artists spend eight days together at a farm outside the city of Moss, where each artist attempts to do their own version of another artists well-known songs, with each person getting an episode featuring all of their songs being performed by the other musicians.</p>",
-        "updated": 1770299551,
+        "updated": 1770910625,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/11502"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475365",
-            "name": "Musti \u2013 del 2"
+            "href": "https://api.tvmaze.com/episodes/3475367",
+            "name": "Andr\u00e9 Jensen \u2013 del 2"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475366",
-            "name": "Andr\u00e9 Jensen \u2013 del 1"
+            "href": "https://api.tvmaze.com/episodes/3475368",
+            "name": "Duetter \u2013 del 1"
           }
         }
       }
@@ -3504,7 +3504,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3527,18 +3527,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1374377.jpg"
         },
         "summary": "<p>Artists spend eight days together at a farm outside the city of Moss, where each artist attempts to do their own version of another artists well-known songs, with each person getting an episode featuring all of their songs being performed by the other musicians.</p>",
-        "updated": 1770299551,
+        "updated": 1770910625,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/11502"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475365",
-            "name": "Musti \u2013 del 2"
+            "href": "https://api.tvmaze.com/episodes/3475367",
+            "name": "Andr\u00e9 Jensen \u2013 del 2"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475366",
-            "name": "Andr\u00e9 Jensen \u2013 del 1"
+            "href": "https://api.tvmaze.com/episodes/3475368",
+            "name": "Duetter \u2013 del 1"
           }
         }
       }

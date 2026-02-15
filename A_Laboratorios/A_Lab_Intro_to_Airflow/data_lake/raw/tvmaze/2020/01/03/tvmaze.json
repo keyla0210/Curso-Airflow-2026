@@ -54,7 +54,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 88,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 281,
@@ -142,7 +142,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -320,7 +320,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 72,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -938,7 +938,7 @@
         "rating": {
           "average": null
         },
-        "weight": 78,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1113,7 +1113,7 @@
         "rating": {
           "average": null
         },
-        "weight": 25,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 358,
@@ -1204,7 +1204,7 @@
         "rating": {
           "average": null
         },
-        "weight": 25,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 358,
@@ -1547,7 +1547,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1715,7 +1715,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1734,14 +1734,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/467/1168089.jpg"
         },
         "summary": "<p><b>The Annoying Orange</b> is an American comedy web series created by Dane Boedigheimer in 2009. It stars Boedigheimer as an anthropomorphic orange who annoys other fruits, vegetables, and various other objects by using crude-humored jokes.</p>",
-        "updated": 1770642423,
+        "updated": 1771031582,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/12060"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3544605",
-            "name": "Annoying Orange Volcano!"
+            "href": "https://api.tvmaze.com/episodes/3548975",
+            "name": "Ask Orange #97 - Pear is Immune?!"
           }
         }
       }
@@ -1961,7 +1961,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2048,7 +2048,7 @@
         "rating": {
           "average": 6.6
         },
-        "weight": 95,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 310,
@@ -2135,7 +2135,7 @@
         "rating": {
           "average": 6.5
         },
-        "weight": 48,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -2217,7 +2217,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2302,7 +2302,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 94,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2317,11 +2317,11 @@
           "imdb": "tt11302324"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/498/1246800.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/498/1246800.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/613/1533468.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1533468.jpg"
         },
         "summary": "<p>Fifteen years after James May first visited Japan as a baffled tourist, he'll be embarking on a quest to understand the unique, extraordinary and complex country. The birthplace of the haiku and classical art forms driven by the principles of Wabi (stark beauty) and Sabi (natural inspiration) and Yugen (grace and subtlety). Japan is also the place that's given us Godzilla, Hello Kitty, Cosplay, and some of the strangest obsessions on the planet. James will embark on an epic journey across all of Japan from North to South, determined to understand why this unique land and its people are the way they are, what drives their whole culture and what their approach to life can teach the rest of us. James can't speak the language, he is clueless about Japanese etiquette, but at least he knows there's a small tree called a banzai.</p>",
-        "updated": 1730219902,
+        "updated": 1770897524,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41345"
@@ -2387,7 +2387,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 94,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2402,11 +2402,11 @@
           "imdb": "tt11302324"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/498/1246800.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/498/1246800.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/613/1533468.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1533468.jpg"
         },
         "summary": "<p>Fifteen years after James May first visited Japan as a baffled tourist, he'll be embarking on a quest to understand the unique, extraordinary and complex country. The birthplace of the haiku and classical art forms driven by the principles of Wabi (stark beauty) and Sabi (natural inspiration) and Yugen (grace and subtlety). Japan is also the place that's given us Godzilla, Hello Kitty, Cosplay, and some of the strangest obsessions on the planet. James will embark on an epic journey across all of Japan from North to South, determined to understand why this unique land and its people are the way they are, what drives their whole culture and what their approach to life can teach the rest of us. James can't speak the language, he is clueless about Japanese etiquette, but at least he knows there's a small tree called a banzai.</p>",
-        "updated": 1730219902,
+        "updated": 1770897524,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41345"
@@ -2472,7 +2472,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 94,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2487,11 +2487,11 @@
           "imdb": "tt11302324"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/498/1246800.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/498/1246800.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/613/1533468.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1533468.jpg"
         },
         "summary": "<p>Fifteen years after James May first visited Japan as a baffled tourist, he'll be embarking on a quest to understand the unique, extraordinary and complex country. The birthplace of the haiku and classical art forms driven by the principles of Wabi (stark beauty) and Sabi (natural inspiration) and Yugen (grace and subtlety). Japan is also the place that's given us Godzilla, Hello Kitty, Cosplay, and some of the strangest obsessions on the planet. James will embark on an epic journey across all of Japan from North to South, determined to understand why this unique land and its people are the way they are, what drives their whole culture and what their approach to life can teach the rest of us. James can't speak the language, he is clueless about Japanese etiquette, but at least he knows there's a small tree called a banzai.</p>",
-        "updated": 1730219902,
+        "updated": 1770897524,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41345"
@@ -2557,7 +2557,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 94,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2572,11 +2572,11 @@
           "imdb": "tt11302324"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/498/1246800.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/498/1246800.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/613/1533468.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1533468.jpg"
         },
         "summary": "<p>Fifteen years after James May first visited Japan as a baffled tourist, he'll be embarking on a quest to understand the unique, extraordinary and complex country. The birthplace of the haiku and classical art forms driven by the principles of Wabi (stark beauty) and Sabi (natural inspiration) and Yugen (grace and subtlety). Japan is also the place that's given us Godzilla, Hello Kitty, Cosplay, and some of the strangest obsessions on the planet. James will embark on an epic journey across all of Japan from North to South, determined to understand why this unique land and its people are the way they are, what drives their whole culture and what their approach to life can teach the rest of us. James can't speak the language, he is clueless about Japanese etiquette, but at least he knows there's a small tree called a banzai.</p>",
-        "updated": 1730219902,
+        "updated": 1770897524,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41345"
@@ -2642,7 +2642,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 94,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2657,11 +2657,11 @@
           "imdb": "tt11302324"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/498/1246800.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/498/1246800.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/613/1533468.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1533468.jpg"
         },
         "summary": "<p>Fifteen years after James May first visited Japan as a baffled tourist, he'll be embarking on a quest to understand the unique, extraordinary and complex country. The birthplace of the haiku and classical art forms driven by the principles of Wabi (stark beauty) and Sabi (natural inspiration) and Yugen (grace and subtlety). Japan is also the place that's given us Godzilla, Hello Kitty, Cosplay, and some of the strangest obsessions on the planet. James will embark on an epic journey across all of Japan from North to South, determined to understand why this unique land and its people are the way they are, what drives their whole culture and what their approach to life can teach the rest of us. James can't speak the language, he is clueless about Japanese etiquette, but at least he knows there's a small tree called a banzai.</p>",
-        "updated": 1730219902,
+        "updated": 1770897524,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41345"
@@ -2727,7 +2727,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 94,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2742,11 +2742,11 @@
           "imdb": "tt11302324"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/498/1246800.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/498/1246800.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/613/1533468.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1533468.jpg"
         },
         "summary": "<p>Fifteen years after James May first visited Japan as a baffled tourist, he'll be embarking on a quest to understand the unique, extraordinary and complex country. The birthplace of the haiku and classical art forms driven by the principles of Wabi (stark beauty) and Sabi (natural inspiration) and Yugen (grace and subtlety). Japan is also the place that's given us Godzilla, Hello Kitty, Cosplay, and some of the strangest obsessions on the planet. James will embark on an epic journey across all of Japan from North to South, determined to understand why this unique land and its people are the way they are, what drives their whole culture and what their approach to life can teach the rest of us. James can't speak the language, he is clueless about Japanese etiquette, but at least he knows there's a small tree called a banzai.</p>",
-        "updated": 1730219902,
+        "updated": 1770897524,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41345"
@@ -2814,7 +2814,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 97,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 310,
@@ -2982,7 +2982,7 @@
         "rating": {
           "average": null
         },
-        "weight": 61,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -3063,7 +3063,7 @@
         "rating": {
           "average": 5.3
         },
-        "weight": 63,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -3150,7 +3150,7 @@
         "rating": {
           "average": 6.5
         },
-        "weight": 61,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -3228,7 +3228,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -3253,12 +3253,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537575",
-            "name": "Stardom Supreme Fight in Osaka 2026"
+            "href": "https://api.tvmaze.com/episodes/3537577",
+            "name": "Stardom in Fuji 2026 Feb."
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537576",
-            "name": "Stardom Nighter in Korakuen 2026 Feb."
+            "href": "https://api.tvmaze.com/episodes/3537578",
+            "name": "Stardom in Otsu 2026 Feb."
           }
         }
       }
@@ -3816,7 +3816,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4169,7 +4169,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4259,7 +4259,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4345,7 +4345,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4427,7 +4427,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4509,7 +4509,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4591,7 +4591,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4673,7 +4673,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4755,7 +4755,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5170,7 +5170,7 @@
         "rating": {
           "average": null
         },
-        "weight": 1,
+        "weight": 4,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5250,7 +5250,7 @@
         "rating": {
           "average": null
         },
-        "weight": 3,
+        "weight": 1,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5410,7 +5410,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 78,
+        "weight": 69,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -5510,7 +5510,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 97,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -5593,7 +5593,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 78,
+        "weight": 69,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -6218,7 +6218,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 352,
@@ -6311,7 +6311,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 67,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -6334,18 +6334,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1770446750,
+        "updated": 1771124574,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509943",
-            "name": "Aflevering 7210"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3509944",
             "name": "Aflevering 7211"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3509945",
+            "name": "Aflevering 7212"
           }
         }
       }
@@ -6399,7 +6399,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 15,

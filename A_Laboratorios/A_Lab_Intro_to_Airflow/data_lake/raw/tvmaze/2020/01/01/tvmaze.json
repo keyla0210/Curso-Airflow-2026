@@ -47,7 +47,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 423,
@@ -723,7 +723,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 84,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -811,7 +811,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 84,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -899,7 +899,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 84,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -987,7 +987,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 84,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -1075,7 +1075,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 84,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -1163,7 +1163,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 84,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -1251,7 +1251,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 84,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -1339,7 +1339,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 84,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -1608,7 +1608,7 @@
         "rating": {
           "average": null
         },
-        "weight": 83,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -2048,7 +2048,7 @@
         "rating": {
           "average": null
         },
-        "weight": 25,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -2136,7 +2136,7 @@
         "rating": {
           "average": null
         },
-        "weight": 25,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -2726,7 +2726,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3342,7 +3342,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 84,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 170,
@@ -3430,7 +3430,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -3516,7 +3516,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 76,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3594,7 +3594,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3679,7 +3679,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3764,7 +3764,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3849,7 +3849,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3934,7 +3934,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4019,7 +4019,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4104,7 +4104,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4189,7 +4189,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4274,7 +4274,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4359,7 +4359,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4444,7 +4444,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4522,7 +4522,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4686,7 +4686,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 77,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4770,7 +4770,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 77,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4854,7 +4854,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 77,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4938,7 +4938,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 77,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5022,7 +5022,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 77,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5106,7 +5106,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 77,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5190,7 +5190,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 77,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5274,7 +5274,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 77,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5358,7 +5358,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 77,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5442,7 +5442,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 77,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5605,7 +5605,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5688,7 +5688,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5771,7 +5771,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5854,7 +5854,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6445,7 +6445,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6538,7 +6538,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6616,7 +6616,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6944,7 +6944,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -7442,7 +7442,7 @@
         "rating": {
           "average": null
         },
-        "weight": 1,
+        "weight": 4,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -8587,12 +8587,14 @@
         "officialSite": "https://www.trailerparkboysplus.com/park-after-dark",
         "schedule": {
           "time": "",
-          "days": []
+          "days": [
+            "Friday"
+          ]
         },
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 464,
@@ -8615,14 +8617,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/412/1030402.jpg"
         },
         "summary": "<p>Hang out with Ricky, Julian and Bubbles in Ricky's kitchen, smoking, drinking and talking about whatever the hell pops up in their fucked up brains.</p>",
-        "updated": 1770566427,
+        "updated": 1771068931,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/62418"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3543550",
-            "name": "Ricky the Divine"
+            "href": "https://api.tvmaze.com/episodes/3548947",
+            "name": "Be Nice to Randy"
           }
         }
       }
@@ -8764,7 +8766,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 8,
         "network": null,
         "webChannel": {
           "id": 485,
@@ -8853,7 +8855,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 8,
         "network": null,
         "webChannel": {
           "id": 485,
@@ -8942,7 +8944,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 8,
         "network": null,
         "webChannel": {
           "id": 485,
@@ -9031,7 +9033,7 @@
         "rating": {
           "average": null
         },
-        "weight": 11,
+        "weight": 8,
         "network": null,
         "webChannel": {
           "id": 485,
@@ -9370,7 +9372,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 67,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -9393,18 +9395,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1770446750,
+        "updated": 1771124574,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509943",
-            "name": "Aflevering 7210"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3509944",
             "name": "Aflevering 7211"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3509945",
+            "name": "Aflevering 7212"
           }
         }
       }
@@ -9464,7 +9466,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 84,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 170,
@@ -9553,7 +9555,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -9638,7 +9640,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -9718,7 +9720,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 95,
+        "weight": 94,
         "network": {
           "id": 5,
           "name": "The CW",
@@ -9804,7 +9806,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 4,
@@ -9886,7 +9888,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 4,
@@ -9968,7 +9970,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 4,
@@ -10050,7 +10052,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 4,
@@ -10132,7 +10134,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 4,
@@ -10214,7 +10216,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 4,
@@ -10296,7 +10298,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 4,
@@ -10378,7 +10380,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 4,
@@ -10460,7 +10462,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 4,
@@ -10542,7 +10544,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 4,
@@ -10626,7 +10628,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 188,
@@ -10707,7 +10709,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 188,
@@ -10788,7 +10790,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 188,

@@ -51,7 +51,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -321,7 +321,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -411,7 +411,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -501,7 +501,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -857,7 +857,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -947,7 +947,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 12,
@@ -1029,7 +1029,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1700,7 +1700,7 @@
         "rating": {
           "average": null
         },
-        "weight": 35,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2132,7 +2132,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -2157,12 +2157,12 @@
             "href": "https://api.tvmaze.com/shows/49740"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3506552",
-            "name": "TJPW Shoko Nakajima's Niigata Homecoming Performance \"Shoko Quest IV: Those Guided by the Snow Country\""
+            "href": "https://api.tvmaze.com/episodes/3537566",
+            "name": "TJPW Club eX: Chapter Pause"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3506553",
-            "name": "TJPW The 6th \"Futari wa Princess\" Max Heart Tournament - Day 4"
+            "href": "https://api.tvmaze.com/episodes/3537567",
+            "name": "TJPW Final Curtain in KOBE Art Center"
           }
         }
       }
@@ -2465,7 +2465,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 14,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2894,7 +2894,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 80,
+        "weight": 86,
         "network": null,
         "webChannel": {
           "id": 265,
@@ -2982,7 +2982,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -3066,7 +3066,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 102,

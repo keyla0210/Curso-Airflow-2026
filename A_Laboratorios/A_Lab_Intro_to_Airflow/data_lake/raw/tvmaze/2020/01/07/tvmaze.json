@@ -51,7 +51,7 @@
         "rating": {
           "average": null
         },
-        "weight": 35,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -139,7 +139,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -229,7 +229,7 @@
         "rating": {
           "average": null
         },
-        "weight": 81,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 135,
@@ -252,7 +252,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/612/1531162.jpg"
         },
         "summary": "<p>Since she was very young, Kasumi Toyama has always been searching for the \"Star Beat\", a sparkling and exciting sound she heard while looking up at the night sky. Just after getting into high school, Kasumi comes across a \"star-shaped guitar\" in the storage area of an old pawn shop. Feeling a rush and excitement she has never felt before, Kasumi teams up with four other girls and embarks on a journey to seek out the shiny place. We promise to perform a live here!</p>",
-        "updated": 1770428965,
+        "updated": 1771052505,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/23577"
@@ -314,7 +314,7 @@
         "rating": {
           "average": null
         },
-        "weight": 25,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -747,7 +747,7 @@
         "rating": {
           "average": null
         },
-        "weight": 78,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1360,7 +1360,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1448,7 +1448,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1536,7 +1536,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1624,7 +1624,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1712,7 +1712,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1886,7 +1886,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1972,7 +1972,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2306,7 +2306,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 87,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2552,7 +2552,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2635,7 +2635,7 @@
         "rating": {
           "average": null
         },
-        "weight": 74,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 251,
@@ -2964,7 +2964,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 42,
+        "weight": 54,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -3066,7 +3066,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 42,
+        "weight": 54,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -3519,7 +3519,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3599,7 +3599,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3937,7 +3937,7 @@
         "rating": {
           "average": null
         },
-        "weight": 9,
+        "weight": 3,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4017,7 +4017,7 @@
         "rating": {
           "average": null
         },
-        "weight": 3,
+        "weight": 1,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4094,7 +4094,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4113,14 +4113,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770794549,
+        "updated": 1770994764,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3546256",
-            "name": "#2451 - Cheryl Hines"
+            "href": "https://api.tvmaze.com/episodes/3548537",
+            "name": "#2453 - Evan Hafer"
           }
         }
       }
@@ -4627,7 +4627,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -4720,7 +4720,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 67,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -4743,18 +4743,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1770446750,
+        "updated": 1771124574,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509943",
-            "name": "Aflevering 7210"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3509944",
             "name": "Aflevering 7211"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3509945",
+            "name": "Aflevering 7212"
           }
         }
       }
@@ -4813,7 +4813,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -4893,7 +4893,7 @@
         "rating": {
           "average": null
         },
-        "weight": 69,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -4977,7 +4977,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 35,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -5061,7 +5061,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -5081,14 +5081,14 @@
         },
         "image": null,
         "summary": "<p>Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of SpinRite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.</p>",
-        "updated": 1770361997,
+        "updated": 1770995072,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/77052"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3541071",
-            "name": "Mongo's Too Easy"
+            "href": "https://api.tvmaze.com/episodes/3548546",
+            "name": "Least Privilege"
           }
         }
       }
