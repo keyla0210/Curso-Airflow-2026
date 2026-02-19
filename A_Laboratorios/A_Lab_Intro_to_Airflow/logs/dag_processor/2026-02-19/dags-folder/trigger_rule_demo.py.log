@@ -1,0 +1,14 @@
+{"timestamp":"2026-02-19T01:38:39.545312","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:39:09.846329","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:39:40.106048","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:40:10.508415","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:40:40.931364","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:41:12.077851","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:41:42.456443","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:42:12.797069","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:42:43.648869","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:43:14.668802","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:43:45.358247","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:44:16.273750","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:44:46.663766","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-19T01:45:17.189211","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/trigger_rule_demo.py","logger":"airflow.models.dagbag.DagBag"}
