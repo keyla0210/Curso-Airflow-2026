@@ -1533,7 +1533,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 47,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1707,7 +1707,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1967,7 +1967,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2053,7 +2053,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2389,7 +2389,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2467,7 +2467,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2552,7 +2552,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 202,
@@ -3435,7 +3435,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3454,18 +3454,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1771062980,
+        "updated": 1771414244,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538643",
-            "name": "Candy Cocktails vs Cocktail Candies Taste Test"
+            "href": "https://api.tvmaze.com/episodes/3543541",
+            "name": "02/18/2026"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3543539",
-            "name": "02/16/2026"
+            "href": "https://api.tvmaze.com/episodes/3543542",
+            "name": "02/19/2026"
           }
         }
       }
@@ -3517,7 +3517,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3536,14 +3536,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1770995601,
+        "updated": 1771414252,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3548588",
-            "name": "Guess The Secret Word"
+            "href": "https://api.tvmaze.com/episodes/3551455",
+            "name": "Is This The Cringiest Thing You Can Put On A Gift?"
           }
         }
       }
@@ -3603,7 +3603,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3689,7 +3689,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3775,7 +3775,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3861,7 +3861,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3947,7 +3947,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4033,7 +4033,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4119,7 +4119,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4205,7 +4205,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4456,7 +4456,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 54,
+        "weight": 81,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -4558,7 +4558,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 54,
+        "weight": 81,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -5267,7 +5267,7 @@
         "rating": {
           "average": null
         },
-        "weight": 69,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5431,7 +5431,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5755,7 +5755,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -5778,18 +5778,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055438.jpg"
         },
         "summary": "<p>The first-ever, original variety show featuring TOMORROW X TOGETHER and their bubbly personalities off the stage!</p>",
-        "updated": 1770646789,
+        "updated": 1771252025,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/64132"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3507758",
-            "name": "EP.169 The Updated Guide to TXT"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3507757",
-            "name": "EP.170"
+            "name": "TO DO Chewy Cookie Special"
           }
         }
       }
@@ -5926,7 +5922,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 14,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6027,14 +6023,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1532749.jpg"
         },
         "summary": "<p><b>Kill Tony</b>, a live podcast taped in Austin, Texas and all over the world. Aspiring comedians are randomly drawn from a bucket to perform a one-minute set, followed immediately by an interview and feedback from Tony Hinchcliffe, Brian Redban, and celebrity guests.</p>",
-        "updated": 1771008738,
+        "updated": 1771301795,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/90266"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3546045",
-            "name": "#755 - DR PHIL (ADAM RAY) + SAL VULCANO, + GREG FITZSIMMONS"
+            "href": "https://api.tvmaze.com/episodes/3550178",
+            "name": "#756 - JIM NORTON + IAN FIDANCE"
           }
         }
       }
@@ -6294,7 +6290,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 32,
@@ -6557,7 +6553,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 85,
+        "weight": 88,
         "network": {
           "id": 755,
           "name": "Show TV",
@@ -6737,7 +6733,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -6821,7 +6817,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -6914,7 +6910,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -6943,12 +6939,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509944",
-            "name": "Aflevering 7211"
+            "href": "https://api.tvmaze.com/episodes/3509947",
+            "name": "Aflevering 7214"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509945",
-            "name": "Aflevering 7212"
+            "href": "https://api.tvmaze.com/episodes/3509948",
+            "name": "Aflevering 7215"
           }
         }
       }
@@ -7002,7 +6998,7 @@
         "rating": {
           "average": null
         },
-        "weight": 68,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7187,18 +7183,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1377130.jpg"
         },
         "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-        "updated": 1770698584,
+        "updated": 1771298499,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/802"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3434345",
-            "name": "#1707 - Rocket Arena in Cleveland, OH"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3434346",
             "name": "#1708 - FedExForum in Memphis, TN"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3434347",
+            "name": "#1709 - State Farm Arena in Atlanta, GA"
           }
         }
       }

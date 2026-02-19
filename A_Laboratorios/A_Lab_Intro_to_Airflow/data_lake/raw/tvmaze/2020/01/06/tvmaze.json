@@ -215,7 +215,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 76,
+        "weight": 80,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -827,7 +827,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -917,7 +917,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1346,7 +1346,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 47,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1690,7 +1690,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1782,7 +1782,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1868,7 +1868,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2288,7 +2288,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2366,7 +2366,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2452,7 +2452,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2540,7 +2540,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2628,7 +2628,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2717,7 +2717,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 54,
+        "weight": 81,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -2819,7 +2819,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 54,
+        "weight": 81,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -4395,7 +4395,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 15,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4559,7 +4559,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4639,7 +4639,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4658,14 +4658,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770994764,
+        "updated": 1771414233,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3548537",
-            "name": "#2453 - Evan Hafer"
+            "href": "https://api.tvmaze.com/episodes/3551453",
+            "name": "#2455 - Donnell Rawlings"
           }
         }
       }
@@ -4740,14 +4740,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1532749.jpg"
         },
         "summary": "<p><b>Kill Tony</b>, a live podcast taped in Austin, Texas and all over the world. Aspiring comedians are randomly drawn from a bucket to perform a one-minute set, followed immediately by an interview and feedback from Tony Hinchcliffe, Brian Redban, and celebrity guests.</p>",
-        "updated": 1771008738,
+        "updated": 1771301795,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/90266"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3546045",
-            "name": "#755 - DR PHIL (ADAM RAY) + SAL VULCANO, + GREG FITZSIMMONS"
+            "href": "https://api.tvmaze.com/episodes/3550178",
+            "name": "#756 - JIM NORTON + IAN FIDANCE"
           }
         }
       }
@@ -5007,7 +5007,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 32,
@@ -5346,7 +5346,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 59,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 13,
@@ -5433,7 +5433,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -5516,7 +5516,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -5686,7 +5686,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -5779,7 +5779,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -5808,12 +5808,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509944",
-            "name": "Aflevering 7211"
+            "href": "https://api.tvmaze.com/episodes/3509947",
+            "name": "Aflevering 7214"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509945",
-            "name": "Aflevering 7212"
+            "href": "https://api.tvmaze.com/episodes/3509948",
+            "name": "Aflevering 7215"
           }
         }
       }
@@ -5867,7 +5867,7 @@
         "rating": {
           "average": null
         },
-        "weight": 68,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6141,18 +6141,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1377130.jpg"
         },
         "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-        "updated": 1770698584,
+        "updated": 1771298499,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/802"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3434345",
-            "name": "#1707 - Rocket Arena in Cleveland, OH"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3434346",
             "name": "#1708 - FedExForum in Memphis, TN"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3434347",
+            "name": "#1709 - State Farm Arena in Atlanta, GA"
           }
         }
       }

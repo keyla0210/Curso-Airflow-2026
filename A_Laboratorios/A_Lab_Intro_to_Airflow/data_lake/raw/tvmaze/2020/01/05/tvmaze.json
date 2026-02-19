@@ -321,7 +321,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -411,7 +411,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -767,7 +767,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -857,7 +857,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1029,7 +1029,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2132,7 +2132,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -2649,14 +2649,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1385791.jpg"
         },
         "summary": "<p>From unraveling the secrets of opening and closing doors to defusing surprise packages more commonly known as bombs, there is never a dull day at the Hololive Production office! <b>Holo no Graffiti</b> follows an eccentric cast of Virtual YouTubers, also known as \"VTubers,\" going about their absurd yet hilarious daily lives, detailing all their cute moments and mishaps.</p>",
-        "updated": 1770635642,
+        "updated": 1771322166,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82397"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3544464",
-            "name": "One More Toast"
+            "href": "https://api.tvmaze.com/episodes/3550972",
+            "name": "IT'S RAW"
           }
         }
       }
@@ -2894,7 +2894,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 86,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 265,
@@ -2982,7 +2982,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -3066,7 +3066,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 102,

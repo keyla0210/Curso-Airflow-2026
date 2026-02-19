@@ -394,7 +394,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -478,7 +478,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 342,
@@ -562,7 +562,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 346,
@@ -817,7 +817,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1168,7 +1168,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1341,7 +1341,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -1423,7 +1423,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1591,7 +1591,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 78,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1610,14 +1610,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115876.jpg"
         },
         "summary": "<p>Trailers that tell you the TRUTH about your favorite movies and TV shows: Honest Trailers. These are the hilarious trailers the producers don't want you to see...</p>",
-        "updated": 1770758114,
+        "updated": 1771356066,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/13392"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3546147",
-            "name": "Heated Rivalry"
+            "href": "https://api.tvmaze.com/episodes/3551258",
+            "name": "Zootopia 2"
           }
         }
       }
@@ -1918,7 +1918,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2086,7 +2086,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2348,7 +2348,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2367,18 +2367,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1771062980,
+        "updated": 1771414244,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538643",
-            "name": "Candy Cocktails vs Cocktail Candies Taste Test"
+            "href": "https://api.tvmaze.com/episodes/3543541",
+            "name": "02/18/2026"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3543539",
-            "name": "02/16/2026"
+            "href": "https://api.tvmaze.com/episodes/3543542",
+            "name": "02/19/2026"
           }
         }
       }
@@ -2430,7 +2430,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2449,14 +2449,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1770995601,
+        "updated": 1771414252,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3548588",
-            "name": "Guess The Secret Word"
+            "href": "https://api.tvmaze.com/episodes/3551455",
+            "name": "Is This The Cringiest Thing You Can Put On A Gift?"
           }
         }
       }
@@ -2510,7 +2510,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -2748,7 +2748,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 261,
@@ -3012,7 +3012,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3172,7 +3172,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3191,14 +3191,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894788.jpg"
         },
         "summary": "<p><b>Inside of You with Michael Rosenbaum</b> is a podcast, recorded series inside of the home of Michael Rosenbaum (Sorority Boys, Smallville). Listen as he invites celebrities, athletes, musicians, or anyone he finds interesting to sit next to on the couch, while he probes them for the most interesting stories they have.</p>",
-        "updated": 1770748204,
+        "updated": 1771430110,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/47944"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538908",
-            "name": "JAMEELA JAMIL: Wrong Turns, Beauty Standards and Learning to Love Getting Older"
+            "href": "https://api.tvmaze.com/episodes/3551179",
+            "name": "DAVID RAMSEY: Beating Cancer, Finding Gratitude & Letting Go of Fear"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3551183",
+            "name": "STEPHEN AMELL"
           }
         }
       }
@@ -3423,7 +3427,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -4194,7 +4198,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 187,
@@ -4285,7 +4289,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 187,
@@ -4454,7 +4458,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 8,
         "network": null,
         "webChannel": {
           "id": 420,
@@ -4707,7 +4711,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 54,
         "network": {
           "id": 1058,
           "name": "TV3",
@@ -4795,7 +4799,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -4888,7 +4892,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -4917,12 +4921,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509944",
-            "name": "Aflevering 7211"
+            "href": "https://api.tvmaze.com/episodes/3509947",
+            "name": "Aflevering 7214"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509945",
-            "name": "Aflevering 7212"
+            "href": "https://api.tvmaze.com/episodes/3509948",
+            "name": "Aflevering 7215"
           }
         }
       }
@@ -4981,7 +4985,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -5145,7 +5149,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 102,

@@ -133,7 +133,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -220,7 +220,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -305,7 +305,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -1629,7 +1629,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 293,
@@ -1985,7 +1985,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 62,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -2231,7 +2231,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2387,7 +2387,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -2474,7 +2474,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2493,14 +2493,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/204/511597.jpg"
         },
         "summary": "<p>The author's journalistic program of Alexey Pivovarov, where he asks questions and interviews guests, makes reports on actual themes, as well as on entertaining topics.</p>",
-        "updated": 1770925263,
+        "updated": 1771352547,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42899"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3532246",
-            "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 208-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
+            "href": "https://api.tvmaze.com/episodes/3551246",
+            "name": "Telegram \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0442. \u0418\u043b\u0438 \u043d\u0435\u0442?"
           },
           "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3532247",
@@ -2647,7 +2647,7 @@
         "rating": {
           "average": null
         },
-        "weight": 25,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3402,7 +3402,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3492,7 +3492,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3589,7 +3589,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -3682,7 +3682,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -3852,7 +3852,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 382,
@@ -3937,7 +3937,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 382,
@@ -4022,7 +4022,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 382,
@@ -4107,7 +4107,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 382,
@@ -4192,7 +4192,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 382,
@@ -4276,7 +4276,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4360,7 +4360,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4444,7 +4444,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4528,7 +4528,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4612,7 +4612,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4696,7 +4696,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5188,7 +5188,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 540,
@@ -5272,7 +5272,7 @@
         "rating": {
           "average": null
         },
-        "weight": 7,
+        "weight": 14,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -5710,7 +5710,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 15,
@@ -5790,7 +5790,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -6288,7 +6288,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 420,
@@ -6370,7 +6370,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 420,
@@ -6452,7 +6452,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 420,
@@ -6534,7 +6534,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 420,
@@ -6623,7 +6623,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 485,
@@ -6716,7 +6716,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -6745,12 +6745,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509944",
-            "name": "Aflevering 7211"
+            "href": "https://api.tvmaze.com/episodes/3509947",
+            "name": "Aflevering 7214"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509945",
-            "name": "Aflevering 7212"
+            "href": "https://api.tvmaze.com/episodes/3509948",
+            "name": "Aflevering 7215"
           }
         }
       }
@@ -6889,7 +6889,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 103,

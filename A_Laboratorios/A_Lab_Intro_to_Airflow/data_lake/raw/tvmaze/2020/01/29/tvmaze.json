@@ -133,7 +133,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 208,
@@ -942,7 +942,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1028,7 +1028,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1117,7 +1117,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1146,12 +1146,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534453",
-            "name": "Dysleksi?"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534454",
             "name": "Telle til ti"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534455",
+            "name": "Overraskelsen"
           }
         }
       }
@@ -1559,7 +1559,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 81,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 170,
@@ -1649,7 +1649,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1905,7 +1905,7 @@
         "rating": {
           "average": null
         },
-        "weight": 30,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1991,7 +1991,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2742,7 +2742,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3243,7 +3243,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3262,18 +3262,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1771062980,
+        "updated": 1771414244,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538643",
-            "name": "Candy Cocktails vs Cocktail Candies Taste Test"
+            "href": "https://api.tvmaze.com/episodes/3543541",
+            "name": "02/18/2026"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3543539",
-            "name": "02/16/2026"
+            "href": "https://api.tvmaze.com/episodes/3543542",
+            "name": "02/19/2026"
           }
         }
       }
@@ -3325,7 +3325,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3344,14 +3344,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1770995601,
+        "updated": 1771414252,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3548588",
-            "name": "Guess The Secret Word"
+            "href": "https://api.tvmaze.com/episodes/3551455",
+            "name": "Is This The Cringiest Thing You Can Put On A Gift?"
           }
         }
       }
@@ -3407,7 +3407,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 304,
@@ -5158,7 +5158,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 58,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5243,7 +5243,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 58,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5328,7 +5328,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 58,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5413,7 +5413,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 58,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5498,7 +5498,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 58,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5583,7 +5583,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 58,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5668,7 +5668,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 58,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5908,7 +5908,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6159,7 +6159,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -6244,7 +6244,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6328,7 +6328,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6408,7 +6408,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6490,7 +6490,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7017,7 +7017,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 59,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 135,
@@ -7103,7 +7103,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 347,
@@ -7193,7 +7193,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 52,
         "network": {
           "id": 76,
           "name": "TV Tokyo",
@@ -7293,7 +7293,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 187,
@@ -7461,7 +7461,7 @@
         "rating": {
           "average": null
         },
-        "weight": 2,
+        "weight": 4,
         "network": null,
         "webChannel": {
           "id": 420,
@@ -7545,7 +7545,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 197,
@@ -7629,7 +7629,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 197,
@@ -7718,7 +7718,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 54,
         "network": {
           "id": 1058,
           "name": "TV3",
@@ -7806,7 +7806,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -7899,7 +7899,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -7928,12 +7928,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509944",
-            "name": "Aflevering 7211"
+            "href": "https://api.tvmaze.com/episodes/3509947",
+            "name": "Aflevering 7214"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509945",
-            "name": "Aflevering 7212"
+            "href": "https://api.tvmaze.com/episodes/3509948",
+            "name": "Aflevering 7215"
           }
         }
       }
@@ -7992,7 +7992,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -8072,7 +8072,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 94,
+        "weight": 93,
         "network": {
           "id": 5,
           "name": "The CW",
@@ -8095,18 +8095,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485132.jpg"
         },
         "summary": "<p>Each Wednesday at 8:00 p.m. ET, WWE Superstars and Divas of tomorrow face off on <b>WWE NXT</b><i>,</i> a one-hour weekly show that features the brightest and best of WWE's rising stars. WWE NXT showcases the Superstars and Divas from WWE's Performance Center as well as appearances from WWE Superstars and Legends in an intimate setting. WWE NXT broadcasts from the state-of-the-art Full Sail LIVE venue on the Full Sail University in campus in Orlando, Florida.</p>",
-        "updated": 1770777477,
+        "updated": 1771385463,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2266"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3481744",
-            "name": "Main Event: Zaria & Sol Ruca vs. WrenQCC for the #1 contender for the NXT Women's Championship"
+            "href": "https://api.tvmaze.com/episodes/3481745",
+            "name": "Main Event: Shiloh Hill vs. Ethan Page (c) for the NXT North American Championship"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3481745",
-            "name": "Episode 7"
+            "href": "https://api.tvmaze.com/episodes/3481746",
+            "name": "Episode 8"
           }
         }
       }
@@ -8167,7 +8167,7 @@
         "rating": {
           "average": 5.6
         },
-        "weight": 46,
+        "weight": 82,
         "network": {
           "id": 132,
           "name": "Tokyo MX",

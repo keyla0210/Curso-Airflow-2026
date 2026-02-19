@@ -52,7 +52,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 83,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -313,7 +313,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 93,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -336,7 +336,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/610/1525913.jpg"
         },
         "summary": "<p>As a cultivation genius who has achieved a new realm every two years since he was a year old, Wang Ling is a near-invincible existence with prowess far beyond his control. But now that he's sixteen, he faces his greatest battle yet \u2013 Senior High School. With one challenge after another popping up, his plans for a low-key high school life seem further and further away\u2026<br />\u00a0</p>",
-        "updated": 1771146522,
+        "updated": 1771173184,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/46240"
@@ -495,7 +495,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -524,12 +524,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534453",
-            "name": "Dysleksi?"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534454",
             "name": "Telle til ti"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534455",
+            "name": "Overraskelsen"
           }
         }
       }
@@ -753,7 +753,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -840,7 +840,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 57,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 88,
@@ -1286,7 +1286,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1612,7 +1612,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -1931,7 +1931,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 90,
+        "weight": 91,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2028,7 +2028,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 90,
+        "weight": 91,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2129,7 +2129,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 74,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 20,
@@ -2209,7 +2209,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 68,
         "network": {
           "id": 2,
           "name": "CBS",
@@ -2388,7 +2388,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2411,7 +2411,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1374377.jpg"
         },
         "summary": "<p>Artists spend eight days together at a farm outside the city of Moss, where each artist attempts to do their own version of another artists well-known songs, with each person getting an episode featuring all of their songs being performed by the other musicians.</p>",
-        "updated": 1770910625,
+        "updated": 1771438102,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/11502"
@@ -2483,7 +2483,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2506,7 +2506,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1374377.jpg"
         },
         "summary": "<p>Artists spend eight days together at a farm outside the city of Moss, where each artist attempts to do their own version of another artists well-known songs, with each person getting an episode featuring all of their songs being performed by the other musicians.</p>",
-        "updated": 1770910625,
+        "updated": 1771438102,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/11502"
@@ -2654,7 +2654,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 93,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 265,

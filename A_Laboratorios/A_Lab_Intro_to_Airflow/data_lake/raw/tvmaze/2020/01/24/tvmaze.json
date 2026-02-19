@@ -47,7 +47,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 56,
@@ -135,7 +135,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 66,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 366,
@@ -223,7 +223,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -400,7 +400,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -487,7 +487,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -745,7 +745,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -835,7 +835,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 83,
+        "weight": 82,
         "network": {
           "id": 1262,
           "name": "One31",
@@ -926,7 +926,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 152,
@@ -1011,7 +1011,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 47,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1446,7 +1446,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1537,7 +1537,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1628,7 +1628,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1719,7 +1719,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1810,7 +1810,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1901,7 +1901,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1992,7 +1992,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2083,7 +2083,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2174,7 +2174,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2265,7 +2265,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2356,7 +2356,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2447,7 +2447,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2535,7 +2535,7 @@
         "rating": {
           "average": null
         },
-        "weight": 30,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -3461,7 +3461,7 @@
         "rating": {
           "average": null
         },
-        "weight": 74,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3714,7 +3714,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 310,
@@ -3794,7 +3794,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 61,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4297,7 +4297,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4382,7 +4382,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 96,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4467,7 +4467,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 96,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4552,7 +4552,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 96,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4637,7 +4637,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 96,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4722,7 +4722,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 96,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4807,7 +4807,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 96,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4892,7 +4892,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 96,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4977,7 +4977,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 96,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5139,7 +5139,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5158,18 +5158,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1771062980,
+        "updated": 1771414244,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538643",
-            "name": "Candy Cocktails vs Cocktail Candies Taste Test"
+            "href": "https://api.tvmaze.com/episodes/3543541",
+            "name": "02/18/2026"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3543539",
-            "name": "02/16/2026"
+            "href": "https://api.tvmaze.com/episodes/3543542",
+            "name": "02/19/2026"
           }
         }
       }
@@ -5221,7 +5221,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5240,14 +5240,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1770995601,
+        "updated": 1771414252,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3548588",
-            "name": "Guess The Secret Word"
+            "href": "https://api.tvmaze.com/episodes/3551455",
+            "name": "Is This The Cringiest Thing You Can Put On A Gift?"
           }
         }
       }
@@ -5306,7 +5306,7 @@
         "rating": {
           "average": 6.6
         },
-        "weight": 47,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -5474,7 +5474,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -5555,7 +5555,7 @@
         "rating": {
           "average": 5.3
         },
-        "weight": 85,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -6208,7 +6208,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 88,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6293,7 +6293,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 88,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6378,7 +6378,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 88,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6463,7 +6463,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 88,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6548,7 +6548,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 88,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6633,7 +6633,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 88,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6794,7 +6794,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 41,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7379,7 +7379,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 58,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -8684,7 +8684,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -9099,7 +9099,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -9179,7 +9179,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9259,7 +9259,7 @@
         "rating": {
           "average": null
         },
-        "weight": 3,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9674,7 +9674,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 94,
+        "weight": 97,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -10023,7 +10023,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 35,
         "network": {
           "id": 76,
           "name": "TV Tokyo",
@@ -10117,7 +10117,7 @@
         "rating": {
           "average": null
         },
-        "weight": 74,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 464,
@@ -10992,7 +10992,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 187,
@@ -11081,7 +11081,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 73,
@@ -11170,7 +11170,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 73,
@@ -11510,7 +11510,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -11539,12 +11539,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509944",
-            "name": "Aflevering 7211"
+            "href": "https://api.tvmaze.com/episodes/3509947",
+            "name": "Aflevering 7214"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509945",
-            "name": "Aflevering 7212"
+            "href": "https://api.tvmaze.com/episodes/3509948",
+            "name": "Aflevering 7215"
           }
         }
       }
@@ -11604,7 +11604,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 81,
+        "weight": 87,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -11804,7 +11804,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 92,
+        "weight": 94,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -11897,7 +11897,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 15,

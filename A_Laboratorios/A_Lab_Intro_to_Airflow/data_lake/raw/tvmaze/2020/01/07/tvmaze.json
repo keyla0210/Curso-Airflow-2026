@@ -51,7 +51,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -139,7 +139,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -229,7 +229,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 135,
@@ -314,7 +314,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -747,7 +747,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1360,7 +1360,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1448,7 +1448,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1536,7 +1536,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1624,7 +1624,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1712,7 +1712,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1886,7 +1886,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1972,7 +1972,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2306,7 +2306,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 78,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2325,14 +2325,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115876.jpg"
         },
         "summary": "<p>Trailers that tell you the TRUTH about your favorite movies and TV shows: Honest Trailers. These are the hilarious trailers the producers don't want you to see...</p>",
-        "updated": 1770758114,
+        "updated": 1771356066,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/13392"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3546147",
-            "name": "Heated Rivalry"
+            "href": "https://api.tvmaze.com/episodes/3551258",
+            "name": "Zootopia 2"
           }
         }
       }
@@ -2552,7 +2552,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2964,7 +2964,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 54,
+        "weight": 81,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -3066,7 +3066,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 54,
+        "weight": 81,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -3519,7 +3519,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3599,7 +3599,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3618,14 +3618,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894788.jpg"
         },
         "summary": "<p><b>Inside of You with Michael Rosenbaum</b> is a podcast, recorded series inside of the home of Michael Rosenbaum (Sorority Boys, Smallville). Listen as he invites celebrities, athletes, musicians, or anyone he finds interesting to sit next to on the couch, while he probes them for the most interesting stories they have.</p>",
-        "updated": 1770748204,
+        "updated": 1771430110,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/47944"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538908",
-            "name": "JAMEELA JAMIL: Wrong Turns, Beauty Standards and Learning to Love Getting Older"
+            "href": "https://api.tvmaze.com/episodes/3551179",
+            "name": "DAVID RAMSEY: Beating Cancer, Finding Gratitude & Letting Go of Fear"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3551183",
+            "name": "STEPHEN AMELL"
           }
         }
       }
@@ -4094,7 +4098,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4113,14 +4117,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770994764,
+        "updated": 1771414233,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3548537",
-            "name": "#2453 - Evan Hafer"
+            "href": "https://api.tvmaze.com/episodes/3551453",
+            "name": "#2455 - Donnell Rawlings"
           }
         }
       }
@@ -4627,7 +4631,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -4720,7 +4724,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -4749,12 +4753,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509944",
-            "name": "Aflevering 7211"
+            "href": "https://api.tvmaze.com/episodes/3509947",
+            "name": "Aflevering 7214"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509945",
-            "name": "Aflevering 7212"
+            "href": "https://api.tvmaze.com/episodes/3509948",
+            "name": "Aflevering 7215"
           }
         }
       }
@@ -4813,7 +4817,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -4977,7 +4981,7 @@
         "rating": {
           "average": null
         },
-        "weight": 35,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -5061,7 +5065,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 102,

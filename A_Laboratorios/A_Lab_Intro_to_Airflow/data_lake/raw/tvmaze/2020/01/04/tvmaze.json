@@ -47,7 +47,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 56,
@@ -136,7 +136,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 83,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -584,7 +584,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -674,7 +674,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -763,7 +763,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -792,12 +792,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534453",
-            "name": "Dysleksi?"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534454",
             "name": "Telle til ti"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534455",
+            "name": "Overraskelsen"
           }
         }
       }
@@ -1274,7 +1274,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1358,7 +1358,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1442,7 +1442,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1526,7 +1526,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1610,7 +1610,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1694,7 +1694,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1778,7 +1778,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1862,7 +1862,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1940,7 +1940,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -2031,7 +2031,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 57,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 88,
@@ -2655,7 +2655,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2745,7 +2745,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2835,7 +2835,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2995,7 +2995,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -3234,7 +3234,7 @@
         "rating": {
           "average": null
         },
-        "weight": 0,
+        "weight": 35,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3253,14 +3253,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/503/1259984.jpg"
         },
         "summary": null,
-        "updated": 1767609778,
+        "updated": 1771322246,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/74645"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3513149",
-            "name": "Every New 3DS Exclusive and Enhanced Game (#452)"
+            "href": "https://api.tvmaze.com/episodes/3550975",
+            "name": "Black Sheep Games 2 (#455)"
           }
         }
       }
@@ -3322,7 +3322,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 74,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 20,
@@ -3409,7 +3409,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3432,7 +3432,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1374377.jpg"
         },
         "summary": "<p>Artists spend eight days together at a farm outside the city of Moss, where each artist attempts to do their own version of another artists well-known songs, with each person getting an episode featuring all of their songs being performed by the other musicians.</p>",
-        "updated": 1770910625,
+        "updated": 1771438102,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/11502"
@@ -3504,7 +3504,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3527,7 +3527,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1374377.jpg"
         },
         "summary": "<p>Artists spend eight days together at a farm outside the city of Moss, where each artist attempts to do their own version of another artists well-known songs, with each person getting an episode featuring all of their songs being performed by the other musicians.</p>",
-        "updated": 1770910625,
+        "updated": 1771438102,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/11502"

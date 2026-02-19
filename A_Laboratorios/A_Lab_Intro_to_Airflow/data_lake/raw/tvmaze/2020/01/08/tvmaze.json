@@ -582,7 +582,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -668,7 +668,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -757,7 +757,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -786,12 +786,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534453",
-            "name": "Dysleksi?"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534454",
             "name": "Telle til ti"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534455",
+            "name": "Overraskelsen"
           }
         }
       }
@@ -1023,7 +1023,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 47,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1197,7 +1197,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 81,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 170,
@@ -1287,7 +1287,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1375,7 +1375,7 @@
         "rating": {
           "average": null
         },
-        "weight": 30,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1461,7 +1461,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1729,7 +1729,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 50,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2053,7 +2053,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2689,7 +2689,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 54,
+        "weight": 81,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -2791,7 +2791,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 54,
+        "weight": 81,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -2887,7 +2887,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 88,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -2970,7 +2970,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 88,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3053,7 +3053,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 88,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3136,7 +3136,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 88,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3219,7 +3219,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 73,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3302,7 +3302,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 73,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3385,7 +3385,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 73,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3468,7 +3468,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 73,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3551,7 +3551,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 73,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3634,7 +3634,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 73,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3907,7 +3907,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -4000,7 +4000,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -4084,7 +4084,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4335,7 +4335,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 195,
@@ -4584,7 +4584,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4664,7 +4664,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4744,7 +4744,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -4824,7 +4824,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4843,14 +4843,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770994764,
+        "updated": 1771414233,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3548537",
-            "name": "#2453 - Evan Hafer"
+            "href": "https://api.tvmaze.com/episodes/3551453",
+            "name": "#2455 - Donnell Rawlings"
           }
         }
       }
@@ -5106,7 +5106,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 347,
@@ -5196,7 +5196,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 52,
         "network": {
           "id": 76,
           "name": "TV Tokyo",
@@ -5456,7 +5456,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -5549,7 +5549,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -5578,12 +5578,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509944",
-            "name": "Aflevering 7211"
+            "href": "https://api.tvmaze.com/episodes/3509947",
+            "name": "Aflevering 7214"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509945",
-            "name": "Aflevering 7212"
+            "href": "https://api.tvmaze.com/episodes/3509948",
+            "name": "Aflevering 7215"
           }
         }
       }
@@ -5642,7 +5642,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -5722,7 +5722,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 94,
+        "weight": 93,
         "network": {
           "id": 5,
           "name": "The CW",
@@ -5745,18 +5745,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485132.jpg"
         },
         "summary": "<p>Each Wednesday at 8:00 p.m. ET, WWE Superstars and Divas of tomorrow face off on <b>WWE NXT</b><i>,</i> a one-hour weekly show that features the brightest and best of WWE's rising stars. WWE NXT showcases the Superstars and Divas from WWE's Performance Center as well as appearances from WWE Superstars and Legends in an intimate setting. WWE NXT broadcasts from the state-of-the-art Full Sail LIVE venue on the Full Sail University in campus in Orlando, Florida.</p>",
-        "updated": 1770777477,
+        "updated": 1771385463,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2266"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3481744",
-            "name": "Main Event: Zaria & Sol Ruca vs. WrenQCC for the #1 contender for the NXT Women's Championship"
+            "href": "https://api.tvmaze.com/episodes/3481745",
+            "name": "Main Event: Shiloh Hill vs. Ethan Page (c) for the NXT North American Championship"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3481745",
-            "name": "Episode 7"
+            "href": "https://api.tvmaze.com/episodes/3481746",
+            "name": "Episode 8"
           }
         }
       }
@@ -5817,7 +5817,7 @@
         "rating": {
           "average": 5.6
         },
-        "weight": 46,
+        "weight": 82,
         "network": {
           "id": 132,
           "name": "Tokyo MX",

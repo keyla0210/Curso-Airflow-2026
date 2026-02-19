@@ -52,7 +52,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 83,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -960,7 +960,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 93,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -983,7 +983,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/610/1525913.jpg"
         },
         "summary": "<p>As a cultivation genius who has achieved a new realm every two years since he was a year old, Wang Ling is a near-invincible existence with prowess far beyond his control. But now that he's sixteen, he faces his greatest battle yet \u2013 Senior High School. With one challenge after another popping up, his plans for a low-key high school life seem further and further away\u2026<br />\u00a0</p>",
-        "updated": 1771146522,
+        "updated": 1771173184,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/46240"
@@ -1055,7 +1055,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 93,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -1078,7 +1078,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/610/1525913.jpg"
         },
         "summary": "<p>As a cultivation genius who has achieved a new realm every two years since he was a year old, Wang Ling is a near-invincible existence with prowess far beyond his control. But now that he's sixteen, he faces his greatest battle yet \u2013 Senior High School. With one challenge after another popping up, his plans for a low-key high school life seem further and further away\u2026<br />\u00a0</p>",
-        "updated": 1771146522,
+        "updated": 1771173184,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/46240"
@@ -1150,7 +1150,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 93,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -1173,7 +1173,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/610/1525913.jpg"
         },
         "summary": "<p>As a cultivation genius who has achieved a new realm every two years since he was a year old, Wang Ling is a near-invincible existence with prowess far beyond his control. But now that he's sixteen, he faces his greatest battle yet \u2013 Senior High School. With one challenge after another popping up, his plans for a low-key high school life seem further and further away\u2026<br />\u00a0</p>",
-        "updated": 1771146522,
+        "updated": 1771173184,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/46240"
@@ -1245,7 +1245,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 93,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -1268,7 +1268,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/610/1525913.jpg"
         },
         "summary": "<p>As a cultivation genius who has achieved a new realm every two years since he was a year old, Wang Ling is a near-invincible existence with prowess far beyond his control. But now that he's sixteen, he faces his greatest battle yet \u2013 Senior High School. With one challenge after another popping up, his plans for a low-key high school life seem further and further away\u2026<br />\u00a0</p>",
-        "updated": 1771146522,
+        "updated": 1771173184,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/46240"
@@ -1427,7 +1427,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1456,12 +1456,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534453",
-            "name": "Dysleksi?"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534454",
             "name": "Telle til ti"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534455",
+            "name": "Overraskelsen"
           }
         }
       }
@@ -1594,7 +1594,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1755,7 +1755,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1774,14 +1774,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/204/511597.jpg"
         },
         "summary": "<p>The author's journalistic program of Alexey Pivovarov, where he asks questions and interviews guests, makes reports on actual themes, as well as on entertaining topics.</p>",
-        "updated": 1770925263,
+        "updated": 1771352547,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42899"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3532246",
-            "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 208-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
+            "href": "https://api.tvmaze.com/episodes/3551246",
+            "name": "Telegram \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0442. \u0418\u043b\u0438 \u043d\u0435\u0442?"
           },
           "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3532247",
@@ -1846,7 +1846,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 57,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 88,
@@ -2298,7 +2298,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2384,7 +2384,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -2702,7 +2702,7 @@
         "rating": {
           "average": null
         },
-        "weight": 0,
+        "weight": 35,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2721,14 +2721,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/503/1259984.jpg"
         },
         "summary": null,
-        "updated": 1767609778,
+        "updated": 1771322246,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/74645"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3513149",
-            "name": "Every New 3DS Exclusive and Enhanced Game (#452)"
+            "href": "https://api.tvmaze.com/episodes/3550975",
+            "name": "Black Sheep Games 2 (#455)"
           }
         }
       }
@@ -2782,7 +2782,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2801,14 +2801,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770994764,
+        "updated": 1771414233,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3548537",
-            "name": "#2453 - Evan Hafer"
+            "href": "https://api.tvmaze.com/episodes/3551453",
+            "name": "#2455 - Donnell Rawlings"
           }
         }
       }
@@ -2866,7 +2866,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 90,
+        "weight": 91,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2963,7 +2963,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 90,
+        "weight": 91,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -3064,7 +3064,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 74,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 20,
@@ -3144,7 +3144,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 68,
         "network": {
           "id": 2,
           "name": "CBS",
@@ -3240,7 +3240,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3263,7 +3263,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1374377.jpg"
         },
         "summary": "<p>Artists spend eight days together at a farm outside the city of Moss, where each artist attempts to do their own version of another artists well-known songs, with each person getting an episode featuring all of their songs being performed by the other musicians.</p>",
-        "updated": 1770910625,
+        "updated": 1771438102,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/11502"
@@ -3419,7 +3419,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3442,7 +3442,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1374377.jpg"
         },
         "summary": "<p>Artists spend eight days together at a farm outside the city of Moss, where each artist attempts to do their own version of another artists well-known songs, with each person getting an episode featuring all of their songs being performed by the other musicians.</p>",
-        "updated": 1770910625,
+        "updated": 1771438102,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/11502"
@@ -3507,7 +3507,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 66,

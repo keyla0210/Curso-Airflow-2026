@@ -54,7 +54,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 90,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 281,
@@ -142,7 +142,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -320,7 +320,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 61,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -938,7 +938,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1113,7 +1113,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 358,
@@ -1204,7 +1204,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 358,
@@ -1289,7 +1289,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 47,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1547,7 +1547,7 @@
         "rating": {
           "average": null
         },
-        "weight": 30,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1715,7 +1715,7 @@
         "rating": {
           "average": null
         },
-        "weight": 74,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1961,7 +1961,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2048,7 +2048,7 @@
         "rating": {
           "average": 6.6
         },
-        "weight": 93,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 310,
@@ -2135,7 +2135,7 @@
         "rating": {
           "average": 6.5
         },
-        "weight": 81,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -2217,7 +2217,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2302,7 +2302,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 93,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2387,7 +2387,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 93,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2472,7 +2472,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 93,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2557,7 +2557,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 93,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2642,7 +2642,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 93,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2727,7 +2727,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 93,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2814,7 +2814,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 94,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 310,
@@ -2982,7 +2982,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -3063,7 +3063,7 @@
         "rating": {
           "average": 5.3
         },
-        "weight": 85,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -3150,7 +3150,7 @@
         "rating": {
           "average": 6.5
         },
-        "weight": 59,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -3228,7 +3228,7 @@
         "rating": {
           "average": null
         },
-        "weight": 17,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -3398,7 +3398,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -4083,7 +4083,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 41,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4169,7 +4169,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4259,7 +4259,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4345,7 +4345,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4427,7 +4427,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4509,7 +4509,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4591,7 +4591,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4673,7 +4673,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4755,7 +4755,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5170,7 +5170,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 35,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5327,7 +5327,7 @@
         "rating": {
           "average": null
         },
-        "weight": 5,
+        "weight": 6,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5410,7 +5410,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 69,
+        "weight": 63,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -5510,7 +5510,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 94,
+        "weight": 97,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -5593,7 +5593,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 69,
+        "weight": 63,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -5693,7 +5693,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 80,
         "network": {
           "id": 1039,
           "name": "Disney Junior",
@@ -5793,7 +5793,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 80,
         "network": {
           "id": 1039,
           "name": "Disney Junior",
@@ -6311,7 +6311,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 87,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -6340,12 +6340,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509944",
-            "name": "Aflevering 7211"
+            "href": "https://api.tvmaze.com/episodes/3509947",
+            "name": "Aflevering 7214"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509945",
-            "name": "Aflevering 7212"
+            "href": "https://api.tvmaze.com/episodes/3509948",
+            "name": "Aflevering 7215"
           }
         }
       }
@@ -6399,7 +6399,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 15,
