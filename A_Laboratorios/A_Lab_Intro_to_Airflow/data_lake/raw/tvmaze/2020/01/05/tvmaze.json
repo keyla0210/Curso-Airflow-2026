@@ -321,7 +321,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -411,7 +411,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -591,7 +591,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 42,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -681,7 +681,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 42,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -767,7 +767,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -857,7 +857,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2132,7 +2132,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -2157,12 +2157,12 @@
             "href": "https://api.tvmaze.com/shows/49740"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537566",
-            "name": "TJPW Club eX: Chapter Pause"
+            "href": "https://api.tvmaze.com/episodes/3537569",
+            "name": "TJPW Love & Flame ~The Burning Venus Returns~"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537567",
-            "name": "TJPW Final Curtain in KOBE Art Center"
+            "href": "https://api.tvmaze.com/episodes/3537570",
+            "name": "TJPW First Sparkle at Aioi Hall"
           }
         }
       }
@@ -2216,7 +2216,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -2297,7 +2297,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -2385,7 +2385,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -2465,7 +2465,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2545,7 +2545,7 @@
         "rating": {
           "average": null
         },
-        "weight": 5,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2649,14 +2649,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1385791.jpg"
         },
         "summary": "<p>From unraveling the secrets of opening and closing doors to defusing surprise packages more commonly known as bombs, there is never a dull day at the Hololive Production office! <b>Holo no Graffiti</b> follows an eccentric cast of Virtual YouTubers, also known as \"VTubers,\" going about their absurd yet hilarious daily lives, detailing all their cute moments and mishaps.</p>",
-        "updated": 1771322166,
+        "updated": 1771845789,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82397"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3550972",
-            "name": "IT'S RAW"
+            "href": "https://api.tvmaze.com/episodes/3555882",
+            "name": "Delish Earth"
           }
         }
       }
@@ -2894,7 +2894,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 85,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 265,
@@ -2982,7 +2982,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 155,
