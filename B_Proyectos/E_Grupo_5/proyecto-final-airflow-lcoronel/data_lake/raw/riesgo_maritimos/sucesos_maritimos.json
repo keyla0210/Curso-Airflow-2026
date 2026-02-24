@@ -1,0 +1,7136 @@
+[
+  {
+    "fecha": "2025-07-28",
+    "hora": "15:27",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Deportivo",
+        "nombre": "HOBIE GETAWAY",
+        "identificacion": "CCMN3794I910",
+        "omi": null,
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      },
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "WOOD CHUCK",
+        "identificacion": "FL9726HG",
+        "omi": null,
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Exterior Biscayne Bay/Hibiscus Island, Miami, Fl (Sin Datos)",
+    "nro_expediente": "EX-2025-83291222- -APN-JST#MEC",
+    "latitud": null,
+    "longitud": null,
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2025-04-17",
+    "hora": "22:30",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Papu Mar",
+        "identificacion": null,
+        "omi": "7514828",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Exterior R\u00edo De La Plata/Aguas De Uso Com\u00fan Con La Republica Oriental Del Uruguay (Buenos Aires)",
+    "nro_expediente": "EX-2025-41723687- -APN-JST#MEC",
+    "latitud": "-34.766667",
+    "longitud": "-57.566667",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2025-02-07",
+    "hora": "09:30",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Carlillo",
+        "identificacion": "03131",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Mar Territorial, Altura Rawson (Chubut)",
+    "nro_expediente": "EX-2025-13758644- -APN-JST#MEC",
+    "latitud": "-43.334167",
+    "longitud": "-64.719167",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2025-01-26",
+    "hora": "12:11",
+    "estado": "En Curso",
+    "vehiculos": [],
+    "lugar": "Localidad Ramallo (Buenos Aires)",
+    "nro_expediente": "20250127-25",
+    "latitud": "-33.460000",
+    "longitud": "-60.023333",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2025-01-17",
+    "hora": "11:00",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Artefacto Naval",
+        "nombre": "Lola",
+        "identificacion": "LARG 62",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De Las Vueltas, El Chalt\u00e9n (Santa Cruz)",
+    "nro_expediente": "EX-2025-06684203- -APN-JST#MEC",
+    "latitud": "-49.338056",
+    "longitud": "-72.865278",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2025-01-09",
+    "hora": "20:10",
+    "estado": "En Curso",
+    "vehiculos": [],
+    "lugar": "Localidad Alvear (Santa Fe)",
+    "nro_expediente": "20250111-25",
+    "latitud": "-40.808333",
+    "longitud": "-65.086666",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2025-01-04",
+    "hora": "20:45",
+    "estado": "En Curso",
+    "vehiculos": [],
+    "lugar": "Localidad Ramallo (Buenos Aires)",
+    "nro_expediente": "20250107-25",
+    "latitud": "-33.491111",
+    "longitud": "-59.927222",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2024-12-27",
+    "hora": "11:30",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Lancha de Servicios",
+        "nombre": "Rei Davi",
+        "identificacion": "100200",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      },
+      {
+        "tipo": "Lancha de Servicios",
+        "nombre": "Abraao Tour King",
+        "identificacion": "S/D",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Costa De Angra Dos Reis, R\u00edo De Janeiro, Brasil (Angra Dos Reis, Brasil)",
+    "nro_expediente": "EX-2024-142669032- \u00a0 -APN-JST#MEC",
+    "latitud": "-23.064167",
+    "longitud": "-44.354167",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2024-12-10",
+    "hora": "21:18",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Eldia",
+        "identificacion": "N/A",
+        "omi": "9798351",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Rosario (Santa Fe)",
+    "nro_expediente": "20241210/24",
+    "latitud": "-33.030000",
+    "longitud": "-60.580000",
+    "fecha_finalizacion": "2025-04-29 12:45"
+  },
+  {
+    "fecha": "2024-12-07",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Nuevo Anave",
+        "identificacion": "S/D",
+        "omi": "9998638",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De Rawson (Chubut)",
+    "nro_expediente": "20241207/24",
+    "latitud": "-43.341789",
+    "longitud": "-65.054716",
+    "fecha_finalizacion": "2025-04-29 12:30"
+  },
+  {
+    "fecha": "2024-12-01",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Stadion II",
+        "identificacion": "S/D",
+        "omi": "9414462",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Instalaci\u00f3n Portuaria, Timb\u00faes (Santa Fe)",
+    "nro_expediente": "20241201/24",
+    "latitud": "-32.623925",
+    "longitud": "-60.753624",
+    "fecha_finalizacion": "2025-04-29 12:35"
+  },
+  {
+    "fecha": "2024-11-12",
+    "hora": "00:51",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Agapi S",
+        "identificacion": "N/A",
+        "omi": "9514822",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Victoria (Entre Rios)",
+    "nro_expediente": "20241112/24",
+    "latitud": "-32.755900",
+    "longitud": "-60.719100",
+    "fecha_finalizacion": "2025-04-29 12:01"
+  },
+  {
+    "fecha": "2024-11-07",
+    "hora": "18:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Star Wave",
+        "identificacion": "N/A",
+        "omi": "9746009",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Timb\u00faes (Santa Fe)",
+    "nro_expediente": "20241107/24",
+    "latitud": "-32.629927",
+    "longitud": "-60.746320",
+    "fecha_finalizacion": "2025-04-29 12:01"
+  },
+  {
+    "fecha": "2024-11-04",
+    "hora": "19:02",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Hansa Oslo",
+        "identificacion": "S/D",
+        "omi": "9358321",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Isla Villegas (Santa Fe)",
+    "nro_expediente": "20241104/24",
+    "latitud": "-30.685000",
+    "longitud": "-60.711111",
+    "fecha_finalizacion": "2024-11-07 00:00"
+  },
+  {
+    "fecha": "2024-10-28",
+    "hora": "22:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Besiktas GH",
+        "identificacion": "S/D",
+        "omi": "9654971",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto General San Mart\u00edn (Santa Fe)",
+    "nro_expediente": "20241028/24",
+    "latitud": "-32.694139",
+    "longitud": "-60.721103",
+    "fecha_finalizacion": "2024-10-29 13:00"
+  },
+  {
+    "fecha": "2024-10-20",
+    "hora": "11:50",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Beyond 2",
+        "identificacion": "S/D",
+        "omi": "9526564",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Isla De La Paloma (Entre Rios)",
+    "nro_expediente": "20241020/24",
+    "latitud": "-33.035936",
+    "longitud": "-60.571358",
+    "fecha_finalizacion": "2024-10-22 12:00"
+  },
+  {
+    "fecha": "2024-10-11",
+    "hora": "01:20",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Alonissos",
+        "identificacion": "S/D",
+        "omi": "9566916",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Rada Del Puerto De General Lagos (Santa Fe)",
+    "nro_expediente": "20241011/24",
+    "latitud": "-33.107222",
+    "longitud": "-60.506111",
+    "fecha_finalizacion": "2024-11-07 00:00"
+  },
+  {
+    "fecha": "2024-10-04",
+    "hora": "23:55",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Argenmar Mistral",
+        "identificacion": "S/D",
+        "omi": "9498937",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Isla Del Paraguayo (Entre Rios)",
+    "nro_expediente": "20241004/24",
+    "latitud": "-33.137731",
+    "longitud": "-60.478543",
+    "fecha_finalizacion": "2024-10-09 17:00"
+  },
+  {
+    "fecha": "2024-09-22",
+    "hora": "18:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Rooster",
+        "identificacion": "S/D",
+        "omi": "9723942",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Terminal Vicent\u00edn Saic (Santa Fe)",
+    "nro_expediente": "20240922/24",
+    "latitud": "-32.770798",
+    "longitud": "-60.721579",
+    "fecha_finalizacion": "2024-09-25 12:00"
+  },
+  {
+    "fecha": "2024-09-12",
+    "hora": "13:50",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "El Triunfador",
+        "identificacion": "02711",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata Exterior, Altura Dolores (Buenos Aires)",
+    "nro_expediente": "EX-2024-101188417-   -APN-JST#MEC",
+    "latitud": "-36.183056",
+    "longitud": "-57.166667",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2024-09-06",
+    "hora": "23:55",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "AP Revelin",
+        "identificacion": "S/D",
+        "omi": "9694696",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Islas De Las Lechiguanas (Entre Rios)",
+    "nro_expediente": "20240906/24",
+    "latitud": "-33.360934",
+    "longitud": "-60.074077",
+    "fecha_finalizacion": "2024-09-10 15:00"
+  },
+  {
+    "fecha": "2024-09-04",
+    "hora": "07:00",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Princess Mar\u00eda",
+        "identificacion": "S/D",
+        "omi": "9136929",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Lorenzo (Santa Fe)",
+    "nro_expediente": "EX-2024-96335767-   -APN-JST#MEC",
+    "latitud": "-32.772500",
+    "longitud": "-60.720556",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2024-08-30",
+    "hora": "12:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Portacontenedores",
+        "nombre": "Argentino C",
+        "identificacion": "0746",
+        "omi": "8301785",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Terminal Z\u00e1rate (Buenos Aires)",
+    "nro_expediente": "20240830/24",
+    "latitud": "-34.065254",
+    "longitud": "-59.034382",
+    "fecha_finalizacion": "2024-09-05 17:00"
+  },
+  {
+    "fecha": "2024-08-28",
+    "hora": "06:22",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Obahan C",
+        "identificacion": "S/D",
+        "omi": "9748253",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Granelero",
+        "nombre": "Nord Singapore",
+        "identificacion": "S/D",
+        "omi": "9913535",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20240828/24",
+    "latitud": "-33.473634",
+    "longitud": "-59.988076",
+    "fecha_finalizacion": "2024-08-03 17:00"
+  },
+  {
+    "fecha": "2024-08-25",
+    "hora": "03:20",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Irupe",
+        "identificacion": "01333",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Lancha de Practicaje",
+        "nombre": "Max Dream",
+        "identificacion": "03262",
+        "omi": "N/A",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Lorenzo (Santa Fe)",
+    "nro_expediente": "20240825/24",
+    "latitud": "-32.975045",
+    "longitud": "-60.615671",
+    "fecha_finalizacion": "2024-08-28 12:00"
+  },
+  {
+    "fecha": "2024-08-24",
+    "hora": "12:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Cavalier XI",
+        "identificacion": "S/D",
+        "omi": "8633982",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Paso De La Patria (Corrientes)",
+    "nro_expediente": "20240824/24",
+    "latitud": "-27.293880",
+    "longitud": "-58.524289",
+    "fecha_finalizacion": "2024-08-28 12:00"
+  },
+  {
+    "fecha": "2024-08-09",
+    "hora": "16:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "G\u00e9minis",
+        "identificacion": "S/D",
+        "omi": "8709509",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20240809/24",
+    "latitud": "-38.047457",
+    "longitud": "-57.536629",
+    "fecha_finalizacion": "2024-08-16 12:00"
+  },
+  {
+    "fecha": "2024-08-05",
+    "hora": "01:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Eduardo V",
+        "identificacion": "S/D",
+        "omi": "9482653",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Villa Constituci\u00f3n (Santa Fe)",
+    "nro_expediente": "20240805/24",
+    "latitud": "-33.217862",
+    "longitud": "-60.291893",
+    "fecha_finalizacion": "2024-08-06 12:00"
+  },
+  {
+    "fecha": "2024-08-04",
+    "hora": "22:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Padrino",
+        "identificacion": "03139",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Pevegasa Quinto",
+        "identificacion": "02312",
+        "omi": "8714499",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Punta Ninfas (Otro)",
+    "nro_expediente": "20240804-2/24",
+    "latitud": "-43.047667",
+    "longitud": "-62.017417",
+    "fecha_finalizacion": "2024-08-06 12:00"
+  },
+  {
+    "fecha": "2024-08-04",
+    "hora": "19:20",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Star Nike",
+        "identificacion": "S/D",
+        "omi": "9875094",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Complejo Portuario San Lorenzo \u2013 Puerto San Mart\u00edn (Santa Fe)",
+    "nro_expediente": "20240804-1/24",
+    "latitud": "-32.712796",
+    "longitud": "-60.723648",
+    "fecha_finalizacion": "2024-08-06 12:00"
+  },
+  {
+    "fecha": "2024-08-01",
+    "hora": "07:50",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Ni\u00f1o Jesus de Praga",
+        "identificacion": "03194",
+        "omi": "9948138",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Mar Territorial, Altura Punta Ninfas (Chubut)",
+    "nro_expediente": "20240801/24",
+    "latitud": "-42.933333",
+    "longitud": "-64.316667",
+    "fecha_finalizacion": "2024-08-02 10:00"
+  },
+  {
+    "fecha": "2024-07-25",
+    "hora": "23:15",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Andr\u00e9s Jorge",
+        "identificacion": "01065",
+        "omi": "7406423",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Caleta Paula (Santa Cruz)",
+    "nro_expediente": "20240725/24",
+    "latitud": "-46.474112",
+    "longitud": "-67.498145",
+    "fecha_finalizacion": "2024-07-29 10:00"
+  },
+  {
+    "fecha": "2024-07-21",
+    "hora": "12:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Argentino",
+        "identificacion": "0142",
+        "omi": "9062037",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Punta Colorada (Otro)",
+    "nro_expediente": "20240721/24",
+    "latitud": "-41.601161",
+    "longitud": "-58.398066",
+    "fecha_finalizacion": "2024-07-29 10:00"
+  },
+  {
+    "fecha": "2024-07-20",
+    "hora": "10:20",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Hamburg Star",
+        "identificacion": "S/D",
+        "omi": "9298325",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Muelle Presidente Illia (Santa Cruz)",
+    "nro_expediente": "20240720/24",
+    "latitud": "-51.607372",
+    "longitud": "-69.013597",
+    "fecha_finalizacion": "2024-07-29 10:00"
+  },
+  {
+    "fecha": "2024-07-13",
+    "hora": "06:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Empesur II",
+        "identificacion": "01439",
+        "omi": "8716447",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Jueves Santo",
+        "identificacion": "0667",
+        "omi": "8714487",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Puerto Madryn (Otro)",
+    "nro_expediente": "20240713/24",
+    "latitud": "-42.239611",
+    "longitud": "-62.476528",
+    "fecha_finalizacion": "2024-07-22 09:00"
+  },
+  {
+    "fecha": "2024-07-09",
+    "hora": "21:15",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Argenova IV",
+        "identificacion": "S/D",
+        "omi": "8702276",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Deseado (Santa Cruz)",
+    "nro_expediente": "20240709/24",
+    "latitud": "-47.756967",
+    "longitud": "-65.902965",
+    "fecha_finalizacion": "2024-07-11 17:00"
+  },
+  {
+    "fecha": "2024-07-08",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Transporte de Vehiculos",
+        "nombre": "Incansable",
+        "identificacion": "S/D",
+        "omi": "7816109",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Santa Fe De La Vera Cruz (Santa Fe)",
+    "nro_expediente": "20240708/24",
+    "latitud": "-31.706269",
+    "longitud": "-60.588944",
+    "fecha_finalizacion": "2024-07-11 17:00"
+  },
+  {
+    "fecha": "2024-07-01",
+    "hora": "17:15",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Sirtaki",
+        "identificacion": "S/D",
+        "omi": "9369887",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata Interior, Canal Brown, Altura Wilde (Buenos Aires)",
+    "nro_expediente": "20240701/24",
+    "latitud": "-34.600000",
+    "longitud": "-58.233333",
+    "fecha_finalizacion": "2024-07-11 17:00"
+  },
+  {
+    "fecha": "2024-06-30",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Stadion II",
+        "identificacion": "S/D",
+        "omi": "9414462",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Arroyo Seco (Santa Fe)",
+    "nro_expediente": "20240630/24",
+    "latitud": "-33.139984",
+    "longitud": "-60.480420",
+    "fecha_finalizacion": "2024-07-11 17:00"
+  },
+  {
+    "fecha": "2024-06-25",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Viernes Santo",
+        "identificacion": "0668",
+        "omi": "7388566",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto San Antonio Este (Rio Negro)",
+    "nro_expediente": "20240625/24",
+    "latitud": "-40.796748",
+    "longitud": "-64.888069",
+    "fecha_finalizacion": "2024-07-11 17:00"
+  },
+  {
+    "fecha": "2024-06-23",
+    "hora": "04:17",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Bulk Croatia",
+        "identificacion": "S/D",
+        "omi": "9875020",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "HB Perseus",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura San Nicol\u00e1s De Los Arroyos (Buenos Aires)",
+    "nro_expediente": "20240623/24",
+    "latitud": "-33.367001",
+    "longitud": "-60.126752",
+    "fecha_finalizacion": "2024-07-10 17:00"
+  },
+  {
+    "fecha": "2024-06-01",
+    "hora": "11:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Arbumasa XXIX",
+        "identificacion": "02561",
+        "omi": "8708270",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20240601/24",
+    "latitud": "-38.047457",
+    "longitud": "-57.536629",
+    "fecha_finalizacion": "2024-06-06 10:00"
+  },
+  {
+    "fecha": "2024-05-27",
+    "hora": "14:42",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Lancha de Practicaje",
+        "nombre": "Gringa XXII",
+        "identificacion": "03335",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Galv\u00e1n, Pen\u00ednsula De Valdez (Buenos Aires)",
+    "nro_expediente": "EX-2024-56185346-   -APN-JST#MEC",
+    "latitud": "-38.783056",
+    "longitud": "-62.299167",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2024-05-27",
+    "hora": "09:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Ghala",
+        "identificacion": "S/D",
+        "omi": "9687069",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Terminal Las Palmas (Buenos Aires)",
+    "nro_expediente": "20240527/24",
+    "latitud": "-34.019268",
+    "longitud": "-59.125337",
+    "fecha_finalizacion": "2024-05-28 16:12"
+  },
+  {
+    "fecha": "2024-05-15",
+    "hora": "01:44",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Mai Tai",
+        "identificacion": "S/D",
+        "omi": "9709221",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Tanque",
+        "nombre": "Alberto V",
+        "identificacion": "S/D",
+        "omi": "9813319",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1 Guaz\u00fa, Altura Arroyo Manzano (Entre Rios)",
+    "nro_expediente": "20240515/24",
+    "latitud": "-34.026119",
+    "longitud": "-58.563659",
+    "fecha_finalizacion": "2024-05-15 12:00"
+  },
+  {
+    "fecha": "2024-05-01",
+    "hora": "20:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Huyu 908",
+        "identificacion": "03058",
+        "omi": "8649577",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Puerto Madryn (Otro)",
+    "nro_expediente": "20240501/24",
+    "latitud": "-43.312863",
+    "longitud": "-59.281157",
+    "fecha_finalizacion": "2024-05-03 10:00"
+  },
+  {
+    "fecha": "2024-04-27",
+    "hora": "12:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Api V",
+        "identificacion": "2781",
+        "omi": "7336484",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Deseado (Santa Cruz)",
+    "nro_expediente": "20240427/24",
+    "latitud": "-47.756967",
+    "longitud": "-65.902965",
+    "fecha_finalizacion": "2024-04-30 12:00"
+  },
+  {
+    "fecha": "2024-04-23",
+    "hora": "22:20",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "YM Pioneer",
+        "identificacion": "S/D",
+        "omi": "9902548",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Aguas Interiores Mar\u00edtimas, Canal De Acceso Al Puerto De Bah\u00eda Blanca, Altura Puerto Ing. White (Buenos Aires)",
+    "nro_expediente": "20240423/24",
+    "latitud": "-39.061797",
+    "longitud": "-61.836412",
+    "fecha_finalizacion": "2024-04-24 13:00"
+  },
+  {
+    "fecha": "2024-04-21",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Pacific Achievement",
+        "identificacion": "S/D",
+        "omi": "9712917",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Isla Susana (Entre Rios)",
+    "nro_expediente": "20240421/24",
+    "latitud": "-33.506433",
+    "longitud": "-59.899299",
+    "fecha_finalizacion": "2024-04-21 09:00"
+  },
+  {
+    "fecha": "2024-04-17",
+    "hora": "19:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Vela Star",
+        "identificacion": "S/D",
+        "omi": "9402938",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata Interior, Canal Brown, Altura Wilde (Buenos Aires)",
+    "nro_expediente": "20240417/24",
+    "latitud": "-34.600000",
+    "longitud": "-58.233333",
+    "fecha_finalizacion": "2024-04-18 10:39"
+  },
+  {
+    "fecha": "2024-04-06",
+    "hora": "16:43",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Papu Sur",
+        "identificacion": "S/D",
+        "omi": "6827668",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Bella Vista (Corrientes)",
+    "nro_expediente": "20240406/24",
+    "latitud": "-28.508144",
+    "longitud": "-59.052799",
+    "fecha_finalizacion": "2024-04-09 10:36"
+  },
+  {
+    "fecha": "2024-04-04",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Aratiri",
+        "identificacion": "S/D",
+        "omi": "8888264",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paraguay, Altura Desembocadura Del R\u00edo Bermejo (Formosa)",
+    "nro_expediente": "20240404/24",
+    "latitud": "-26.865775",
+    "longitud": "-58.375002",
+    "fecha_finalizacion": "2024-04-04 11:04"
+  },
+  {
+    "fecha": "2024-03-22",
+    "hora": "16:56",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Atrevido",
+        "identificacion": "0145",
+        "omi": "9014016",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20240322/24",
+    "latitud": "-38.041159",
+    "longitud": "-57.529303",
+    "fecha_finalizacion": "2024-03-26 10:00"
+  },
+  {
+    "fecha": "2024-03-20",
+    "hora": "21:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Portacontenedores",
+        "nombre": "MSC Belmonte III",
+        "identificacion": "S/D",
+        "omi": "9309289",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De La Plata (Buenos Aires)",
+    "nro_expediente": "20240320-2/24",
+    "latitud": "-34.857208",
+    "longitud": "-57.890366",
+    "fecha_finalizacion": "2024-03-20 12:00"
+  },
+  {
+    "fecha": "2024-03-20",
+    "hora": "10:18",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Crucero",
+        "nombre": "Celebrity Eclipse",
+        "identificacion": "202403/024",
+        "omi": "9404314",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De Ushuaia (Tierra Del Fuego, Ant\u00e1rtida E Islas Del Atl\u00e1ntico Sur)",
+    "nro_expediente": "20240320-1/24",
+    "latitud": "-54.809953",
+    "longitud": "-68.299087",
+    "fecha_finalizacion": "2024-03-22 12:00"
+  },
+  {
+    "fecha": "2024-03-09",
+    "hora": "09:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Portacontenedores",
+        "nombre": "Steel C",
+        "identificacion": "S/D",
+        "omi": "9700330",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Uruguay, Altura Gualeguaych\u00fa (Entre Rios)",
+    "nro_expediente": "20240309-2/24",
+    "latitud": "-33.109054",
+    "longitud": "-58.348999",
+    "fecha_finalizacion": "2024-04-05 09:00"
+  },
+  {
+    "fecha": "2024-03-09",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Punta Pir\u00e1mide",
+        "identificacion": "S/D",
+        "omi": "9421300",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto Galv\u00e1n, Bah\u00eda Blanca (Buenos Aires)",
+    "nro_expediente": "20240309-1/24",
+    "latitud": "-38.784911",
+    "longitud": "-62.299010",
+    "fecha_finalizacion": "2024-03-12 09:06"
+  },
+  {
+    "fecha": "2024-02-17",
+    "hora": "07:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Clara Insignia",
+        "identificacion": "S/D",
+        "omi": "9800426",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Isla Bodega (Entre Rios)",
+    "nro_expediente": "20240217/24",
+    "latitud": "-33.406551",
+    "longitud": "-60.081009",
+    "fecha_finalizacion": "2024-02-17 17:00"
+  },
+  {
+    "fecha": "2024-02-09",
+    "hora": "22:25",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Don Agust\u00edn",
+        "identificacion": "0968",
+        "omi": "9072020",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Franca",
+        "identificacion": "0495",
+        "omi": "8707630",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Arroyo Verde (Otro)",
+    "nro_expediente": "20240209/24",
+    "latitud": "-41.970000",
+    "longitud": "-61.860833",
+    "fecha_finalizacion": "2024-02-14 10:34"
+  },
+  {
+    "fecha": "2024-02-02",
+    "hora": "21:37",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Filia",
+        "identificacion": "S/D",
+        "omi": "9490868",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Baradero (Buenos Aires)",
+    "nro_expediente": "20240202/24",
+    "latitud": "-33.737193",
+    "longitud": "-59.395753",
+    "fecha_finalizacion": "2024-02-21 17:00"
+  },
+  {
+    "fecha": "2024-01-28",
+    "hora": "21:10",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "En May",
+        "identificacion": "S/D",
+        "omi": "9789829",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 De Las Palmas, Altura Z\u00e1rate (Buenos Aires)",
+    "nro_expediente": "EX-2024-60169485-   -APN-JST#MEC",
+    "latitud": "-34.103889",
+    "longitud": "-59.001667",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2024-01-28",
+    "hora": "01:15",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Crucero",
+        "nombre": "Hanseatic Spirit",
+        "identificacion": "S/D",
+        "omi": "9857640",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Ushuaia (Tierra Del Fuego, Ant\u00e1rtida E Islas Del Atl\u00e1ntico Sur)",
+    "nro_expediente": "20240128-1/24",
+    "latitud": "-54.810035",
+    "longitud": "-68.298418",
+    "fecha_finalizacion": "2024-01-31 16:00"
+  },
+  {
+    "fecha": "2024-01-14",
+    "hora": "12:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Arenero",
+        "nombre": "Potenza",
+        "identificacion": "02494",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto La Boca Del Riachuelo (Ciudad Aut\u00f3noma De Buenos Aires)",
+    "nro_expediente": "20240114-2/24",
+    "latitud": "-34.632426",
+    "longitud": "-58.352889",
+    "fecha_finalizacion": "2024-01-15 12:00"
+  },
+  {
+    "fecha": "2024-01-14",
+    "hora": "06:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Yque\u00b4s",
+        "identificacion": "02665",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20240114-1/24",
+    "latitud": "-40.733333",
+    "longitud": "-64.883333",
+    "fecha_finalizacion": "2024-01-14 17:00"
+  },
+  {
+    "fecha": "2024-01-12",
+    "hora": "16:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "El Marisco I",
+        "identificacion": "0912",
+        "omi": "8836845",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Bah\u00eda Blanca (Buenos Aires)",
+    "nro_expediente": "20240112/24",
+    "latitud": "-40.076389",
+    "longitud": "-59.481388",
+    "fecha_finalizacion": "2024-01-12 18:00"
+  },
+  {
+    "fecha": "2023-12-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Barbosa Lima Sobrinho",
+        "identificacion": "S/D",
+        "omi": "9596844",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto Ing. White, Bah\u00eda Blanca (Buenos Aires)",
+    "nro_expediente": "20231216/23",
+    "latitud": "-38.790296",
+    "longitud": "-62.273248",
+    "fecha_finalizacion": "2023-12-18 12:00"
+  },
+  {
+    "fecha": "2023-12-15",
+    "hora": "06:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "El Malo I",
+        "identificacion": "02350",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Anave",
+        "identificacion": "02701",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Chubut (Otro)",
+    "nro_expediente": "20231215/23",
+    "latitud": "-43.353055",
+    "longitud": "-61.660277",
+    "fecha_finalizacion": "2023-12-15 12:00"
+  },
+  {
+    "fecha": "2023-12-12",
+    "hora": "12:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Barcazas",
+        "nombre": "MMA 2303",
+        "identificacion": "HRB722",
+        "omi": "S/D",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto General San Mart\u00edn, San Lorenzo (Santa Fe)",
+    "nro_expediente": "20231212/23",
+    "latitud": "-32.880502",
+    "longitud": "-60.685440",
+    "fecha_finalizacion": "2023-12-18 17:00"
+  },
+  {
+    "fecha": "2023-12-12",
+    "hora": "07:45",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Arenero",
+        "nombre": "Fuerza del Destino",
+        "identificacion": "01562",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Ciudad De Corrientes (Corrientes)",
+    "nro_expediente": "EX-2023-147872940- -APN-JST#MTR",
+    "latitud": "-27.494167",
+    "longitud": "-58.856389",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2023-12-08",
+    "hora": "00:15",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Urano",
+        "identificacion": "02980",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto General San Mart\u00edn, San Lorenzo (Santa Fe)",
+    "nro_expediente": "EX-2023-147239883- -APN-JST#MTR",
+    "latitud": "-32.654167",
+    "longitud": "-60.737778",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2023-12-07",
+    "hora": "10:20",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Policial",
+        "nombre": "Lago Quillen",
+        "identificacion": "GC 141",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Barcazas",
+        "nombre": "Panchita-G 2007",
+        "identificacion": "3535-B",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Lorenzo (Santa Fe)",
+    "nro_expediente": "20231207/23",
+    "latitud": "-32.880502",
+    "longitud": "-60.685440",
+    "fecha_finalizacion": "2023-12-13 17:00"
+  },
+  {
+    "fecha": "2023-12-05",
+    "hora": "08:15",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Crucero",
+        "nombre": "Viking Jupiter",
+        "identificacion": "S/D",
+        "omi": "9796262",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Buenos Aires (Buenos Aires)",
+    "nro_expediente": "20231205/23",
+    "latitud": "-34.587570",
+    "longitud": "-58.358830",
+    "fecha_finalizacion": "2023-12-05 12:00"
+  },
+  {
+    "fecha": "2023-12-04",
+    "hora": "21:50",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Altar",
+        "identificacion": "02906",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Don Quique",
+        "identificacion": "03203",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Rawson (Chubut)",
+    "nro_expediente": "20231204/23",
+    "latitud": "-43.332275",
+    "longitud": "-65.051103",
+    "fecha_finalizacion": "2023-12-05 17:00"
+  },
+  {
+    "fecha": "2023-12-01",
+    "hora": "21:10",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Foca M",
+        "identificacion": "03128",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De Rawson (Chubut)",
+    "nro_expediente": "EX-2023-144302957-APN-JST#MTR",
+    "latitud": "-43.336667",
+    "longitud": "-65.013056",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2023-11-12",
+    "hora": "05:30",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Buque Corral",
+        "nombre": "Don Jarana",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo San Javier, Altura Helvecia (Santa Fe)",
+    "nro_expediente": "EX-2023-135239783- - APN-JST#MTR",
+    "latitud": "-31.053056",
+    "longitud": "-60.026667",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2023-11-08",
+    "hora": "14:10",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Cavalier VI",
+        "identificacion": "02302",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      },
+      {
+        "tipo": "Tanque",
+        "nombre": "Helena H",
+        "identificacion": "S/D",
+        "omi": "9814337",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Lorenzo (Santa Fe)",
+    "nro_expediente": "EX-2023-134013589- -APN-JST#MTR",
+    "latitud": "-32.634167",
+    "longitud": "-60.745556",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2023-11-03",
+    "hora": "09:40",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Cymona Pride",
+        "identificacion": "S/D",
+        "omi": "9694488",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Carmelo Rou (Rep\u00fablica Oriental Del Uruguay) (Otro)",
+    "nro_expediente": "20231103/23",
+    "latitud": "-34.187037",
+    "longitud": "-58.184296",
+    "fecha_finalizacion": "2023-11-07 12:00"
+  },
+  {
+    "fecha": "2023-10-20",
+    "hora": "11:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Ingenuity",
+        "identificacion": "S/D",
+        "omi": "9710787",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 Bravo, Altura Islas Del Ibicuy (Entre Rios)",
+    "nro_expediente": "20231020/23",
+    "latitud": "-33.893917",
+    "longitud": "-58.695131",
+    "fecha_finalizacion": "2023-10-21 17:00"
+  },
+  {
+    "fecha": "2023-09-28",
+    "hora": "11:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Don Mauricio G",
+        "identificacion": "2471-R",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Empedrado (Chaco)",
+    "nro_expediente": "20230928/23",
+    "latitud": "-27.933611",
+    "longitud": "-58.847777",
+    "fecha_finalizacion": "2023-09-29 17:00"
+  },
+  {
+    "fecha": "2023-09-19",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Empesur VIII",
+        "identificacion": "03214",
+        "omi": "9936848",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Borrasca",
+        "identificacion": "01095",
+        "omi": "7416131",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Puerto Madryn (Otro)",
+    "nro_expediente": "20230919/23",
+    "latitud": "-43.281020",
+    "longitud": "-59.973948",
+    "fecha_finalizacion": "2023-11-08 00:00"
+  },
+  {
+    "fecha": "2023-09-15",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Vieirasa 18",
+        "identificacion": "02563",
+        "omi": "812673",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20230915/23",
+    "latitud": "-38.037003",
+    "longitud": "-57.522326",
+    "fecha_finalizacion": "2023-09-16 17:00"
+  },
+  {
+    "fecha": "2023-09-06",
+    "hora": "09:00",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Lancha de Servicios",
+        "nombre": "Torito",
+        "identificacion": "02982M",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Rosales, Canal De Entrada, Altura Punta Alta (Buenos Aires)",
+    "nro_expediente": "EX-2023-105679550-APN-JST#MTR",
+    "latitud": "-39.080556",
+    "longitud": "-61.826667",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2023-09-06",
+    "hora": "08:00",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Herkules IV",
+        "identificacion": "2941",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Gaboto (Corrientes)",
+    "nro_expediente": "EX-2023-105678309- -APN-JST#MTR",
+    "latitud": "-32.393889",
+    "longitud": "-60.713056",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2023-08-29",
+    "hora": "17:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Lanza Seca",
+        "identificacion": "00181",
+        "omi": "7901112",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto Madryn (Chubut)",
+    "nro_expediente": "20230829/23",
+    "latitud": "-42.736253",
+    "longitud": "-65.030493",
+    "fecha_finalizacion": "2023-08-30 17:00"
+  },
+  {
+    "fecha": "2023-08-25",
+    "hora": "12:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Lanza Seca",
+        "identificacion": "01181",
+        "omi": "7901112",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Yenu",
+        "identificacion": "0498",
+        "omi": "8824062",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Pen\u00ednsula De Vald\u00e9s (Otro)",
+    "nro_expediente": "20230825/23",
+    "latitud": "-43.053333",
+    "longitud": "-62.963888",
+    "fecha_finalizacion": "2023-08-26 17:00"
+  },
+  {
+    "fecha": "2023-08-22",
+    "hora": "16:35",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Arenero",
+        "nombre": "Mar\u00eda del Carmen",
+        "identificacion": "01710",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Reconquista (Santa Fe)",
+    "nro_expediente": "EX-2023-99268743- -APN-JST#MTR",
+    "latitud": "-29.230556",
+    "longitud": "-59.578056",
+    "fecha_finalizacion": "2025-06-19 00:00"
+  },
+  {
+    "fecha": "2023-08-08",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Tendota",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Puerto Algarrobo (Entre Rios)",
+    "nro_expediente": "20230808/23",
+    "latitud": "-30.559500",
+    "longitud": "-59.642900",
+    "fecha_finalizacion": "2023-08-09 17:00"
+  },
+  {
+    "fecha": "2023-08-03",
+    "hora": "07:20",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Ocean Freedom",
+        "identificacion": "S/D",
+        "omi": "9423932",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20230803/23",
+    "latitud": "-33.518800",
+    "longitud": "-59.864500",
+    "fecha_finalizacion": "2023-08-04 17:00"
+  },
+  {
+    "fecha": "2023-08-02",
+    "hora": "17:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Asunci\u00f3n B",
+        "identificacion": "S/D",
+        "omi": "7922116",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Romang (Santa Fe)",
+    "nro_expediente": "20230802/23",
+    "latitud": "-29.531700",
+    "longitud": "-59.631600",
+    "fecha_finalizacion": "2023-08-03 17:00"
+  },
+  {
+    "fecha": "2023-07-31",
+    "hora": "15:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Balizador",
+        "nombre": "Balizador 574-B",
+        "identificacion": "0100F",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 De Las Palmas, Altura Isla Lucha (Buenos Aires)",
+    "nro_expediente": "20230731/23",
+    "latitud": "-34.308294",
+    "longitud": "-58.508377",
+    "fecha_finalizacion": "2023-08-05 00:00"
+  },
+  {
+    "fecha": "2023-07-27",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha Colectivo",
+        "nombre": "Empresa Sturla Viajes",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Muelle De Isla Santa M\u00f3nica (Buenos Aires)",
+    "nro_expediente": "20230727/23",
+    "latitud": "-34.415318",
+    "longitud": "-58.506985",
+    "fecha_finalizacion": "2023-07-28 17:00"
+  },
+  {
+    "fecha": "2023-07-15",
+    "hora": "12:30",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Nuevo Viento",
+        "identificacion": "01449",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Puerto Madryn (Otro)",
+    "nro_expediente": "EX-2023-82653656-APN-JST#MTR",
+    "latitud": "-43.183056",
+    "longitud": "-62.500000",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2023-07-06",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "San Andr\u00e9s Ap\u00f3stol",
+        "identificacion": "0569",
+        "omi": "8621379",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20230706/23",
+    "latitud": "-38.033100",
+    "longitud": "-57.530700",
+    "fecha_finalizacion": "2023-07-07 17:00"
+  },
+  {
+    "fecha": "2023-07-02",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Argenmar Mistral",
+        "identificacion": "03166",
+        "omi": "9498937",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Granelero",
+        "nombre": "Es Vanquish",
+        "identificacion": "S/D",
+        "omi": "9708928",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20230702/23",
+    "latitud": "-33.512400",
+    "longitud": "-59.885800",
+    "fecha_finalizacion": "2023-07-03 17:00"
+  },
+  {
+    "fecha": "2023-06-24",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Madre Inmaculada",
+        "identificacion": "02378",
+        "omi": "7386623",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20230624/23",
+    "latitud": "-38.047336",
+    "longitud": "-57.536792",
+    "fecha_finalizacion": "2023-06-25 17:00"
+  },
+  {
+    "fecha": "2023-06-18",
+    "hora": "20:50",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Innovator",
+        "identificacion": "03160",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Cerro De La Gloria (Buenos Aires)",
+    "nro_expediente": "EX-2023-70980099-APN-JST#MTR",
+    "latitud": "-35.953889",
+    "longitud": "-57.276389",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2023-06-15",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Berge Tateyama",
+        "identificacion": "N/A",
+        "omi": "9866706",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20230615/23",
+    "latitud": "-33.514400",
+    "longitud": "-59.871600",
+    "fecha_finalizacion": "2023-06-17 17:00"
+  },
+  {
+    "fecha": "2023-06-04",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "S Neptune",
+        "identificacion": "N/A",
+        "omi": "9634892",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Mar\u00eda Auxiliadora",
+        "identificacion": "N/A",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 De Las Palmas, Altura Tigre (Buenos Aires)",
+    "nro_expediente": "20230604/23",
+    "latitud": "-34.298686",
+    "longitud": "-58.529526",
+    "fecha_finalizacion": "2023-06-06 17:00"
+  },
+  {
+    "fecha": "2023-05-25",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Orion Ocean",
+        "identificacion": "N/A",
+        "omi": "9738935",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Isla Tonelero (Buenos Aires)",
+    "nro_expediente": "20230525/23",
+    "latitud": "-33.411070",
+    "longitud": "-60.082389",
+    "fecha_finalizacion": "2023-05-27 17:00"
+  },
+  {
+    "fecha": "2023-05-04",
+    "hora": "19:12",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Don Franco",
+        "identificacion": "02955",
+        "omi": "N/A",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad No Aplica (Otro)",
+    "nro_expediente": "EX-2023-50811812-APN-JST#MTR",
+    "latitud": "-36.250000",
+    "longitud": "-55.433056",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2023-05-01",
+    "hora": "07:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "R\u00edo Miranda",
+        "identificacion": "HRB-449",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Empedrado (Corrientes)",
+    "nro_expediente": "EX-2023-49434706-APN-JST#MTR",
+    "latitud": "-27.956667",
+    "longitud": "-58.829167",
+    "fecha_finalizacion": "2024-02-28 13:40"
+  },
+  {
+    "fecha": "2023-05-01",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Adrienne",
+        "identificacion": "N/A",
+        "omi": "9832509",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Barcazas",
+        "nombre": "N/A",
+        "identificacion": "S/D",
+        "omi": "N/A",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Lorenzo (Santa Fe)",
+    "nro_expediente": "202305011/23",
+    "latitud": "-32.770945",
+    "longitud": "-60.717685",
+    "fecha_finalizacion": "2023-05-03 17:00"
+  },
+  {
+    "fecha": "2023-04-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Don Pedro",
+        "identificacion": "068",
+        "omi": "8521323",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Puerto San Juli\u00e1n (Otro)",
+    "nro_expediente": "20230416/23",
+    "latitud": "-49.216667",
+    "longitud": "-64.850000",
+    "fecha_finalizacion": "2023-04-20 17:00"
+  },
+  {
+    "fecha": "2023-04-12",
+    "hora": "07:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Xin Shi Ji 25",
+        "identificacion": "03092",
+        "omi": "9862310",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Xin Shi Ji 92",
+        "identificacion": "02930",
+        "omi": "8692744",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Bah\u00eda San Blas (Otro)",
+    "nro_expediente": "20230412/23",
+    "latitud": "-40.783333",
+    "longitud": "-57.116667",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2023-04-10",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha Colectivo",
+        "nombre": "S/D (Empresa Interisle\u00f1a)",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Muelle En El Delta Del Tigre (Buenos Aires)",
+    "nro_expediente": "20230410/23",
+    "latitud": "-34.281383",
+    "longitud": "-58.597870",
+    "fecha_finalizacion": "2023-04-12 17:00"
+  },
+  {
+    "fecha": "2023-04-03",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Tango I",
+        "identificacion": "02724",
+        "omi": "8721894",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Aguas Interiores Mar\u00edtimas, Golfo San Jorge, Altura Caleta Olivia (Santa Cruz)",
+    "nro_expediente": "20230403/23",
+    "latitud": "-46.433789",
+    "longitud": "-66.486304",
+    "fecha_finalizacion": "2023-04-10 17:00"
+  },
+  {
+    "fecha": "2023-04-02",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Hb Phoenix",
+        "identificacion": "N/A",
+        "omi": "9686479",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Ing. Buitrago Siderar, San Nicol\u00e1s (Buenos Aires)",
+    "nro_expediente": "20230402/23",
+    "latitud": "-33.361125",
+    "longitud": "-60.144938",
+    "fecha_finalizacion": "2023-04-03 17:00"
+  },
+  {
+    "fecha": "2023-03-28",
+    "hora": "16:25",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha Colectivo",
+        "nombre": "S/D (Empresa Interisle\u00f1a)",
+        "identificacion": "0841",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Muelle En El Delta De San Fernando (Buenos Aires)",
+    "nro_expediente": "20230328/23",
+    "latitud": "-34.266370",
+    "longitud": "-58.500088",
+    "fecha_finalizacion": "2023-03-30 17:00"
+  },
+  {
+    "fecha": "2023-03-28",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Portacontenedores",
+        "nombre": "Zim Norfolk",
+        "identificacion": "N/A",
+        "omi": "9710220",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Puerto De Buenos Aires (Ciudad Aut\u00f3noma De Buenos Aires)",
+    "nro_expediente": "202303281/23",
+    "latitud": "-34.604480",
+    "longitud": "-58.287179",
+    "fecha_finalizacion": "2023-03-29 17:00"
+  },
+  {
+    "fecha": "2023-03-24",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Guyrat\u00ed",
+        "identificacion": "2332",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paraguay, Altura Puerto Ipe Ka\u00b4\u00c9 (Otro)",
+    "nro_expediente": "20230324/23",
+    "latitud": "-25.738731",
+    "longitud": "-57.747765",
+    "fecha_finalizacion": "2023-03-31 17:00"
+  },
+  {
+    "fecha": "2023-03-19",
+    "hora": "15:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "San Mateo",
+        "identificacion": "070",
+        "omi": "8725620",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Bah\u00eda Camarones (Otro)",
+    "nro_expediente": "20230319/23",
+    "latitud": "-44.769470",
+    "longitud": "-60.158630",
+    "fecha_finalizacion": "2023-03-20 17:00"
+  },
+  {
+    "fecha": "2023-03-04",
+    "hora": "02:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Asudepes II",
+        "identificacion": "0114",
+        "omi": "8698188",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Puerto Madryn (Otro)",
+    "nro_expediente": "202303041/23",
+    "latitud": "-42.696667",
+    "longitud": "-59.938333",
+    "fecha_finalizacion": "2023-03-08 17:00"
+  },
+  {
+    "fecha": "2023-03-04",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Portacontenedores",
+        "nombre": "Ever Lively",
+        "identificacion": "S/D",
+        "omi": "9604134",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Caba (Ciudad Aut\u00f3noma De Buenos Aires)",
+    "nro_expediente": "20230304/23",
+    "latitud": "-34.604480",
+    "longitud": "-58.287179",
+    "fecha_finalizacion": "2023-03-05 17:00"
+  },
+  {
+    "fecha": "2023-02-15",
+    "hora": "08:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Draga",
+        "nombre": "Elepele III",
+        "identificacion": "01671",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Isla Mart\u00edn Garc\u00eda (Buenos Aires)",
+    "nro_expediente": "EX-2023-18395125-APN-JST#MTR",
+    "latitud": "-34.192500",
+    "longitud": "-58.258056",
+    "fecha_finalizacion": "2025-05-28 00:00"
+  },
+  {
+    "fecha": "2023-02-11",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Temerario I",
+        "identificacion": "01551",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Aguas Interiores, Golfo San Mat\u00edas, Altura San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20230211/23",
+    "latitud": "-40.725771",
+    "longitud": "-64.930108",
+    "fecha_finalizacion": "2023-02-13 17:00"
+  },
+  {
+    "fecha": "2023-02-10",
+    "hora": "18:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Crucero",
+        "nombre": "Le Lyrial",
+        "identificacion": "S/D",
+        "omi": "9704130",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Ushuaia (Tierra Del Fuego, Ant\u00e1rtida E Islas Del Atl\u00e1ntico Sur)",
+    "nro_expediente": "20230210/23",
+    "latitud": "-54.807958",
+    "longitud": "-68.302773",
+    "fecha_finalizacion": "2023-02-12 17:00"
+  },
+  {
+    "fecha": "2023-02-09",
+    "hora": "21:00",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Lancha de Pesca",
+        "nombre": "Paola Andrea",
+        "identificacion": "02645M",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Aguas Interiores, Golfo San Mat\u00edas, Altura San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "EX-2023-17023628-APN-JST#MTR",
+    "latitud": "-41.059167",
+    "longitud": "-64.792500",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2023-02-05",
+    "hora": "09:20",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "JC Baz\u00e1n",
+        "identificacion": "S/D",
+        "omi": "9473937",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De La Plata, Ensenada (Buenos Aires)",
+    "nro_expediente": "20230205/23",
+    "latitud": "-34.866666",
+    "longitud": "-57.883333",
+    "fecha_finalizacion": "2023-02-07 17:00"
+  },
+  {
+    "fecha": "2023-02-03",
+    "hora": "14:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Juan Mario",
+        "identificacion": "02467",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20230203/23",
+    "latitud": "-38.049672",
+    "longitud": "-57.534757",
+    "fecha_finalizacion": "2023-02-03 14:00"
+  },
+  {
+    "fecha": "2023-01-23",
+    "hora": "22:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Norman",
+        "identificacion": "01381",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Aguas Interiores Mar\u00edtimas, Golfo San Mat\u00edas, Altura San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20230123/23",
+    "latitud": "-40.716667",
+    "longitud": "-64.916667",
+    "fecha_finalizacion": "2023-01-23 22:00"
+  },
+  {
+    "fecha": "2023-01-22",
+    "hora": "17:00",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Deportivo",
+        "nombre": "Mandala",
+        "identificacion": "REY 037437",
+        "omi": "N/A",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      },
+      {
+        "tipo": "Transporte de Pasajeros",
+        "nombre": "Silvia Ana L",
+        "identificacion": "S/D",
+        "omi": "9119385",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": false
+      }
+    ],
+    "lugar": "Localidad Puerto De Buenos Aires (Buenos Aires)",
+    "nro_expediente": "EX-2023-08927428-APN-JST#MTR",
+    "latitud": "-34.595556",
+    "longitud": "-58.368056",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2023-01-15",
+    "hora": "18:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Moly",
+        "identificacion": "03172",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Mar Territorial, Altura Rawson (Chubut)",
+    "nro_expediente": "20230115/23",
+    "latitud": "-43.383689",
+    "longitud": "-65.043821",
+    "fecha_finalizacion": "2023-01-17 17:00"
+  },
+  {
+    "fecha": "2022-12-31",
+    "hora": "18:40",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Zina",
+        "identificacion": "S/D",
+        "omi": "9486465",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 Guaz\u00fa, Zona De Islas (Buenos Aires)",
+    "nro_expediente": "20221231/22",
+    "latitud": "-34.103441",
+    "longitud": "-59.002669",
+    "fecha_finalizacion": "2023-01-01 17:00"
+  },
+  {
+    "fecha": "2022-12-14",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Scarlet Falcon",
+        "identificacion": "N/A",
+        "omi": "9609433",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Pedro (Buenos Aires)",
+    "nro_expediente": "20221214/22",
+    "latitud": "-33.630700",
+    "longitud": "-59.700900",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-12-08",
+    "hora": "02:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Portacontenedores",
+        "nombre": "MSC Alessia",
+        "identificacion": "S/D",
+        "omi": "9225653",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Draga",
+        "nombre": "Dasa I",
+        "identificacion": "S/D",
+        "omi": "9745689",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto Dock Sud (Buenos Aires)",
+    "nro_expediente": "202212081/22",
+    "latitud": "-34.641402",
+    "longitud": "-58.342916",
+    "fecha_finalizacion": "2022-12-10 17:00"
+  },
+  {
+    "fecha": "2022-12-08",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Navegantes II",
+        "identificacion": "S/D",
+        "omi": "8614326",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20221208/22",
+    "latitud": "-38.034191",
+    "longitud": "-57.528779",
+    "fecha_finalizacion": "2022-12-09 17:00"
+  },
+  {
+    "fecha": "2022-12-07",
+    "hora": "09:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "El Arca",
+        "identificacion": "03134",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Mar Territorial, Altura Rawson (Chubut)",
+    "nro_expediente": "EX-2022-133400593-APN-JST#MTR",
+    "latitud": "-43.366667",
+    "longitud": "-64.916667",
+    "fecha_finalizacion": "2025-01-17 00:00"
+  },
+  {
+    "fecha": "2022-11-29",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Yasa Unity",
+        "identificacion": "N/A",
+        "omi": "9296262",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Zona Com\u00fan, Altura Ensenada (Buenos Aires)",
+    "nro_expediente": "20221129/22",
+    "latitud": "-34.703900",
+    "longitud": "-57.865800",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-11-28",
+    "hora": "23:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Tai Knighthood",
+        "identificacion": "S/D",
+        "omi": "9883845",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De Quequ\u00e9n (Buenos Aires)",
+    "nro_expediente": "EX-2022-130427019-APN-JST#MTR",
+    "latitud": "-38.581667",
+    "longitud": "-58.696667",
+    "fecha_finalizacion": "2024-07-11 00:00"
+  },
+  {
+    "fecha": "2022-11-28",
+    "hora": "23:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Crucero",
+        "nombre": "Viking Polaris",
+        "identificacion": "S/D",
+        "omi": "9863209",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Mar Territorial, Ant\u00e1rtida, Altura Base Brown (Tierra Del Fuego, Ant\u00e1rtida E Islas Del Atl\u00e1ntico Sur)",
+    "nro_expediente": "EX-2022-130515823-APN-JST#MTR",
+    "latitud": "-64.799167",
+    "longitud": "-63.501667",
+    "fecha_finalizacion": "2023-11-30 00:00"
+  },
+  {
+    "fecha": "2022-11-16",
+    "hora": "13:53",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Crucero",
+        "nombre": "World Explorer",
+        "identificacion": "S/D",
+        "omi": "9835719",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Mar Territorial, Altura Isla Elefante (Tierra Del Fuego, Ant\u00e1rtida E Islas Del Atl\u00e1ntico Sur)",
+    "nro_expediente": "EX-2022-126653142-APN-JST#MTR",
+    "latitud": "-61.200000",
+    "longitud": "-55.011667",
+    "fecha_finalizacion": "2024-07-22 00:00"
+  },
+  {
+    "fecha": "2022-10-02",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Madrid",
+        "identificacion": "N/A",
+        "omi": "9647887",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura San Nicol\u00e1s De Los Arroyos (Buenos Aires)",
+    "nro_expediente": "20221002/22",
+    "latitud": "-33.364800",
+    "longitud": "-60.118400",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-09-25",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Aratiri",
+        "identificacion": "N/A",
+        "omi": "8888264",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Bella Vista (Corrientes)",
+    "nro_expediente": "20220925/22",
+    "latitud": "-28.425700",
+    "longitud": "-59.093700",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-09-21",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Impala Pantanal",
+        "identificacion": "4285",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Localidad Gaboto (Santa Fe)",
+    "nro_expediente": "20220921/22",
+    "latitud": "-32.322200",
+    "longitud": "-60.717600",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-09-16",
+    "hora": "10:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Nono Pascual",
+        "identificacion": "S/D",
+        "omi": "9797778",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20220916/22",
+    "latitud": "-38.050508",
+    "longitud": "-57.536085",
+    "fecha_finalizacion": "2022-09-17 17:00"
+  },
+  {
+    "fecha": "2022-09-13",
+    "hora": "09:20",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Pablo C",
+        "identificacion": "03065",
+        "omi": "7634343",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Belgrano, Bah\u00eda Blanca (Buenos Aires)",
+    "nro_expediente": "EX-2022-97856545-APN-JST#MTR",
+    "latitud": "-38.890556",
+    "longitud": "-62.102778",
+    "fecha_finalizacion": "2022-10-13 00:00"
+  },
+  {
+    "fecha": "2022-09-06",
+    "hora": "11:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Sin Determinar",
+        "nombre": "Sin determinar si hubo un buque involucrado",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Paso De La Patria (Corrientes)",
+    "nro_expediente": "20220906/22",
+    "latitud": "-27.307994",
+    "longitud": "-58.569665",
+    "fecha_finalizacion": "2022-09-08 17:00"
+  },
+  {
+    "fecha": "2022-09-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Fairchem Kiso",
+        "identificacion": "N/A",
+        "omi": "9527075",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Lorenzo (Santa Fe)",
+    "nro_expediente": "20220905/22",
+    "latitud": "-32.727200",
+    "longitud": "-60.721700",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-09-02",
+    "hora": "23:45",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Don Raimundo",
+        "identificacion": "S/D",
+        "omi": "9071284",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Puerto Madryn (Otro)",
+    "nro_expediente": "20220902/22",
+    "latitud": "-43.063194",
+    "longitud": "-61.890507",
+    "fecha_finalizacion": "2022-09-05 17:00"
+  },
+  {
+    "fecha": "2022-08-30",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Buque Corral",
+        "nombre": "Arroyo del Medio",
+        "identificacion": "02306",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura San Nicol\u00e1s De Los Arroyos (Buenos Aires)",
+    "nro_expediente": "EX-2022-92931367-APN-JST#MTR",
+    "latitud": "-33.335556",
+    "longitud": "-60.002778",
+    "fecha_finalizacion": "2023-10-23 00:00"
+  },
+  {
+    "fecha": "2022-08-23",
+    "hora": "14:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Santiago I",
+        "identificacion": "02280",
+        "omi": "7904982",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Pedrito",
+        "identificacion": "025",
+        "omi": "8903686",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Camarones (Otro)",
+    "nro_expediente": "20220823/22",
+    "latitud": "-45.389937",
+    "longitud": "-63.987328",
+    "fecha_finalizacion": "2022-08-25 17:00"
+  },
+  {
+    "fecha": "2022-08-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Enrico H",
+        "identificacion": "3182",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Puerto De Goya (Corrientes)",
+    "nro_expediente": "20220816/22",
+    "latitud": "-29.108200",
+    "longitud": "-59.296600",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-08-13",
+    "hora": "16:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha de Pesca",
+        "nombre": "Primera Mar\u00eda Madre",
+        "identificacion": "01500 M",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura General Lavalle (Buenos Aires)",
+    "nro_expediente": "EX-2022-84883501-APN-JST#MTR",
+    "latitud": "-36.118056",
+    "longitud": "-57.225000",
+    "fecha_finalizacion": "2024-10-04 00:00"
+  },
+  {
+    "fecha": "2022-08-13",
+    "hora": "10:00",
+    "estado": "En Curso",
+    "vehiculos": [
+      {
+        "tipo": "Deportivo",
+        "nombre": "Thunder 3",
+        "identificacion": "PY45751",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      },
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Kyrios",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Isla Del Cerrito (Chaco)",
+    "nro_expediente": "EX-2022-107970533-APN-JST#MTR",
+    "latitud": "-27.304167",
+    "longitud": "-58.568056",
+    "fecha_finalizacion": null
+  },
+  {
+    "fecha": "2022-08-12",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Golondrina de Mar",
+        "identificacion": "547",
+        "omi": "7005944",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Puerto De Goya (Corrientes)",
+    "nro_expediente": "20220812/22",
+    "latitud": "-29.110200",
+    "longitud": "-59.292200",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-08-05",
+    "hora": "15:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Pescargen IV",
+        "identificacion": "0150",
+        "omi": "7321362",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto Madryn (Chubut)",
+    "nro_expediente": "EX-2022-81357449-APN-JST#MTR",
+    "latitud": "-42.734167",
+    "longitud": "-65.019167",
+    "fecha_finalizacion": "2025-05-22 00:00"
+  },
+  {
+    "fecha": "2022-07-31",
+    "hora": "12:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Valentina H",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Esquina (Corrientes)",
+    "nro_expediente": "20220731/22",
+    "latitud": "-29.994669",
+    "longitud": "-59.572571",
+    "fecha_finalizacion": "2022-08-03 17:00"
+  },
+  {
+    "fecha": "2022-07-30",
+    "hora": "15:40",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha Colectivo",
+        "nombre": "Mimicha",
+        "identificacion": "074189-REY",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Nora E",
+        "identificacion": "3886",
+        "omi": "4003240 (ENI)",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Paso De La Patria (Corrientes)",
+    "nro_expediente": "20220730/22",
+    "latitud": "-27.356730",
+    "longitud": "-58.670292",
+    "fecha_finalizacion": "2022-08-01 17:00"
+  },
+  {
+    "fecha": "2022-07-29",
+    "hora": "05:15",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Patagonia",
+        "identificacion": "S/D",
+        "omi": "5272658",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "San Mat\u00edas",
+        "identificacion": "S/D",
+        "omi": "7128629",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Mar Del Plata (Otro)",
+    "nro_expediente": "202207291/22",
+    "latitud": "-38.088658",
+    "longitud": "-55.418770",
+    "fecha_finalizacion": "2022-08-03 17:00"
+  },
+  {
+    "fecha": "2022-07-28",
+    "hora": "06:50",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Petrel",
+        "identificacion": "01445",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Portacontenedores",
+        "nombre": "Madrid Trader",
+        "identificacion": "S/D",
+        "omi": "9813826",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto Madryn (Chubut)",
+    "nro_expediente": "20220728/22",
+    "latitud": "-42.735488",
+    "longitud": "-65.022875",
+    "fecha_finalizacion": "2022-07-30 17:00"
+  },
+  {
+    "fecha": "2022-07-27",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Silver Gertrude",
+        "identificacion": "N/A",
+        "omi": "9683348",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 Guaz\u00fa, Altura Villa Paranacito (Entre Rios)",
+    "nro_expediente": "20220727/22",
+    "latitud": "-33.959000",
+    "longitud": "-58.741900",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-07-22",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Madre Margarita",
+        "identificacion": "02728",
+        "omi": "8747733",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Mar Territorial, Altura Puerto Madryn (Chubut)",
+    "nro_expediente": "20220722/22",
+    "latitud": "-42.979912",
+    "longitud": "-61.669855",
+    "fecha_finalizacion": "2022-07-23 17:00"
+  },
+  {
+    "fecha": "2022-07-13",
+    "hora": "08:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "316 Canal Gobernador Arana",
+        "identificacion": "1672 F / 0203",
+        "omi": "S/D",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura San Nicol\u00e1s De Los Arroyos (Buenos Aires)",
+    "nro_expediente": "20220713/22",
+    "latitud": "-33.362135",
+    "longitud": "-60.133988",
+    "fecha_finalizacion": "2022-07-14 17:00"
+  },
+  {
+    "fecha": "2022-07-13",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Innovador",
+        "identificacion": "N/A",
+        "omi": "9411862",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Bella Vista (Corrientes)",
+    "nro_expediente": "202207131/22",
+    "latitud": "-28.442900",
+    "longitud": "-59.083100",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-07-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Argenova VI",
+        "identificacion": "02179",
+        "omi": "9036179",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Deseado (Santa Cruz)",
+    "nro_expediente": "20220705/22",
+    "latitud": "-47.757567",
+    "longitud": "-65.901663",
+    "fecha_finalizacion": "2022-07-07 17:00"
+  },
+  {
+    "fecha": "2022-06-27",
+    "hora": "06:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha Colectivo",
+        "nombre": "Lancha colectivo Delta",
+        "identificacion": "0829",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Luj\u00e1n, Altura Benavidez (Buenos Aires)",
+    "nro_expediente": "20220627/22",
+    "latitud": "-34.388283",
+    "longitud": "-58.624285",
+    "fecha_finalizacion": "2022-06-29 17:00"
+  },
+  {
+    "fecha": "2022-06-27",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Arbumasa I",
+        "identificacion": "S/D",
+        "omi": "8612524",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Mar Territorial, Altura Puerto Madryn (Chubut)",
+    "nro_expediente": "202206271/22",
+    "latitud": "-43.012133",
+    "longitud": "-63.977502",
+    "fecha_finalizacion": "2022-06-30 17:00"
+  },
+  {
+    "fecha": "2022-06-17",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Huafeng\u00a0815",
+        "identificacion": "S/D",
+        "omi": "8747757",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto Madryn (Chubut)",
+    "nro_expediente": "20220617/22",
+    "latitud": "-42.735308",
+    "longitud": "-65.018583",
+    "fecha_finalizacion": "2022-06-17 00:00"
+  },
+  {
+    "fecha": "2022-06-06",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Expreso del Plata I",
+        "identificacion": "S/D",
+        "omi": "9942641",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Buenos Aires (Buenos Aires)",
+    "nro_expediente": "20220606/22",
+    "latitud": "-34.585903",
+    "longitud": "-58.359644",
+    "fecha_finalizacion": "2022-06-06 00:00"
+  },
+  {
+    "fecha": "2022-06-04",
+    "hora": "10:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Madre Inmaculada",
+        "identificacion": "02378",
+        "omi": "7386623",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20220604/22",
+    "latitud": "-38.048258",
+    "longitud": "-57.539105",
+    "fecha_finalizacion": "2022-06-04 10:00"
+  },
+  {
+    "fecha": "2022-06-01",
+    "hora": "12:20",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Madre Inmaculada",
+        "identificacion": "02378",
+        "omi": "7386623",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Mar Del Plata (Otro)",
+    "nro_expediente": "EX-2022-62499391-APN-JST#MTR",
+    "latitud": "-38.826667",
+    "longitud": "-55.539167",
+    "fecha_finalizacion": "2025-06-25 00:00"
+  },
+  {
+    "fecha": "2022-05-31",
+    "hora": "12:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha de Pesca",
+        "nombre": "Brianna Carmen",
+        "identificacion": "03237M",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Golfo De San Matias, Altura San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "EX-2022-54892812-APN-JST#MTR",
+    "latitud": "-40.951667",
+    "longitud": "-64.567778",
+    "fecha_finalizacion": "2024-09-24 00:00"
+  },
+  {
+    "fecha": "2022-05-30",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Do\u00f1a Annete",
+        "identificacion": "3671-BT",
+        "omi": "8882533",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Esquina (Corrientes)",
+    "nro_expediente": "20220530/22",
+    "latitud": "-30.033800",
+    "longitud": "-59.591500",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-05-08",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Star Carioca",
+        "identificacion": "N/A",
+        "omi": "9719549",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Pedro (Buenos Aires)",
+    "nro_expediente": "20220508/22",
+    "latitud": "-33.647200",
+    "longitud": "-59.554300",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-05-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Arklow Spray",
+        "identificacion": "N/A",
+        "omi": "9649548",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20220505/22",
+    "latitud": "-33.469500",
+    "longitud": "-59.997400",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-04-28",
+    "hora": "20:20",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Transporte de Pasajeros",
+        "nombre": "Papy Blas",
+        "identificacion": "A920",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Dique Cabra Corral (Salta)",
+    "nro_expediente": "20220428/22",
+    "latitud": "-25.289288",
+    "longitud": "-65.432296",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-04-24",
+    "hora": "11:54",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Transporte de Vehiculos",
+        "nombre": "Progress Ace",
+        "identificacion": "S/D",
+        "omi": "9267687",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Portacontenedores",
+        "nombre": "Maersk Newark",
+        "identificacion": "S/D",
+        "omi": "9402615",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Terminal Z\u00e1rate (Buenos Aires)",
+    "nro_expediente": "20220424/22",
+    "latitud": "-34.066518",
+    "longitud": "-59.033358",
+    "fecha_finalizacion": "2022-04-25 17:00"
+  },
+  {
+    "fecha": "2022-04-21",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Ocean Thyme",
+        "identificacion": "N/A",
+        "omi": "9642801",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20220421/22",
+    "latitud": "-33.505900",
+    "longitud": "-59.905500",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-04-15",
+    "hora": "05:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Diego Facundo",
+        "identificacion": "02852",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Marina Z",
+        "identificacion": "01091",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Aguas Interiores Mar\u00edtimas, Golfo De San Mat\u00edas, Altura San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20220415/22",
+    "latitud": "-40.739350",
+    "longitud": "-64.860817",
+    "fecha_finalizacion": "2022-04-16 17:00"
+  },
+  {
+    "fecha": "2022-04-14",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Carmelo",
+        "identificacion": "2871",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Aguas Interiores Mar\u00edtimas, Golfo De San Mat\u00edas, Altura San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20220414/22",
+    "latitud": "-40.732943",
+    "longitud": "-64.898798",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-04-09",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Anna G",
+        "identificacion": "N/A",
+        "omi": "9701310",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Pedro (Buenos Aires)",
+    "nro_expediente": "20220409/22",
+    "latitud": "-33.684400",
+    "longitud": "-59.624700",
+    "fecha_finalizacion": "2023-04-18 17:00"
+  },
+  {
+    "fecha": "2022-03-29",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Vierasa XVII",
+        "identificacion": "02568",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Claudina",
+        "identificacion": "02345",
+        "omi": "7831410",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Puerto Madryn (Otro)",
+    "nro_expediente": "20220329/22",
+    "latitud": "-43.626573",
+    "longitud": "-60.687030",
+    "fecha_finalizacion": "2022-03-30 17:00"
+  },
+  {
+    "fecha": "2022-03-26",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Zeus I",
+        "identificacion": "03007",
+        "omi": "9255311",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto General San Mart\u00edn, San Lorenzo (Santa Fe)",
+    "nro_expediente": "20220326/22",
+    "latitud": "-32.719570",
+    "longitud": "-60.725743",
+    "fecha_finalizacion": "2022-03-27 17:00"
+  },
+  {
+    "fecha": "2022-03-14",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Lu Qing Yuan Yu 280",
+        "identificacion": "S/D",
+        "omi": "9885922",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Comodoro Rivadavia (Otro)",
+    "nro_expediente": "20220314/22",
+    "latitud": "-45.900017",
+    "longitud": "-61.061535",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-03-10",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Otro Sol",
+        "identificacion": "01106M",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Gladiador",
+        "identificacion": "1101",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto General Lavalle (Buenos Aires)",
+    "nro_expediente": "20220310/22",
+    "latitud": "-36.398253",
+    "longitud": "-56.946679",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-03-09",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Incansable",
+        "identificacion": "2914",
+        "omi": "7816109",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Alvear (Santa Fe)",
+    "nro_expediente": "20220309/22",
+    "latitud": "-33.058000",
+    "longitud": "-60.548600",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-03-07",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Arenero",
+        "nombre": "Do\u00f1a Isabel",
+        "identificacion": "2495",
+        "omi": "N/A",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1 Guaz\u00fa, Altura Baradero (Buenos Aires)",
+    "nro_expediente": "20220307/22",
+    "latitud": "-33.860400",
+    "longitud": "-59.199800",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-03-02",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Polaris",
+        "identificacion": "3150",
+        "omi": "9388235",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Villa Constituci\u00f3n (Santa Fe)",
+    "nro_expediente": "20220302/22",
+    "latitud": "-33.181500",
+    "longitud": "-60.378600",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-03-01",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "H\u00e9ctor",
+        "identificacion": "S/D",
+        "omi": "9502635",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De Villa Constituci\u00f3n (Santa Fe)",
+    "nro_expediente": "20220301/22",
+    "latitud": "-33.249794",
+    "longitud": "-60.287139",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-02-26",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Bahri Grain",
+        "identificacion": "N/A",
+        "omi": "9660528",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Lorenzo (Santa Fe)",
+    "nro_expediente": "20220226/22",
+    "latitud": "-32.682400",
+    "longitud": "-60.713300",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-02-12",
+    "hora": "20:45",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Thestelia K",
+        "identificacion": "S/D",
+        "omi": "9494096",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto General San Mart\u00edn, San Lorenzo (Santa Fe)",
+    "nro_expediente": "20220212/22",
+    "latitud": "-32.657108",
+    "longitud": "-60.734984",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-02-11",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Sof\u00eda R",
+        "identificacion": "2560",
+        "omi": "9423308",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Aguas Interiores Mar\u00edtimas, Altura Bah\u00eda Blanca (Buenos Aires)",
+    "nro_expediente": "20220211/22",
+    "latitud": "-38.800201",
+    "longitud": "-62.232647",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-02-09",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Fiesta",
+        "identificacion": "1446",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      },
+      {
+        "tipo": "Pesquero",
+        "nombre": "Sofia B",
+        "identificacion": "02679",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Mar Territorial, Altura Rawson (Chubut)",
+    "nro_expediente": "20220209/22",
+    "latitud": "-43.365537",
+    "longitud": "-64.194724",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-02-08",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Investigaci\u00f3n",
+        "nombre": "Professor Logachev",
+        "identificacion": "S/D",
+        "omi": "8834691",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Aguas Interiores Mar\u00edtimas, Bah\u00eda Lasserre, Altura Isla 25 De Mayo, Ant\u00e1rtida Argentina (Ant\u00e1rtida)",
+    "nro_expediente": "20220208/22",
+    "latitud": "-62.147537",
+    "longitud": "-58.428394",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-02-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Ardmore\u00a0Seavanguard",
+        "identificacion": "S/D",
+        "omi": "9637088",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De San Lorenzo (Santa Fe)",
+    "nro_expediente": "20220205/22",
+    "latitud": "-32.735868",
+    "longitud": "-60.725935",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-02-03",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Xing de Hai",
+        "identificacion": "N/A",
+        "omi": "9789881",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Pedro (Buenos Aires)",
+    "nro_expediente": "20220203/22",
+    "latitud": "-33.629100",
+    "longitud": "-59.655200",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-02-02",
+    "hora": "19:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha de Practicaje",
+        "nombre": "Gipsy V",
+        "identificacion": "0812",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Deseado (Santa Cruz)",
+    "nro_expediente": "EX-2022-10625980-APN-JST#MTR",
+    "latitud": "-47.758056",
+    "longitud": "-65.906389",
+    "fecha_finalizacion": "2024-10-25 00:00"
+  },
+  {
+    "fecha": "2022-01-31",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Commencement",
+        "identificacion": "N/A",
+        "omi": "9388211",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 De Las Palmas, Altura Baradero (Buenos Aires)",
+    "nro_expediente": "20220131/22",
+    "latitud": "-33.876900",
+    "longitud": "-59.266100",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-01-27",
+    "hora": "23:04",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Arenero",
+        "nombre": "Zelandia",
+        "identificacion": "0382",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      },
+      {
+        "tipo": "Granelero",
+        "nombre": "Kmarin Melbourne",
+        "identificacion": "S/D",
+        "omi": "9737369",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Isla San Pedro (Buenos Aires)",
+    "nro_expediente": "EX-2022-08713175-APN-JST#MTR",
+    "latitud": "-33.638056",
+    "longitud": "-59.490556",
+    "fecha_finalizacion": "2023-03-21 00:00"
+  },
+  {
+    "fecha": "2022-01-22",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Barcazas",
+        "nombre": "PA 4004",
+        "identificacion": "3595-B",
+        "omi": "N/A",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Alvear (Santa Fe)",
+    "nro_expediente": "20220122/22",
+    "latitud": "-33.051400",
+    "longitud": "-60.560000",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-01-14",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Polargo 1",
+        "identificacion": "1778",
+        "omi": "8505501",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Paran\u00e1 (Santa Fe)",
+    "nro_expediente": "20220114/22",
+    "latitud": "-31.655259",
+    "longitud": "-60.416887",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2022-01-13",
+    "hora": "18:50",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha Colectivo",
+        "nombre": "Delta en Kayak",
+        "identificacion": "REY 041276",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Embalse Valle Grande (Mendoza)",
+    "nro_expediente": "EX-2022-04677870-APN-JST#MTR",
+    "latitud": "-34.840000",
+    "longitud": "-68.518056",
+    "fecha_finalizacion": "2023-04-14 00:00"
+  },
+  {
+    "fecha": "2021-12-30",
+    "hora": "18:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha Colectivo",
+        "nombre": "El Leon VI",
+        "identificacion": "0841",
+        "omi": "N/A",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Delta Del R\u00edo Paran\u00e1, Altura Canal Honda (Buenos Aires)",
+    "nro_expediente": "EX-2022-00305511-APN-JST#MTR",
+    "latitud": "-34.345278",
+    "longitud": "-58.518056",
+    "fecha_finalizacion": "2024-02-19 11:56"
+  },
+  {
+    "fecha": "2021-12-22",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Uchi",
+        "identificacion": "01901",
+        "omi": "6815988",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Deseado (Santa Cruz)",
+    "nro_expediente": "20211222/21",
+    "latitud": "-47.753930",
+    "longitud": "-65.912330",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-12-18",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Nord Dubai",
+        "identificacion": "S/D",
+        "omi": "9894612",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De San Nicol\u00e1s De Los Arroyos (Buenos Aires)",
+    "nro_expediente": "20211218/21",
+    "latitud": "-33.354755",
+    "longitud": "-60.170034",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-12-14",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Don Carlos I",
+        "identificacion": "02358",
+        "omi": "S/D",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Caleta Olivia (Santa Cruz)",
+    "nro_expediente": "20211214/21",
+    "latitud": "-46.473935",
+    "longitud": "-67.497802",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-12-11",
+    "hora": "10:55",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Don Tomasso",
+        "identificacion": "02310",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Mar Territorial, Altura Rawson (Chubut)",
+    "nro_expediente": "EX-2021-120326914-APN-JST#MTR",
+    "latitud": "-43.500000",
+    "longitud": "-64.916667",
+    "fecha_finalizacion": "2025-06-03 00:00"
+  },
+  {
+    "fecha": "2021-12-09",
+    "hora": "06:45",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Sumatra",
+        "identificacion": "01105",
+        "omi": "5343718",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "EX-2021-119734966-APN-JST#MTR",
+    "latitud": "-40.725556",
+    "longitud": "-64.933056",
+    "fecha_finalizacion": "2023-02-02 00:00"
+  },
+  {
+    "fecha": "2021-12-09",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Columbus",
+        "identificacion": "02171",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20211209/21",
+    "latitud": "-40.725820",
+    "longitud": "-64.933652",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-12-08",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Feng Ze Hai",
+        "identificacion": "S/D",
+        "omi": "9727663",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura San Nicol\u00e1s De Los Arroyos (Buenos Aires)",
+    "nro_expediente": "20211208/21",
+    "latitud": "-33.320452",
+    "longitud": "-60.182347",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-12-06",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Mar\u00eda Alejandra 1\u00b0",
+        "identificacion": "03074",
+        "omi": "9828883",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20211206/21",
+    "latitud": "-38.045013",
+    "longitud": "-57.538226",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-11-26",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Nemrut Bay",
+        "identificacion": "S/D",
+        "omi": "9860788",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20211126/21",
+    "latitud": "-33.503627",
+    "longitud": "-59.904070",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-11-25",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Escorpi\u00f3n",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Nu\u00f1ez (Ciudad Aut\u00f3noma De Buenos Aires)",
+    "nro_expediente": "202111251/21",
+    "latitud": "-34.536333",
+    "longitud": "-58.315779",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-11-11",
+    "hora": "23:20",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "7 de Agosto",
+        "identificacion": "03019",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Golfo San Mat\u00edas, Altura Islote De Lobos (Rio Negro)",
+    "nro_expediente": "EX-2021-109802174-APN-JST#MTR",
+    "latitud": "-41.360556",
+    "longitud": "-64.920556",
+    "fecha_finalizacion": "2024-07-23 00:00"
+  },
+  {
+    "fecha": "2021-11-09",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Venus Harmony",
+        "identificacion": "S/D",
+        "omi": "9832444",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Villa Gobernador G\u00e1lvez (Santa Fe)",
+    "nro_expediente": "20211110/21",
+    "latitud": "-33.008978",
+    "longitud": "-60.598667",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-10-16",
+    "hora": "09:35",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Punta M\u00e9danos",
+        "identificacion": "02794",
+        "omi": "9508990",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      },
+      {
+        "tipo": "Remolcador",
+        "nombre": "Rua II",
+        "identificacion": "0443",
+        "omi": "7731062",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Canal De Acceso A Puerto La Plata, Altura Ensenada (Buenos Aires)",
+    "nro_expediente": "EX-2021-99352921-APN-JST#MTR",
+    "latitud": "-34.838056",
+    "longitud": "-57.970278",
+    "fecha_finalizacion": "2024-08-12 00:00"
+  },
+  {
+    "fecha": "2021-10-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Punta M\u00e9danos",
+        "identificacion": "S/D",
+        "omi": "9508990",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Ensenada (Buenos Aires)",
+    "nro_expediente": "20211016/21",
+    "latitud": "-34.838500",
+    "longitud": "-57.970500",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-10-04",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Good Luck",
+        "identificacion": "S/D",
+        "omi": "9492517",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Isla Del Medio (Entre Rios)",
+    "nro_expediente": "20211004/21",
+    "latitud": "-33.721783",
+    "longitud": "-59.221947",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-09-22",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Carmen S",
+        "identificacion": "4256-RE",
+        "omi": "9796341",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paraguay, Altura Formosa (Formosa)",
+    "nro_expediente": "20210922/21",
+    "latitud": "-26.187929",
+    "longitud": "-58.154837",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-09-16",
+    "hora": "19:50",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha Colectivo",
+        "nombre": "Rio Carabelas",
+        "identificacion": "01645",
+        "omi": "N/A",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Delta Del R\u00edo Paran\u00e1, Altura Tigre (Buenos Aires)",
+    "nro_expediente": "EX-2021-88451236-APN-JST#MTR",
+    "latitud": "-34.270556",
+    "longitud": "-58.651667",
+    "fecha_finalizacion": "2023-09-19 10:10"
+  },
+  {
+    "fecha": "2021-09-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Claudina",
+        "identificacion": "02345",
+        "omi": "7831410",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Deseado (Santa Cruz)",
+    "nro_expediente": "202109161/21",
+    "latitud": "-47.754152",
+    "longitud": "-65.911313",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-09-11",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Don Dar\u00edo",
+        "identificacion": "0976",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20210911/21",
+    "latitud": "-40.728056",
+    "longitud": "-64.912778",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-09-08",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Sof\u00eda",
+        "identificacion": "S/D",
+        "omi": "9460409",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Rada La Plata (Buenos Aires)",
+    "nro_expediente": "202109081/21",
+    "latitud": "-34.768430",
+    "longitud": "-57.839132",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-09-08",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha de Practicaje",
+        "nombre": "Antares",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Rada La Plata (Buenos Aires)",
+    "nro_expediente": "20210908/21",
+    "latitud": "-34.768430",
+    "longitud": "-57.839132",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-09-01",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Transbordador II",
+        "identificacion": "02518",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Lorenzo (Santa Fe)",
+    "nro_expediente": "20210901/21",
+    "latitud": "-32.693823",
+    "longitud": "-60.724168",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-08-08",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Rosco Plum",
+        "identificacion": "S/D",
+        "omi": "9294496",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Quilmes (Buenos Aires)",
+    "nro_expediente": "20210808/21",
+    "latitud": "-34.616460",
+    "longitud": "-57.955367",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-08-04",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Carmen S",
+        "identificacion": "4256",
+        "omi": "9796341",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Lavalle (Corrientes)",
+    "nro_expediente": "20210804/21",
+    "latitud": "-29.026785",
+    "longitud": "-59.196975",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-08-04",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Do\u00f1a Magda",
+        "identificacion": "9363",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Villa Hernandarias (Santa Fe)",
+    "nro_expediente": "202108041/21",
+    "latitud": "-31.203227",
+    "longitud": "-59.987033",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-08-01",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Sand Topic",
+        "identificacion": "S/D",
+        "omi": "9737084",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Punta Indio (Buenos Aires)",
+    "nro_expediente": "20210801/21",
+    "latitud": "-35.166907",
+    "longitud": "-56.770108",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-07-31",
+    "hora": "22:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Siempre San Salvador",
+        "identificacion": "0801",
+        "omi": "9020948",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad No Aplica (Otro)",
+    "nro_expediente": "EX-2021-69273319-APN-JST#MTR",
+    "latitud": "-36.411667",
+    "longitud": "-55.234167",
+    "fecha_finalizacion": "2023-11-28 00:00"
+  },
+  {
+    "fecha": "2021-07-31",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Chris",
+        "identificacion": null,
+        "omi": "9565118",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 De Las Palmas, Altura Benav\u00eddez (Buenos Aires)",
+    "nro_expediente": "20210731/21",
+    "latitud": "-33.940827",
+    "longitud": "-58.857470",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-07-30",
+    "hora": "22:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Gasero",
+        "nombre": "Hoegh Esperanza",
+        "identificacion": "S/D",
+        "omi": "9780354",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Punta Indio (Buenos Aires)",
+    "nro_expediente": "EX-2021-68861414-APN-JST#MTR",
+    "latitud": "-35.166667",
+    "longitud": "-56.979167",
+    "fecha_finalizacion": "2022-12-12 00:00"
+  },
+  {
+    "fecha": "2021-07-27",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Entrena Dos",
+        "identificacion": "02069",
+        "omi": "8610186",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto Madryn (Chubut)",
+    "nro_expediente": "20210727/21",
+    "latitud": "-42.762713",
+    "longitud": "-65.033899",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-07-23",
+    "hora": "18:30",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Conarpesa I",
+        "identificacion": "0200",
+        "omi": "6908723",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Rawson (Otro)",
+    "nro_expediente": "EX-2021-66748779-APN-JST#MTR",
+    "latitud": "-43.345556",
+    "longitud": "-62.216667",
+    "fecha_finalizacion": "2024-07-10 00:00"
+  },
+  {
+    "fecha": "2021-07-18",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Bah\u00eda Desvelos",
+        "identificacion": "6162 / 0665",
+        "omi": "7388413",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Puerto Madryn (Otro)",
+    "nro_expediente": "20210718/21",
+    "latitud": "-43.161519",
+    "longitud": "-63.321110",
+    "fecha_finalizacion": "2021-07-20 00:00"
+  },
+  {
+    "fecha": "2021-07-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Penelope",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Bella Vista (Corrientes)",
+    "nro_expediente": "20210716/21",
+    "latitud": "-28.511401",
+    "longitud": "-59.056013",
+    "fecha_finalizacion": "2021-07-18 00:00"
+  },
+  {
+    "fecha": "2021-07-12",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Enrique H",
+        "identificacion": "2594",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Lavalle (Corrientes)",
+    "nro_expediente": "20210712/21",
+    "latitud": "-28.969668",
+    "longitud": "-59.206443",
+    "fecha_finalizacion": "2021-07-14 00:00"
+  },
+  {
+    "fecha": "2021-07-09",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Sara A",
+        "identificacion": "2713",
+        "omi": "8522377",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Lavalle (Corrientes)",
+    "nro_expediente": "20210709/21",
+    "latitud": "-29.026785",
+    "longitud": "-59.196975",
+    "fecha_finalizacion": "2021-07-10 00:00"
+  },
+  {
+    "fecha": "2021-07-07",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Jasmund",
+        "identificacion": "S/D",
+        "omi": "9696840",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20210707/21",
+    "latitud": "-33.535718",
+    "longitud": "-59.817799",
+    "fecha_finalizacion": "2021-07-10 00:00"
+  },
+  {
+    "fecha": "2021-07-07",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Esna",
+        "identificacion": "S/D",
+        "omi": "9139268",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad La Plata, Altura Punta Indio (Buenos Aires)",
+    "nro_expediente": "202107071/21",
+    "latitud": "-35.164518",
+    "longitud": "-56.947658",
+    "fecha_finalizacion": "2021-07-08 00:00"
+  },
+  {
+    "fecha": "2021-07-05",
+    "hora": "03:26",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Floridablanca IV",
+        "identificacion": "0255",
+        "omi": "6605280",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto Madryn (Chubut)",
+    "nro_expediente": "EX-2021-59929669-APN-JST#MTR",
+    "latitud": "-42.736389",
+    "longitud": "-65.029167",
+    "fecha_finalizacion": "2023-08-23 13:04"
+  },
+  {
+    "fecha": "2021-07-02",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Aramon",
+        "identificacion": "S/D",
+        "omi": "9440485",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Punta Indio (Buenos Aires)",
+    "nro_expediente": "20210702/21",
+    "latitud": "-35.165993",
+    "longitud": "-56.892696",
+    "fecha_finalizacion": "2021-07-03 00:00"
+  },
+  {
+    "fecha": "2021-06-30",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Do\u00f1a Annette",
+        "identificacion": "S/D",
+        "omi": "8882533",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Puerto De Goya (Corrientes)",
+    "nro_expediente": "20210630/21",
+    "latitud": "-29.118446",
+    "longitud": "-59.336566",
+    "fecha_finalizacion": "2021-07-01 00:00"
+  },
+  {
+    "fecha": "2021-06-26",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Polargo 1",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo De La Plata, Altura La Plata (Buenos Aires)",
+    "nro_expediente": "20210626/21",
+    "latitud": "-35.013283",
+    "longitud": "-57.304824",
+    "fecha_finalizacion": "2021-06-28 00:00"
+  },
+  {
+    "fecha": "2021-06-25",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Ice Runner",
+        "identificacion": "S/D",
+        "omi": "8311120",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Campana (Buenos Aires)",
+    "nro_expediente": "20210625/21",
+    "latitud": "-34.151550",
+    "longitud": "-58.964213",
+    "fecha_finalizacion": "2021-06-27 00:00"
+  },
+  {
+    "fecha": "2021-06-23",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Incansable",
+        "identificacion": "2914",
+        "omi": "7816109",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura La Paz (Entre Rios)",
+    "nro_expediente": "20210623/21",
+    "latitud": "-31.210879",
+    "longitud": "-59.990804",
+    "fecha_finalizacion": "2021-06-25 00:00"
+  },
+  {
+    "fecha": "2021-06-21",
+    "hora": "02:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "La Chesnais",
+        "identificacion": "S/D",
+        "omi": "9691034",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20210621/21",
+    "latitud": "-33.497243",
+    "longitud": "-59.910726",
+    "fecha_finalizacion": "2021-06-23 00:00"
+  },
+  {
+    "fecha": "2021-06-21",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Gloriosus",
+        "identificacion": "02626",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Aguas Interiores Mar\u00edtimas, Golfo De San Matias, Altura San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "202106211/21",
+    "latitud": "-40.716667",
+    "longitud": "-64.916667",
+    "fecha_finalizacion": "2021-06-23 00:00"
+  },
+  {
+    "fecha": "2021-06-19",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Don Lucho",
+        "identificacion": "4253-BTP",
+        "omi": "9034078",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Puerto Ocampo (Santa Fe)",
+    "nro_expediente": "20210619/21",
+    "latitud": "-28.526077",
+    "longitud": "-59.083721",
+    "fecha_finalizacion": "2021-06-21 00:00"
+  },
+  {
+    "fecha": "2021-06-17",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Kyrios",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Lomas Del Mirador (Corrientes)",
+    "nro_expediente": "202106171/21",
+    "latitud": "-27.449725",
+    "longitud": "-58.825327",
+    "fecha_finalizacion": "2021-06-19 00:00"
+  },
+  {
+    "fecha": "2021-06-17",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Papu Norte",
+        "identificacion": "2729",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Puerto De Goya (Corrientes)",
+    "nro_expediente": "20210617/21",
+    "latitud": "-29.168835",
+    "longitud": "-59.342509",
+    "fecha_finalizacion": "2021-06-19 00:00"
+  },
+  {
+    "fecha": "2021-06-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Patricia M",
+        "identificacion": "2453 RE",
+        "omi": "7407996",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Empedrado (Corrientes)",
+    "nro_expediente": "20210616/21",
+    "latitud": "-27.982913",
+    "longitud": "-58.834229",
+    "fecha_finalizacion": "2021-06-18 00:00"
+  },
+  {
+    "fecha": "2021-06-15",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Napo H",
+        "identificacion": "1062",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Empedrado (Corrientes)",
+    "nro_expediente": "202106151/21",
+    "latitud": "-27.982913",
+    "longitud": "-58.834229",
+    "fecha_finalizacion": "2021-06-17 00:00"
+  },
+  {
+    "fecha": "2021-06-15",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Arenero",
+        "nombre": "El uno",
+        "identificacion": "02362",
+        "omi": "8634003",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo De La Plata, Altura San Isidro (Buenos Aires)",
+    "nro_expediente": "20210615/21",
+    "latitud": "-34.498116",
+    "longitud": "-58.408673",
+    "fecha_finalizacion": "2021-06-17 00:00"
+  },
+  {
+    "fecha": "2021-06-14",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Papu Norte",
+        "identificacion": "2729",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Empedrado (Corrientes)",
+    "nro_expediente": "202106141/21",
+    "latitud": "-27.982913",
+    "longitud": "-58.834229",
+    "fecha_finalizacion": "2021-06-16 00:00"
+  },
+  {
+    "fecha": "2021-06-14",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Alsina",
+        "identificacion": "1959",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Coronda (Santa Fe)",
+    "nro_expediente": "20210614/21",
+    "latitud": "-32.076010",
+    "longitud": "-60.660003",
+    "fecha_finalizacion": "2021-06-16 00:00"
+  },
+  {
+    "fecha": "2021-06-10",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Cecilia Lujan",
+        "identificacion": "2625",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Coronda (Santa Fe)",
+    "nro_expediente": "20210610/21",
+    "latitud": "-32.076010",
+    "longitud": "-60.660003",
+    "fecha_finalizacion": "2021-06-12 00:00"
+  },
+  {
+    "fecha": "2021-06-10",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Independiente",
+        "identificacion": "3781",
+        "omi": "8408442",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Bella Vista (Corrientes)",
+    "nro_expediente": "202106101/21",
+    "latitud": "-28.510454",
+    "longitud": "-59.055216",
+    "fecha_finalizacion": "2021-06-12 00:00"
+  },
+  {
+    "fecha": "2021-06-08",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Penelope",
+        "identificacion": "S/D",
+        "omi": "549780",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Cayast\u00e1 (Santa Fe)",
+    "nro_expediente": "20210608/21",
+    "latitud": "-31.231224",
+    "longitud": "-59.999927",
+    "fecha_finalizacion": "2021-06-10 00:00"
+  },
+  {
+    "fecha": "2021-06-07",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Hb Hydra",
+        "identificacion": "HRB - 799",
+        "omi": "9686455",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Cayast\u00e1 (Santa Fe)",
+    "nro_expediente": "202106071/21",
+    "latitud": "-31.231224",
+    "longitud": "-59.999927",
+    "fecha_finalizacion": "2021-06-09 00:00"
+  },
+  {
+    "fecha": "2021-06-06",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Alver",
+        "identificacion": "01576",
+        "omi": "8911425",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Comodoro Rivadavia (Otro)",
+    "nro_expediente": "20210607/21",
+    "latitud": "-45.861740",
+    "longitud": "-65.314535",
+    "fecha_finalizacion": "2021-06-09 00:00"
+  },
+  {
+    "fecha": "2021-06-04",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "BBC Newcastle",
+        "identificacion": "S/D",
+        "omi": "9484209",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Campana (Buenos Aires)",
+    "nro_expediente": "20210604/21",
+    "latitud": "-34.153281",
+    "longitud": "-58.958154",
+    "fecha_finalizacion": "2021-06-06 00:00"
+  },
+  {
+    "fecha": "2021-05-29",
+    "hora": "09:40",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Observador",
+        "identificacion": "02549",
+        "omi": "9179165",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Isla Demarchi (Buenos Aires)",
+    "nro_expediente": "EX-2021-48112891-APN-JST#MTR",
+    "latitud": "-34.629167",
+    "longitud": "-58.331389",
+    "fecha_finalizacion": "2024-04-08 00:00"
+  },
+  {
+    "fecha": "2021-05-23",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Lancha de Servicios",
+        "nombre": "Cimarron",
+        "identificacion": "S/D",
+        "omi": "8211643",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Nogoy\u00e1 (Entre Rios)",
+    "nro_expediente": "20210523/21",
+    "latitud": "-32.327080",
+    "longitud": "-60.683588",
+    "fecha_finalizacion": "2021-05-05 00:00"
+  },
+  {
+    "fecha": "2021-05-18",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Shen Heng Hai",
+        "identificacion": "S/D",
+        "omi": "9505493",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20210518/21",
+    "latitud": "-33.493742",
+    "longitud": "-59.914602",
+    "fecha_finalizacion": "2021-05-20 00:00"
+  },
+  {
+    "fecha": "2021-05-17",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Gloriosus",
+        "identificacion": "02626",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Aguas Interiores Mar\u00edtimas, Golfo De San Matias, Altura San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20210517/21",
+    "latitud": "-40.724969",
+    "longitud": "-64.932389",
+    "fecha_finalizacion": "2021-05-19 00:00"
+  },
+  {
+    "fecha": "2021-05-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Tehia",
+        "identificacion": "3584",
+        "omi": "9051997",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura San Nicol\u00e1s De Los Arroyos (Buenos Aires)",
+    "nro_expediente": "20210516/21",
+    "latitud": "-33.280505",
+    "longitud": "-60.233213",
+    "fecha_finalizacion": "2021-05-08 00:00"
+  },
+  {
+    "fecha": "2021-05-12",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Convoy Empuje",
+        "nombre": "Asunceno",
+        "identificacion": "2555",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Esquina (Corrientes)",
+    "nro_expediente": "20210512/21",
+    "latitud": "-30.012560",
+    "longitud": "-59.560401",
+    "fecha_finalizacion": "2021-05-14 00:00"
+  },
+  {
+    "fecha": "2021-05-11",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "MV Uni Sunshine",
+        "identificacion": "S/D",
+        "omi": "9811505",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20210511/21",
+    "latitud": "-33.467413",
+    "longitud": "-59.928190",
+    "fecha_finalizacion": "2021-05-13 00:00"
+  },
+  {
+    "fecha": "2021-05-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Nautic Twin",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paraguay, Altura Palmar (Formosa)",
+    "nro_expediente": "202105051/21",
+    "latitud": "-27.196799",
+    "longitud": "-58.649231",
+    "fecha_finalizacion": "2021-05-07 00:00"
+  },
+  {
+    "fecha": "2021-05-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Enterprise",
+        "identificacion": "S/D",
+        "omi": "7117599",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Puerto Ocampo (Santa Fe)",
+    "nro_expediente": "20210505/21",
+    "latitud": "-28.538100",
+    "longitud": "-59.090734",
+    "fecha_finalizacion": "2021-05-07 00:00"
+  },
+  {
+    "fecha": "2021-05-01",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Vita Harmony",
+        "identificacion": "S/D",
+        "omi": "9496202",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20210501/21",
+    "latitud": "-33.501442",
+    "longitud": "-59.906909",
+    "fecha_finalizacion": "2021-05-03 00:00"
+  },
+  {
+    "fecha": "2021-04-28",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Antigoni",
+        "identificacion": "S/D",
+        "omi": "9180918",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Lorenzo (Santa Fe)",
+    "nro_expediente": "20210428/21",
+    "latitud": "-32.769462",
+    "longitud": "-60.718333",
+    "fecha_finalizacion": "2021-04-30 00:00"
+  },
+  {
+    "fecha": "2021-04-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Don Lucho",
+        "identificacion": "4253-BTP",
+        "omi": "9034078",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Santa Luc\u00eda (Corrientes)",
+    "nro_expediente": "20210416/21",
+    "latitud": "-28.987854",
+    "longitud": "-59.208548",
+    "fecha_finalizacion": "2021-04-18 00:00"
+  },
+  {
+    "fecha": "2021-04-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Arenero",
+        "nombre": "Don Benito",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 Guaz\u00fa, Altura Campana (Buenos Aires)",
+    "nro_expediente": "202104161/21",
+    "latitud": "-34.037405",
+    "longitud": "-58.610915",
+    "fecha_finalizacion": "2021-04-08 00:00"
+  },
+  {
+    "fecha": "2021-04-13",
+    "hora": "20:25",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Buque Corral",
+        "nombre": "Hilda",
+        "identificacion": "01787",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Ruiz, Gualeguay (Entre Rios)",
+    "nro_expediente": "EX-2021-32292524-APN-JST#MTR",
+    "latitud": "-33.219167",
+    "longitud": "-59.358056",
+    "fecha_finalizacion": "2023-03-20 00:00"
+  },
+  {
+    "fecha": "2021-04-12",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Champion Contest",
+        "identificacion": "S/D",
+        "omi": "9272199",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto San Lorenzo (Santa Fe)",
+    "nro_expediente": "202104122/21",
+    "latitud": "-32.774794",
+    "longitud": "-60.718190",
+    "fecha_finalizacion": "2021-04-14 00:00"
+  },
+  {
+    "fecha": "2021-04-11",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Mercedes F",
+        "identificacion": "693",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Aguas Interiores Mar\u00edtimas, Golfo De San Mat\u00edas, Altura San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20210411/21",
+    "latitud": "-40.716667",
+    "longitud": "-64.916667",
+    "fecha_finalizacion": "2021-04-13 00:00"
+  },
+  {
+    "fecha": "2021-04-07",
+    "hora": "22:39",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Ur Ertza",
+        "identificacion": "0377",
+        "omi": "7416210",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "EX-2021-30366855-APN-JST#MTR",
+    "latitud": "-38.032778",
+    "longitud": "-57.513889",
+    "fecha_finalizacion": "2023-03-20 00:00"
+  },
+  {
+    "fecha": "2021-03-27",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Norman",
+        "identificacion": "01381",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Aguas Interiores Mar\u00edtimas, Golfo De San Matias, Altura San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20210327/21",
+    "latitud": "-40.716667",
+    "longitud": "-64.916667",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-03-26",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Norman",
+        "identificacion": "01381",
+        "omi": "S/D",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "202103262/21",
+    "latitud": "-40.725099",
+    "longitud": "-64.932839",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-03-24",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Makaris",
+        "identificacion": "REY-023076",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Canal De Vinculaci\u00f3n, Altura San Fernando (Buenos Aires)",
+    "nro_expediente": "20210324/21",
+    "latitud": "-34.413860",
+    "longitud": "-58.532208",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-03-19",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Don Dar\u00edo",
+        "identificacion": "0976",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20210319/21",
+    "latitud": "-40.724993",
+    "longitud": "-64.934148",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-03-11",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Kyrios",
+        "identificacion": "4037",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Reconquista (Santa Fe)",
+    "nro_expediente": "20210311/21",
+    "latitud": "-28.031642",
+    "longitud": "-58.888036",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-03-08",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Talism\u00e1n",
+        "identificacion": "02263",
+        "omi": "8697263",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto Madryn (Chubut)",
+    "nro_expediente": "20210308/21",
+    "latitud": "-42.736692",
+    "longitud": "-65.034408",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-03-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Remolcador",
+        "nombre": "Yeruti I",
+        "identificacion": "4435-RE",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Barranqueras (Chaco)",
+    "nro_expediente": "20210305/21",
+    "latitud": "-27.453466",
+    "longitud": "-58.842005",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-02-24",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "MSC Dardanelles",
+        "identificacion": "N/A",
+        "omi": "9247754",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Punta Indio (Buenos Aires)",
+    "nro_expediente": "20210224/21",
+    "latitud": "-35.152406",
+    "longitud": "-56.789493",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-02-18",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Sumatra",
+        "identificacion": "01105",
+        "omi": "5343718",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20210218/21",
+    "latitud": "-40.817964",
+    "longitud": "-64.880086",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-02-07",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Virgen del Milagro",
+        "identificacion": "02767",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Rawson (Otro)",
+    "nro_expediente": "20210207/21",
+    "latitud": "-43.354756",
+    "longitud": "-64.916367",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-02-02",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Transporte de Pasajeros",
+        "nombre": "Sanko Fortune",
+        "identificacion": "S/D",
+        "omi": "9532202",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Timb\u00faes (Santa Fe)",
+    "nro_expediente": "20210202/21",
+    "latitud": "-32.659200",
+    "longitud": "-60.730555",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-01-31",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Arenero",
+        "nombre": "Virazon",
+        "identificacion": "2197",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 De Las Palmas, Altura Benav\u00eddez (Buenos Aires)",
+    "nro_expediente": "20210131/21",
+    "latitud": "-34.264098",
+    "longitud": "-58.651610",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-01-27",
+    "hora": "03:35",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Golfo Azul",
+        "identificacion": "01388",
+        "omi": "N/A",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Golfo San Mat\u00edas, Altura San Antonio Este (Rio Negro)",
+    "nro_expediente": "EX-2021-07450120-APN-JST#MTR",
+    "latitud": "-40.928056",
+    "longitud": "-64.864167",
+    "fecha_finalizacion": "2022-01-20 00:00"
+  },
+  {
+    "fecha": "2021-01-24",
+    "hora": "09:55",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Nanina",
+        "identificacion": "02576",
+        "omi": "8656544",
+        "suceso": "Accidente",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Bah\u00eda Camarones (Otro)",
+    "nro_expediente": "EX-2021-07061058-APN-JST#MTR",
+    "latitud": "-44.833056",
+    "longitud": "-61.399167",
+    "fecha_finalizacion": "2023-12-07 00:00"
+  },
+  {
+    "fecha": "2021-01-20",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Portacontenedores",
+        "nombre": "Madrid Trader",
+        "identificacion": "S/D",
+        "omi": "9813826",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Mar Territorial, Altura Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20210120/21",
+    "latitud": "-38.035956",
+    "longitud": "-57.519341",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-01-19",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Portacontenedores",
+        "nombre": "Maersk Lavras",
+        "identificacion": "S/D",
+        "omi": "9526928",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Buenos Aires (Buenos Aires)",
+    "nro_expediente": "20210119/21",
+    "latitud": "-34.580864",
+    "longitud": "-58.370625",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-01-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Athina III",
+        "identificacion": "S/D",
+        "omi": "9247285",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura General Lagos (Santa Fe)",
+    "nro_expediente": "20210116/21",
+    "latitud": "-33.107637",
+    "longitud": "-60.511785",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-01-14",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Etrella N 5",
+        "identificacion": "246",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Rada Exterior, Altura La Plata (Buenos Aires)",
+    "nro_expediente": "20210114/21",
+    "latitud": "-34.767990",
+    "longitud": "-57.550023",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-01-12",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Josamo",
+        "identificacion": "4034",
+        "omi": "8933746",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura La Paz (Entre Rios)",
+    "nro_expediente": "20210112/21",
+    "latitud": "-30.498280",
+    "longitud": "-59.651342",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-01-11",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Argenmar Mistral",
+        "identificacion": "03166",
+        "omi": "9498937",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Punta Indio (Buenos Aires)",
+    "nro_expediente": "20210111/21",
+    "latitud": "-35.168300",
+    "longitud": "-56.734827",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-01-09",
+    "hora": "08:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Arenero",
+        "nombre": "Rio Guazu",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 De Las Palmas, Altura Bel\u00e9n De Escobar (Buenos Aires)",
+    "nro_expediente": "20210109/21",
+    "latitud": "-34.266867",
+    "longitud": "-58.641328",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-01-08",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Surabaya Express",
+        "identificacion": "S/D",
+        "omi": "9554731",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De San Lorenzo (Santa Fe)",
+    "nro_expediente": "20210108/21",
+    "latitud": "-32.777108",
+    "longitud": "-60.719171",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2021-01-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Amis Wisdom VI",
+        "identificacion": "S/D",
+        "omi": "9589803",
+        "suceso": "Incidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Uruguay, Altura Concepci\u00f3n Del Uruguay (Entre Rios)",
+    "nro_expediente": "20210107/21",
+    "latitud": "-32.559290",
+    "longitud": "-58.166678",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-11-19",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Tanque",
+        "nombre": "Artefacto naval",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto Isla Ytoror\u00f3 (Asunci\u00f3n, Paraguay, Paraguay)",
+    "nro_expediente": "20201119/20",
+    "latitud": "-25.460093",
+    "longitud": "-57.559728",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-11-18",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Asia Graeca",
+        "identificacion": "S/D",
+        "omi": "9279381",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Mart\u00edn (Santa Fe)",
+    "nro_expediente": "20201118/20",
+    "latitud": "-32.294011",
+    "longitud": "-60.676766",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-11-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Nueva Neptunia I",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Rawson (Chubut)",
+    "nro_expediente": "20201116/20",
+    "latitud": "-33.479254",
+    "longitud": "-59.989246",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-11-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Siempre San Salvador",
+        "identificacion": "0801",
+        "omi": "9020948",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Mar Del Plata (Otro)",
+    "nro_expediente": "20201105/20",
+    "latitud": "-37.979693",
+    "longitud": "-56.927383",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-10-17",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Xin Shi Ji 18",
+        "identificacion": "02593",
+        "omi": "8614871",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Mar Del Plata (Buenos Aires)",
+    "nro_expediente": "20201017/20",
+    "latitud": "-38.044967",
+    "longitud": "-57.538128",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-10-12",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Arenero",
+        "nombre": "Di Giunta E",
+        "identificacion": "S/D",
+        "omi": "8000006",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De Campana (Buenos Aires)",
+    "nro_expediente": "20201012/20",
+    "latitud": "-34.152900",
+    "longitud": "-58.965853",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-10-03",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "\u00c1lvarez Entrena I",
+        "identificacion": "S/D",
+        "omi": "9389916",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Mar Territorial, Altura Puerto Madryn (Chubut)",
+    "nro_expediente": "20201003/20",
+    "latitud": "-42.760076",
+    "longitud": "-64.760268",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-09-23",
+    "hora": "01:15",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Carmelo A",
+        "identificacion": "0405",
+        "omi": "9054389",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Bah\u00eda Anegada (Otro)",
+    "nro_expediente": "EX-2020-63638784-APN-JST#MTR",
+    "latitud": "-40.200000",
+    "longitud": "-60.649167",
+    "fecha_finalizacion": "2021-12-30 00:00"
+  },
+  {
+    "fecha": "2020-09-23",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Majestic Sky",
+        "identificacion": "S/D",
+        "omi": "9582520",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto De San Lorenzo (Santa Fe)",
+    "nro_expediente": "20200923/20",
+    "latitud": "-32.735562",
+    "longitud": "-60.726516",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-09-22",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Carga general",
+        "nombre": "Kyra Panaghia",
+        "identificacion": "S/D",
+        "omi": "9647277",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 Guaz\u00fa, Altura Campana (Buenos Aires)",
+    "nro_expediente": "20200922/20",
+    "latitud": "-33.960915",
+    "longitud": "-58.742363",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-08-30",
+    "hora": "23:59",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Deportivo",
+        "nombre": "Embarcaciones varias",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Rosario (Santa Fe)",
+    "nro_expediente": "20200830/20",
+    "latitud": "-32.813124",
+    "longitud": "-60.677838",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-08-14",
+    "hora": "02:56",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Strategic Equity",
+        "identificacion": "9V2290",
+        "omi": "9689902",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Rosario (Santa Fe)",
+    "nro_expediente": "EX-2020-54798228-APN-JST#MTR",
+    "latitud": "-32.966389",
+    "longitud": "-60.616389",
+    "fecha_finalizacion": "2021-10-21 00:00"
+  },
+  {
+    "fecha": "2020-08-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Arbumasa XV",
+        "identificacion": "S/D",
+        "omi": "8916413",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Deseado (Santa Cruz)",
+    "nro_expediente": "20200805/20",
+    "latitud": "-47.754193",
+    "longitud": "-65.911488",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-08-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Empesur III",
+        "identificacion": "S/D",
+        "omi": "8716459",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Puerto Deseado (Santa Cruz)",
+    "nro_expediente": "202008051/20",
+    "latitud": "-47.754193",
+    "longitud": "-65.911488",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-08-01",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Emmanuel C",
+        "identificacion": "S/D",
+        "omi": "9394909",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1 De Las Palmas, Altura San Pedro (Buenos Aires)",
+    "nro_expediente": "20200801/20",
+    "latitud": "-33.725780",
+    "longitud": "-59.297748",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-07-13",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Yuna Orchid",
+        "identificacion": "S/D",
+        "omi": "9687136",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Ramallo (Buenos Aires)",
+    "nro_expediente": "20200713/20",
+    "latitud": "-33.481233",
+    "longitud": "-59.923737",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-07-06",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Dino",
+        "identificacion": "S/D",
+        "omi": "9392078",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Rosario (Santa Fe)",
+    "nro_expediente": "20200706/20",
+    "latitud": "-33.024270",
+    "longitud": "-60.588363",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-07-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Don Mar\u00edo",
+        "identificacion": "01400",
+        "omi": "S/D",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Aguas Interiores Mar\u00edtimas, Golfo De San Matias, Altura San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20200705/20",
+    "latitud": "-40.724727",
+    "longitud": "-64.933666",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-07-04",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Ourania  Luck",
+        "identificacion": "S/D",
+        "omi": "9218428",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Rosario (Santa Fe)",
+    "nro_expediente": "20200704/20",
+    "latitud": "-33.107662",
+    "longitud": "-60.511795",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-06-17",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Kydonia",
+        "identificacion": "S/D",
+        "omi": "9588615",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Villa Constituci\u00f3n (Santa Fe)",
+    "nro_expediente": "20200617/20",
+    "latitud": "-33.386123",
+    "longitud": "-60.069370",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-06-10",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Sumatra",
+        "identificacion": "01105",
+        "omi": "5343718",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Aguas Interiores Mar\u00edtimas, Golfo De San Mat\u00edas, Altura San Antonio Oeste (Rio Negro)",
+    "nro_expediente": "20200610/20",
+    "latitud": "-40.728055",
+    "longitud": "-64.912778",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-05-31",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Kmax Evdokia",
+        "identificacion": "S/D",
+        "omi": "9341873",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura San Nicol\u00e1s (Buenos Aires)",
+    "nro_expediente": "20200531/20",
+    "latitud": "-33.362142",
+    "longitud": "-60.133987",
+    "fecha_finalizacion": "2020-05-31 00:00"
+  },
+  {
+    "fecha": "2020-05-27",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Cofco I",
+        "identificacion": "S/D",
+        "omi": "9611709",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo Paran\u00e1, Altura Isla San Pedro (Buenos Aires)",
+    "nro_expediente": "20200527/20",
+    "latitud": "-33.619203",
+    "longitud": "-59.703103",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-05-25",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Cofco I",
+        "identificacion": "S/D",
+        "omi": "9611709",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Timb\u00faes (Santa Fe)",
+    "nro_expediente": "20200525/20",
+    "latitud": "-32.578840",
+    "longitud": "-60.779017",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-05-22",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Xiu Yu Hai",
+        "identificacion": "S/D",
+        "omi": "9751377",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad S/D (Sin Datos)",
+    "nro_expediente": "20200522/20",
+    "latitud": "0.000000",
+    "longitud": "0.000000",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-05-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Antwerpia",
+        "identificacion": "S/D",
+        "omi": "9591753",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Villa Constituci\u00f3n (Santa Fe)",
+    "nro_expediente": "20200516/20",
+    "latitud": "-33.176495",
+    "longitud": "-60.309863",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-05-16",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "MSXT Artemis",
+        "identificacion": "S/D",
+        "omi": "9723215",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Rosario (Santa Fe)",
+    "nro_expediente": "202005161/20",
+    "latitud": "-32.982635",
+    "longitud": "-60.615240",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-05-15",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Mars Harmony",
+        "identificacion": "S/D",
+        "omi": "9832432",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Rosario (Santa Fe)",
+    "nro_expediente": "20200515/20",
+    "latitud": "-33.143183",
+    "longitud": "-60.415067",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-05-12",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Api VII",
+        "identificacion": "S/D",
+        "omi": "8610849",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto Madryn (Chubut)",
+    "nro_expediente": "20200512/20",
+    "latitud": "-42.736718",
+    "longitud": "-65.032402",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-05-05",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Tenro Maru",
+        "identificacion": "S/D",
+        "omi": "9708954",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Rosario (Santa Fe)",
+    "nro_expediente": "20200505/20",
+    "latitud": "-32.973725",
+    "longitud": "-60.615912",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-03-30",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Ultra Regina",
+        "identificacion": "S/D",
+        "omi": "9667435",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona R\u00edo De La Plata, Altura Isla Mart\u00edn Garc\u00eda (Buenos Aires)",
+    "nro_expediente": "20200330/20",
+    "latitud": "-34.184539",
+    "longitud": "-58.221265",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-03-29",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "AG Valor",
+        "identificacion": "S/D",
+        "omi": "9312327",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Rosario (Santa Fe)",
+    "nro_expediente": "20200329/20",
+    "latitud": "-33.051540",
+    "longitud": "-60.567740",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-03-02",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Arni",
+        "identificacion": "S/D",
+        "omi": "S/D",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad Puerto De Ushuaia (Tierra Del Fuego, Ant\u00e1rtida E Islas Del Atl\u00e1ntico Sur)",
+    "nro_expediente": "20200302/20",
+    "latitud": "-54.809665",
+    "longitud": "-68.298472",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2020-01-24",
+    "hora": "00:00",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Granelero",
+        "nombre": "Star Athena",
+        "identificacion": "S/D",
+        "omi": "9497880",
+        "suceso": "Accidente",
+        "investigacion": false,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Localidad R\u00edo Paran\u00e1, Altura Rosario (Santa Fe)",
+    "nro_expediente": "20200124/20",
+    "latitud": "-33.046432",
+    "longitud": "-60.567826",
+    "fecha_finalizacion": "2023-12-06 00:00"
+  },
+  {
+    "fecha": "2017-06-17",
+    "hora": "12:55",
+    "estado": "Finalizada",
+    "vehiculos": [
+      {
+        "tipo": "Pesquero",
+        "nombre": "Repunte",
+        "identificacion": "01120",
+        "omi": "6603024",
+        "suceso": "Accidente Muy Grave",
+        "investigacion": true,
+        "mostrar": true
+      }
+    ],
+    "lugar": "Zona Zee, Altura Rawson (Otro)",
+    "nro_expediente": "EX-2020-41686037-APN-JST#MTR",
+    "latitud": "-43.294167",
+    "longitud": "-64.230000",
+    "fecha_finalizacion": "2022-05-05 00:00"
+  }
+]
