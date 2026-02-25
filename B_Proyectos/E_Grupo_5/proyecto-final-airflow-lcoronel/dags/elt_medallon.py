@@ -14,8 +14,8 @@ from elt.bronze import copy_raw_to_bronze
 from elt.silver_exp import transform_bronze_to_silver_expediente 
 from elt.silver_vehiculos import transform_bronze_to_silver_from_parquet 
 from elt.fact_expedientes import transform_silver_to_fact_expedientes
-#from elt.dim_vehiculos import transform_bronze_to_silver_dim_vehiculo  
-#from elt.dim_shows import build_dim_shows  
+from elt.dim_vehiculos import transform_silver_to_dim_vehiculo  
+from elt.dim_time import build_dim_time  
 #from elt.dim_networks import build_dim_networks
 #from elt.fact_episodes import build_fact_episodes          
 #from elt.send_email import send_completion_email
@@ -36,7 +36,7 @@ BRONZE_PATH = DATA_LAKE_ROOT / "bronze" / "riesgo_maritimos"
 SILVER_PATH = DATA_LAKE_ROOT / "silver" / "riesgo_maritimos"
 
 #Dim Time
-#DIM_TIME_PATH = DATA_LAKE_ROOT / "gold" / "dimensions" / "time.parquet"
+DIM_TIME_PATH = DATA_LAKE_ROOT / "gold" / "dimensions" / "tiempo.parquet"
 
 #Dim Vehiculos
 DIM_VEHICULOS_PATH = DATA_LAKE_ROOT / "gold" / "dimensions" / "vehiculos.parquet"
@@ -69,16 +69,16 @@ SILVER_VEHICULOS_PARAMS = {
 }
 
 DIM_VEHICULOS_PARAMS ={
-    "bronze_path": str(BRONZE_PATH / "riesgo_maritimos_bronze.parquet"),
+    "silver_path": str(SILVER_PATH / "vehiculos_silver.parquet"),
     "output_path": str(DIM_VEHICULOS_PATH),
 }
 
-"""
+
 DIM_TIME_PARAMS ={
-    "silver_path": str(SILVER_PATH / "tvmaze_silver.parquet"),
     "output_path": str(DIM_TIME_PATH),
 }
 
+"""
 DIM_NETWORK_PARAMS ={
     "silver_path": str(SILVER_PATH / "tvmaze_silver.parquet"),
     "output_path": str(DIM_NETWORK_PATH),
@@ -119,6 +119,14 @@ def elt_medallon_dag():
         return transform_bronze_to_silver_from_parquet(**SILVER_VEHICULOS_PARAMS)
     
     @task()
+    def dim_vehiculos():
+        return transform_silver_to_dim_vehiculo(**DIM_VEHICULOS_PARAMS)
+    
+    @task()
+    def dim_tiempo():
+        return build_dim_time(**DIM_TIME_PARAMS)
+    
+    @task()
     def fact_expedientes():
         return transform_silver_to_fact_expedientes(**EXPEDIENTE_PARAMS)
 
@@ -127,12 +135,12 @@ def elt_medallon_dag():
     b = bronze()
     s1 = silver_exp()  
     s2 = silver_vehiculos()  
-    #time = dim_time()
-    #vehiculos = dim_vehiculos()  
+    time = dim_tiempo()
+    vehiculos = dim_vehiculos()  
     fact_exp = fact_expedientes()
     #episodes = fact_episodes()
     #email = send_email_notification()
 
-    i >>  b >> s1 >>s2 >> fact_exp#>> vehiculos #[time, show, network] >> episodes >> wait_for_fact_episodes >> email
+    i >>  b >> s1 >>s2 >> vehiculos >> time >> fact_exp #>> vehiculos #[time, show, network] >> episodes >> wait_for_fact_episodes >> email
     
 elt_medallon = elt_medallon_dag()                           
