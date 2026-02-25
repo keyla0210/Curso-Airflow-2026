@@ -54,7 +54,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 92,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 281,
@@ -142,7 +142,7 @@
         "rating": {
           "average": null
         },
-        "weight": 68,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -320,7 +320,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 42,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -409,7 +409,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -498,7 +498,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -587,7 +587,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -675,7 +675,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -938,7 +938,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1113,7 +1113,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 358,
@@ -1204,7 +1204,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 358,
@@ -1289,7 +1289,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 72,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1547,7 +1547,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1715,7 +1715,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1799,7 +1799,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1883,7 +1883,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2135,7 +2135,7 @@
         "rating": {
           "average": 6.5
         },
-        "weight": 48,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -2217,7 +2217,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2302,7 +2302,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 95,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2387,7 +2387,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 95,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2472,7 +2472,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 95,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2557,7 +2557,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 95,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2642,7 +2642,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 95,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2727,7 +2727,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 95,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2814,7 +2814,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 89,
+        "weight": 96,
         "network": null,
         "webChannel": {
           "id": 310,
@@ -2899,7 +2899,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 45,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -2982,7 +2982,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -3063,7 +3063,7 @@
         "rating": {
           "average": 5.3
         },
-        "weight": 89,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -3150,7 +3150,7 @@
         "rating": {
           "average": 6.5
         },
-        "weight": 62,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -3228,7 +3228,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -3253,12 +3253,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537577",
-            "name": "Stardom in Fuji 2026 Feb."
+            "href": "https://api.tvmaze.com/episodes/3537581",
+            "name": "Stardom in Okayama 2026 Feb."
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537578",
-            "name": "Stardom in Otsu 2026 Feb."
+            "href": "https://api.tvmaze.com/episodes/3537582",
+            "name": "Stardom in Korakuen 2026 Feb."
           }
         }
       }
@@ -3312,7 +3312,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -3398,7 +3398,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -3816,7 +3816,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4083,7 +4083,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 56,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4169,7 +4169,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4259,7 +4259,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4926,7 +4926,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5088,7 +5088,7 @@
         "rating": {
           "average": null
         },
-        "weight": 5,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5170,7 +5170,7 @@
         "rating": {
           "average": null
         },
-        "weight": 35,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5410,7 +5410,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 63,
+        "weight": 76,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -5510,7 +5510,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 97,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -5593,7 +5593,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 63,
+        "weight": 76,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -5693,7 +5693,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 43,
         "network": {
           "id": 1039,
           "name": "Disney Junior",
@@ -5793,7 +5793,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 43,
         "network": {
           "id": 1039,
           "name": "Disney Junior",
@@ -5884,7 +5884,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 105,
@@ -5966,7 +5966,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 105,
@@ -6218,7 +6218,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 352,
@@ -6311,7 +6311,7 @@
         "rating": {
           "average": null
         },
-        "weight": 87,
+        "weight": 86,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -6334,18 +6334,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1771124574,
+        "updated": 1771743009,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509947",
-            "name": "Aflevering 7214"
+            "href": "https://api.tvmaze.com/episodes/3549331",
+            "name": "Aflevering 7216"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509948",
-            "name": "Aflevering 7215"
+            "href": "https://api.tvmaze.com/episodes/3549332",
+            "name": "Aflevering 7217"
           }
         }
       }
@@ -6399,7 +6399,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 15,

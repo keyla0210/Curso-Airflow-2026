@@ -52,7 +52,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 82,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -141,7 +141,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 42,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -164,7 +164,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/69/174089.jpg"
         },
         "summary": "<p>Based on the Chinese Manhua. Requiem Street, where evil spirits are attracted to in order to destroy them. A place where spirits and humans co-exist, not all humans can enter Requiem Street. Only those rare-soul users with guardian spirits can enter. Xia Ling was just a normal university intern, but a meeting by chance changes her ordinary life... In this world full of evil spirits, can you cooperate with your guardian spirit in order to survive?</p>",
-        "updated": 1744092961,
+        "updated": 1771782550,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/19660"
@@ -410,7 +410,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -499,7 +499,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -528,12 +528,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534454",
-            "name": "Telle til ti"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534455",
             "name": "Overraskelsen"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534456",
+            "name": "Hvem er hun?"
           }
         }
       }
@@ -822,7 +822,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -847,12 +847,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537577",
-            "name": "Stardom in Fuji 2026 Feb."
+            "href": "https://api.tvmaze.com/episodes/3537581",
+            "name": "Stardom in Okayama 2026 Feb."
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537578",
-            "name": "Stardom in Otsu 2026 Feb."
+            "href": "https://api.tvmaze.com/episodes/3537582",
+            "name": "Stardom in Korakuen 2026 Feb."
           }
         }
       }
@@ -913,7 +913,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 60,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 88,
@@ -1615,7 +1615,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1705,7 +1705,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2240,7 +2240,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2318,7 +2318,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -2403,7 +2403,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2567,7 +2567,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 91,
+        "weight": 90,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2664,7 +2664,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 91,
+        "weight": 90,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2765,7 +2765,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 65,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 20,
@@ -2835,7 +2835,7 @@
         "genres": [
           "Music"
         ],
-        "status": "Running",
+        "status": "To Be Determined",
         "runtime": null,
         "averageRuntime": 57,
         "premiered": "2012-01-28",
@@ -2852,7 +2852,7 @@
         "rating": {
           "average": null
         },
-        "weight": 78,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2875,18 +2875,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1374377.jpg"
         },
         "summary": "<p>Artists spend eight days together at a farm outside the city of Moss, where each artist attempts to do their own version of another artists well-known songs, with each person getting an episode featuring all of their songs being performed by the other musicians.</p>",
-        "updated": 1771438102,
+        "updated": 1771662673,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/11502"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475367",
-            "name": "Andr\u00e9 Jensen \u2013 del 2"
-          },
-          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475368",
-            "name": "Duetter \u2013 del 1"
+            "href": "https://api.tvmaze.com/episodes/3475369",
+            "name": "Duetter \u2013 del 2"
           }
         }
       }
@@ -2940,7 +2936,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 295,
@@ -3014,7 +3010,7 @@
         "genres": [
           "Music"
         ],
-        "status": "Running",
+        "status": "To Be Determined",
         "runtime": null,
         "averageRuntime": 57,
         "premiered": "2012-01-28",
@@ -3031,7 +3027,7 @@
         "rating": {
           "average": null
         },
-        "weight": 78,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3054,18 +3050,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1374377.jpg"
         },
         "summary": "<p>Artists spend eight days together at a farm outside the city of Moss, where each artist attempts to do their own version of another artists well-known songs, with each person getting an episode featuring all of their songs being performed by the other musicians.</p>",
-        "updated": 1771438102,
+        "updated": 1771662673,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/11502"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475367",
-            "name": "Andr\u00e9 Jensen \u2013 del 2"
-          },
-          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475368",
-            "name": "Duetter \u2013 del 1"
+            "href": "https://api.tvmaze.com/episodes/3475369",
+            "name": "Duetter \u2013 del 2"
           }
         }
       }
@@ -3119,7 +3111,7 @@
         "rating": {
           "average": null
         },
-        "weight": 3,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 190,

@@ -51,7 +51,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -138,7 +138,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -2163,7 +2163,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2593,7 +2593,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -3026,7 +3026,7 @@
         "rating": {
           "average": null
         },
-        "weight": 16,
+        "weight": 38,
         "network": {
           "id": 155,
           "name": "SVT1",
@@ -3114,7 +3114,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3204,7 +3204,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3295,7 +3295,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 356,
@@ -3386,7 +3386,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 356,
@@ -3477,7 +3477,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 44,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3568,7 +3568,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 44,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3737,7 +3737,7 @@
         "rating": {
           "average": null
         },
-        "weight": 65,
+        "weight": 52,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3756,7 +3756,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/51/129042.jpg"
         },
         "summary": null,
-        "updated": 1771002604,
+        "updated": 1771771466,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/10821"
@@ -3823,7 +3823,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 93,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 304,
@@ -3846,18 +3846,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/379/948363.jpg"
         },
         "summary": "<p>Voice actor Matthew Mercer leads a group of fellow voice actors on epic Dungeons &amp; Dragons campaigns. These familiar voices bring the audience into the full experience of D&amp;D, allowing imaginations to soar as the characters embark on adventures. This is <b>Critical Role</b>!</p>",
-        "updated": 1770970740,
+        "updated": 1771668224,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/13215"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3526393",
-            "name": "Flight to Castle Torch"
+            "href": "https://api.tvmaze.com/episodes/3526394",
+            "name": "Visions of Shadow & Stone"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3526394",
-            "name": "Episode 16"
+            "href": "https://api.tvmaze.com/episodes/3554619",
+            "name": "Episode 17"
           }
         }
       }
@@ -3915,7 +3915,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3999,7 +3999,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4155,7 +4155,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4235,7 +4235,7 @@
         "rating": {
           "average": null
         },
-        "weight": 53,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4318,7 +4318,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4337,18 +4337,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/204/511597.jpg"
         },
         "summary": "<p>The author's journalistic program of Alexey Pivovarov, where he asks questions and interviews guests, makes reports on actual themes, as well as on entertaining topics.</p>",
-        "updated": 1771352547,
+        "updated": 1771660311,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42899"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3551246",
-            "name": "Telegram \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0442. \u0418\u043b\u0438 \u043d\u0435\u0442?"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3532247",
             "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 209-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3554114",
+            "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 210-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
           }
         }
       }
@@ -4491,7 +4491,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 28,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4576,7 +4576,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4661,7 +4661,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4746,7 +4746,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4831,7 +4831,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4916,7 +4916,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5001,7 +5001,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5086,7 +5086,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5171,7 +5171,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5256,7 +5256,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5341,7 +5341,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5426,7 +5426,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5511,7 +5511,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5783,7 +5783,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -5873,7 +5873,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -5970,7 +5970,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6063,7 +6063,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6147,7 +6147,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6389,7 +6389,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -6473,7 +6473,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -6640,7 +6640,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6724,7 +6724,7 @@
         "rating": {
           "average": null
         },
-        "weight": 92,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -6739,11 +6739,11 @@
           "imdb": "tt9646546"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/607/1518046.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/607/1518046.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/615/1538050.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/615/1538050.jpg"
         },
         "summary": "<p>Heed the call of adventure and enter <b>Dimension 20</b> where Game Master Brennan Lee Mulligan, joined by comedians and pro gamers, blends comedy with tabletop RPGs.</p>",
-        "updated": 1770854820,
+        "updated": 1771895187,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/56531"
@@ -6807,7 +6807,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6884,7 +6884,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 15,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -6967,7 +6967,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7050,7 +7050,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7133,7 +7133,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7216,7 +7216,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7299,7 +7299,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7382,7 +7382,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7465,7 +7465,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7548,7 +7548,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7631,7 +7631,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7714,7 +7714,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7797,7 +7797,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -7880,7 +7880,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 7,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -8133,7 +8133,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -8215,7 +8215,7 @@
         "rating": {
           "average": null
         },
-        "weight": 1,
+        "weight": 4,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -8297,7 +8297,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -8316,14 +8316,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1532749.jpg"
         },
         "summary": "<p><b>Kill Tony</b>, a live podcast taped in Austin, Texas and all over the world. Aspiring comedians are randomly drawn from a bucket to perform a one-minute set, followed immediately by an interview and feedback from Tony Hinchcliffe, Brian Redban, and celebrity guests.</p>",
-        "updated": 1771301795,
+        "updated": 1771890566,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/90266"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3550178",
-            "name": "#756 - JIM NORTON + IAN FIDANCE"
+            "href": "https://api.tvmaze.com/episodes/3556246",
+            "name": "#757 - MATT RIFE + JEREMY (ADAM RAY)"
           }
         }
       }
@@ -8579,7 +8579,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 15,
@@ -8598,14 +8598,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/233/584404.jpg"
         },
         "summary": "<p><b>WWE Main Event</b> is a professional wrestling television program produced by WWE that originally aired on Ion Television in the United States and it originally aired on the WWE Network now airing on Hulu.</p>",
-        "updated": 1741147572,
+        "updated": 1771618591,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/16753"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3135743",
-            "name": "Main Event 691"
+            "href": "https://api.tvmaze.com/episodes/3554311",
+            "name": "Main Event 699"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3554312",
+            "name": "Main Event 700"
           }
         }
       }
@@ -8659,7 +8663,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -8741,7 +8745,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 105,
@@ -8997,7 +9001,7 @@
         "rating": {
           "average": 6.2
         },
-        "weight": 96,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 107,
@@ -9082,7 +9086,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 92,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 107,
@@ -9428,7 +9432,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 485,
@@ -9685,7 +9689,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -9778,7 +9782,7 @@
         "rating": {
           "average": null
         },
-        "weight": 87,
+        "weight": 86,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -9801,18 +9805,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1771124574,
+        "updated": 1771743009,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509947",
-            "name": "Aflevering 7214"
+            "href": "https://api.tvmaze.com/episodes/3549331",
+            "name": "Aflevering 7216"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509948",
-            "name": "Aflevering 7215"
+            "href": "https://api.tvmaze.com/episodes/3549332",
+            "name": "Aflevering 7217"
           }
         }
       }
@@ -9871,7 +9875,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 103,

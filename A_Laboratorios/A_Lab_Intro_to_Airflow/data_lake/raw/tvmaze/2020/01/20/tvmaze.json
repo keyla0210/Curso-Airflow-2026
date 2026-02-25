@@ -1129,7 +1129,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1213,7 +1213,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1298,7 +1298,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -1387,7 +1387,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -1561,7 +1561,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -1816,7 +1816,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 72,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1903,7 +1903,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 352,
@@ -1990,7 +1990,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 352,
@@ -2077,7 +2077,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 352,
@@ -2164,7 +2164,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 352,
@@ -2251,7 +2251,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 352,
@@ -2338,7 +2338,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 352,
@@ -2512,7 +2512,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2772,7 +2772,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2858,7 +2858,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2946,7 +2946,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3026,7 +3026,7 @@
         "rating": {
           "average": null
         },
-        "weight": 57,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3189,7 +3189,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 202,
@@ -4117,7 +4117,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4207,7 +4207,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4293,7 +4293,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4312,18 +4312,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1771414244,
+        "updated": 1771761461,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3543541",
-            "name": "02/18/2026"
+            "href": "https://api.tvmaze.com/episodes/3549003",
+            "name": "02/23/2026"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3543542",
-            "name": "02/19/2026"
+            "href": "https://api.tvmaze.com/episodes/3549004",
+            "name": "02/24/2026"
           }
         }
       }
@@ -4375,7 +4375,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4394,14 +4394,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1771414252,
+        "updated": 1771761471,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3551455",
-            "name": "Is This The Cringiest Thing You Can Put On A Gift?"
+            "href": "https://api.tvmaze.com/episodes/3555336",
+            "name": "Blindfold Grocery Challenge"
           }
         }
       }
@@ -4625,7 +4625,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5403,7 +5403,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5571,7 +5571,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -5649,7 +5649,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -5733,7 +5733,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -5813,7 +5813,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -5897,7 +5897,7 @@
         "rating": {
           "average": null
         },
-        "weight": 15,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6059,7 +6059,7 @@
         "rating": {
           "average": null
         },
-        "weight": 10,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6223,7 +6223,7 @@
         "rating": {
           "average": null
         },
-        "weight": 5,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6307,7 +6307,7 @@
         "rating": {
           "average": null
         },
-        "weight": 53,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6389,7 +6389,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6408,14 +6408,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1532749.jpg"
         },
         "summary": "<p><b>Kill Tony</b>, a live podcast taped in Austin, Texas and all over the world. Aspiring comedians are randomly drawn from a bucket to perform a one-minute set, followed immediately by an interview and feedback from Tony Hinchcliffe, Brian Redban, and celebrity guests.</p>",
-        "updated": 1771301795,
+        "updated": 1771890566,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/90266"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3550178",
-            "name": "#756 - JIM NORTON + IAN FIDANCE"
+            "href": "https://api.tvmaze.com/episodes/3556246",
+            "name": "#757 - MATT RIFE + JEREMY (ADAM RAY)"
           }
         }
       }
@@ -6675,7 +6675,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 32,
@@ -6761,7 +6761,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 32,
@@ -7121,7 +7121,7 @@
         "rating": {
           "average": null
         },
-        "weight": 74,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 187,
@@ -7208,7 +7208,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -7292,7 +7292,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -7385,7 +7385,7 @@
         "rating": {
           "average": null
         },
-        "weight": 87,
+        "weight": 86,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -7408,18 +7408,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1771124574,
+        "updated": 1771743009,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509947",
-            "name": "Aflevering 7214"
+            "href": "https://api.tvmaze.com/episodes/3549331",
+            "name": "Aflevering 7216"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509948",
-            "name": "Aflevering 7215"
+            "href": "https://api.tvmaze.com/episodes/3549332",
+            "name": "Aflevering 7217"
           }
         }
       }
@@ -7473,7 +7473,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7555,7 +7555,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 301,
@@ -7639,7 +7639,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 97,
+        "weight": 96,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -7658,18 +7658,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1377130.jpg"
         },
         "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-        "updated": 1771298499,
+        "updated": 1771898236,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/802"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3434346",
-            "name": "#1708 - FedExForum in Memphis, TN"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3434347",
             "name": "#1709 - State Farm Arena in Atlanta, GA"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3434348",
+            "name": "#1710 - Gainbridge Fieldhouse in Indianapolis, IN"
           }
         }
       }

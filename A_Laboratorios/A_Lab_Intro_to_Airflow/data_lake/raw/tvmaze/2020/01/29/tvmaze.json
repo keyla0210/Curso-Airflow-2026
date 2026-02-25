@@ -133,7 +133,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 208,
@@ -942,7 +942,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1028,7 +1028,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 8,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1117,7 +1117,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1146,12 +1146,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534454",
-            "name": "Telle til ti"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534455",
             "name": "Overraskelsen"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534456",
+            "name": "Hvem er hun?"
           }
         }
       }
@@ -1208,7 +1208,7 @@
         "rating": {
           "average": null
         },
-        "weight": 16,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1559,7 +1559,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 91,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 170,
@@ -1649,7 +1649,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1905,7 +1905,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1991,7 +1991,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2334,7 +2334,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2418,7 +2418,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2500,7 +2500,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2908,7 +2908,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2998,7 +2998,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3243,7 +3243,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3262,18 +3262,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1771414244,
+        "updated": 1771761461,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3543541",
-            "name": "02/18/2026"
+            "href": "https://api.tvmaze.com/episodes/3549003",
+            "name": "02/23/2026"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3543542",
-            "name": "02/19/2026"
+            "href": "https://api.tvmaze.com/episodes/3549004",
+            "name": "02/24/2026"
           }
         }
       }
@@ -3325,7 +3325,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3344,14 +3344,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1771414252,
+        "updated": 1771761471,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3551455",
-            "name": "Is This The Cringiest Thing You Can Put On A Gift?"
+            "href": "https://api.tvmaze.com/episodes/3555336",
+            "name": "Blindfold Grocery Challenge"
           }
         }
       }
@@ -3407,7 +3407,7 @@
         "rating": {
           "average": null
         },
-        "weight": 51,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 304,
@@ -5076,7 +5076,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 28,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5908,7 +5908,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5988,7 +5988,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6069,7 +6069,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -6159,7 +6159,7 @@
         "rating": {
           "average": null
         },
-        "weight": 60,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -6244,7 +6244,7 @@
         "rating": {
           "average": null
         },
-        "weight": 74,
+        "weight": 77,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6328,7 +6328,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 8,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6408,7 +6408,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 8,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6490,7 +6490,7 @@
         "rating": {
           "average": null
         },
-        "weight": 57,
+        "weight": 14,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6654,7 +6654,7 @@
         "rating": {
           "average": null
         },
-        "weight": 5,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7017,7 +7017,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 85,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 135,
@@ -7103,7 +7103,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 347,
@@ -7193,7 +7193,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 78,
         "network": {
           "id": 76,
           "name": "TV Tokyo",
@@ -7293,7 +7293,7 @@
         "rating": {
           "average": null
         },
-        "weight": 74,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 187,
@@ -7381,7 +7381,7 @@
         "rating": {
           "average": null
         },
-        "weight": 92,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -7396,11 +7396,11 @@
           "imdb": "tt9646546"
         },
         "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/607/1518046.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/607/1518046.jpg"
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/615/1538050.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/615/1538050.jpg"
         },
         "summary": "<p>Heed the call of adventure and enter <b>Dimension 20</b> where Game Master Brennan Lee Mulligan, joined by comedians and pro gamers, blends comedy with tabletop RPGs.</p>",
-        "updated": 1770854820,
+        "updated": 1771895187,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/56531"
@@ -7461,7 +7461,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 2,
         "network": null,
         "webChannel": {
           "id": 420,
@@ -7545,7 +7545,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 197,
@@ -7629,7 +7629,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 197,
@@ -7718,7 +7718,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 55,
         "network": {
           "id": 1058,
           "name": "TV3",
@@ -7806,7 +7806,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -7899,7 +7899,7 @@
         "rating": {
           "average": null
         },
-        "weight": 87,
+        "weight": 86,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -7922,18 +7922,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1771124574,
+        "updated": 1771743009,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509947",
-            "name": "Aflevering 7214"
+            "href": "https://api.tvmaze.com/episodes/3549331",
+            "name": "Aflevering 7216"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509948",
-            "name": "Aflevering 7215"
+            "href": "https://api.tvmaze.com/episodes/3549332",
+            "name": "Aflevering 7217"
           }
         }
       }
@@ -7992,7 +7992,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -8072,7 +8072,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 93,
+        "weight": 92,
         "network": {
           "id": 5,
           "name": "The CW",
@@ -8167,7 +8167,7 @@
         "rating": {
           "average": 5.6
         },
-        "weight": 82,
+        "weight": 62,
         "network": {
           "id": 132,
           "name": "Tokyo MX",

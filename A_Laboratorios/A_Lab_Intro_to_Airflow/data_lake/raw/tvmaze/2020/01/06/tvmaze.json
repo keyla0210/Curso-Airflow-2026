@@ -215,7 +215,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 80,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -302,7 +302,7 @@
         "rating": {
           "average": null
         },
-        "weight": 10,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -657,7 +657,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -741,7 +741,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -827,7 +827,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -917,7 +917,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1091,7 +1091,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -1346,7 +1346,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 72,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1690,7 +1690,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1782,7 +1782,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1868,7 +1868,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2124,7 +2124,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2208,7 +2208,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2288,7 +2288,7 @@
         "rating": {
           "average": null
         },
-        "weight": 57,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2540,7 +2540,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2628,7 +2628,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2717,7 +2717,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 81,
+        "weight": 58,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -2819,7 +2819,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 81,
+        "weight": 58,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -2915,7 +2915,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4231,7 +4231,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -4315,7 +4315,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -4395,7 +4395,7 @@
         "rating": {
           "average": null
         },
-        "weight": 15,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4559,7 +4559,7 @@
         "rating": {
           "average": null
         },
-        "weight": 5,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4639,7 +4639,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4658,14 +4658,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1771414233,
+        "updated": 1771761453,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3551453",
-            "name": "#2455 - Donnell Rawlings"
+            "href": "https://api.tvmaze.com/episodes/3555334",
+            "name": "#2458 - Matt McCusker"
           }
         }
       }
@@ -4721,7 +4721,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4740,14 +4740,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1532749.jpg"
         },
         "summary": "<p><b>Kill Tony</b>, a live podcast taped in Austin, Texas and all over the world. Aspiring comedians are randomly drawn from a bucket to perform a one-minute set, followed immediately by an interview and feedback from Tony Hinchcliffe, Brian Redban, and celebrity guests.</p>",
-        "updated": 1771301795,
+        "updated": 1771890566,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/90266"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3550178",
-            "name": "#756 - JIM NORTON + IAN FIDANCE"
+            "href": "https://api.tvmaze.com/episodes/3556246",
+            "name": "#757 - MATT RIFE + JEREMY (ADAM RAY)"
           }
         }
       }
@@ -5007,7 +5007,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 32,
@@ -5093,7 +5093,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 32,
@@ -5175,7 +5175,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 105,
@@ -5346,7 +5346,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 77,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 13,
@@ -5433,7 +5433,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -5516,7 +5516,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -5686,7 +5686,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -5779,7 +5779,7 @@
         "rating": {
           "average": null
         },
-        "weight": 87,
+        "weight": 86,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -5802,18 +5802,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1771124574,
+        "updated": 1771743009,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509947",
-            "name": "Aflevering 7214"
+            "href": "https://api.tvmaze.com/episodes/3549331",
+            "name": "Aflevering 7216"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509948",
-            "name": "Aflevering 7215"
+            "href": "https://api.tvmaze.com/episodes/3549332",
+            "name": "Aflevering 7217"
           }
         }
       }
@@ -5867,7 +5867,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6038,7 +6038,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 301,
@@ -6122,7 +6122,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 97,
+        "weight": 96,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6141,18 +6141,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1377130.jpg"
         },
         "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-        "updated": 1771298499,
+        "updated": 1771898208,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/802"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3434346",
-            "name": "#1708 - FedExForum in Memphis, TN"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3434347",
             "name": "#1709 - State Farm Arena in Atlanta, GA"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3434348",
+            "name": "#1710 - Gainbridge Fieldhouse in Indianapolis, IN"
           }
         }
       }

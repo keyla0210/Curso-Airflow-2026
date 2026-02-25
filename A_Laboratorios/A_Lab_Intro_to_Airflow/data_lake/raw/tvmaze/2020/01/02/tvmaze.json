@@ -45,7 +45,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 56,
@@ -133,7 +133,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -220,7 +220,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -1021,7 +1021,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1367,7 +1367,7 @@
         "rating": {
           "average": null
         },
-        "weight": 19,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -1713,7 +1713,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1804,7 +1804,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 356,
@@ -1895,7 +1895,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 356,
@@ -1985,7 +1985,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 79,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -2069,7 +2069,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2153,7 +2153,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2309,7 +2309,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2387,7 +2387,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -2412,12 +2412,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537577",
-            "name": "Stardom in Fuji 2026 Feb."
+            "href": "https://api.tvmaze.com/episodes/3537581",
+            "name": "Stardom in Okayama 2026 Feb."
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537578",
-            "name": "Stardom in Otsu 2026 Feb."
+            "href": "https://api.tvmaze.com/episodes/3537582",
+            "name": "Stardom in Korakuen 2026 Feb."
           }
         }
       }
@@ -2474,7 +2474,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2493,18 +2493,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/204/511597.jpg"
         },
         "summary": "<p>The author's journalistic program of Alexey Pivovarov, where he asks questions and interviews guests, makes reports on actual themes, as well as on entertaining topics.</p>",
-        "updated": 1771352547,
+        "updated": 1771660311,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42899"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3551246",
-            "name": "Telegram \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0442. \u0418\u043b\u0438 \u043d\u0435\u0442?"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3532247",
             "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 209-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3554114",
+            "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 210-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
           }
         }
       }
@@ -2647,7 +2647,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 28,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3402,7 +3402,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3492,7 +3492,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3589,7 +3589,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -3682,7 +3682,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -3767,7 +3767,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3852,7 +3852,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 382,
@@ -3937,7 +3937,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 382,
@@ -4022,7 +4022,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 382,
@@ -4107,7 +4107,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 382,
@@ -4192,7 +4192,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 382,
@@ -4276,7 +4276,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4360,7 +4360,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4444,7 +4444,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4528,7 +4528,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4612,7 +4612,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4696,7 +4696,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4938,7 +4938,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -5022,7 +5022,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -5108,7 +5108,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5188,7 +5188,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 540,
@@ -5272,7 +5272,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 15,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -5710,7 +5710,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 15,
@@ -5729,14 +5729,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/233/584404.jpg"
         },
         "summary": "<p><b>WWE Main Event</b> is a professional wrestling television program produced by WWE that originally aired on Ion Television in the United States and it originally aired on the WWE Network now airing on Hulu.</p>",
-        "updated": 1741147572,
+        "updated": 1771618591,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/16753"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3135743",
-            "name": "Main Event 691"
+            "href": "https://api.tvmaze.com/episodes/3554311",
+            "name": "Main Event 699"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3554312",
+            "name": "Main Event 700"
           }
         }
       }
@@ -5790,7 +5794,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -5872,7 +5876,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 105,
@@ -5954,7 +5958,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 105,
@@ -6210,7 +6214,7 @@
         "rating": {
           "average": 6.2
         },
-        "weight": 96,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 107,
@@ -6288,7 +6292,7 @@
         "rating": {
           "average": null
         },
-        "weight": 47,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 420,
@@ -6370,7 +6374,7 @@
         "rating": {
           "average": null
         },
-        "weight": 47,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 420,
@@ -6452,7 +6456,7 @@
         "rating": {
           "average": null
         },
-        "weight": 47,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 420,
@@ -6534,7 +6538,7 @@
         "rating": {
           "average": null
         },
-        "weight": 47,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 420,
@@ -6623,7 +6627,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 485,
@@ -6716,7 +6720,7 @@
         "rating": {
           "average": null
         },
-        "weight": 87,
+        "weight": 86,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -6739,18 +6743,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1771124574,
+        "updated": 1771743009,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509947",
-            "name": "Aflevering 7214"
+            "href": "https://api.tvmaze.com/episodes/3549331",
+            "name": "Aflevering 7216"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509948",
-            "name": "Aflevering 7215"
+            "href": "https://api.tvmaze.com/episodes/3549332",
+            "name": "Aflevering 7217"
           }
         }
       }
@@ -6889,7 +6893,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 103,

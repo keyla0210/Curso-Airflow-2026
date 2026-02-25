@@ -51,7 +51,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -229,7 +229,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 135,
@@ -252,7 +252,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/612/1531162.jpg"
         },
         "summary": "<p>Since she was very young, Kasumi Toyama has always been searching for the \"Star Beat\", a sparkling and exciting sound she heard while looking up at the night sky. Just after getting into high school, Kasumi comes across a \"star-shaped guitar\" in the storage area of an old pawn shop. Feeling a rush and excitement she has never felt before, Kasumi teams up with four other girls and embarks on a journey to seek out the shiny place. We promise to perform a live here!</p>",
-        "updated": 1771052505,
+        "updated": 1771587407,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/23577"
@@ -580,7 +580,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -664,7 +664,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -747,7 +747,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1360,7 +1360,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1448,7 +1448,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1536,7 +1536,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1624,7 +1624,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1712,7 +1712,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1886,7 +1886,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1972,7 +1972,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 12,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2224,7 +2224,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2243,14 +2243,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115863.jpg"
         },
         "summary": "<p>Trailers that tell you the TRUTH about your favorite Video Games ! These are the hilarious trailers the game developers don't want you to see...</p>",
-        "updated": 1765352633,
+        "updated": 1771669188,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/13381"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3468847",
-            "name": "Arc Raiders"
+            "href": "https://api.tvmaze.com/episodes/3554662",
+            "name": "Where Winds Meet"
           }
         }
       }
@@ -2306,7 +2306,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 83,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2390,7 +2390,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2474,7 +2474,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2717,7 +2717,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2795,7 +2795,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2964,7 +2964,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 81,
+        "weight": 58,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -3066,7 +3066,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 81,
+        "weight": 58,
         "network": {
           "id": 297,
           "name": "CCTV-8",
@@ -3519,7 +3519,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3599,7 +3599,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3771,7 +3771,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3858,7 +3858,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -4098,7 +4098,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4117,14 +4117,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1771414233,
+        "updated": 1771761453,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3551453",
-            "name": "#2455 - Donnell Rawlings"
+            "href": "https://api.tvmaze.com/episodes/3555334",
+            "name": "#2458 - Matt McCusker"
           }
         }
       }
@@ -4456,7 +4456,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 105,
@@ -4631,7 +4631,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -4724,7 +4724,7 @@
         "rating": {
           "average": null
         },
-        "weight": 87,
+        "weight": 86,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -4747,18 +4747,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1771124574,
+        "updated": 1771743009,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509947",
-            "name": "Aflevering 7214"
+            "href": "https://api.tvmaze.com/episodes/3549331",
+            "name": "Aflevering 7216"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509948",
-            "name": "Aflevering 7215"
+            "href": "https://api.tvmaze.com/episodes/3549332",
+            "name": "Aflevering 7217"
           }
         }
       }
@@ -4817,7 +4817,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -4981,7 +4981,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -5065,7 +5065,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 5,
         "network": null,
         "webChannel": {
           "id": 102,
